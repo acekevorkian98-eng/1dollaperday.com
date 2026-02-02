@@ -430,3 +430,85 @@ document.addEventListener('DOMContentLoaded', function() {
         newsletterForm.addEventListener('submit', handleNewsletterSubmit);
     }
 });
+
+// ============================================
+// PROMO POPUP
+// ============================================
+function initPromoPopup() {
+    // Check if popup was already shown this session
+    if (sessionStorage.getItem('promoPopupShown')) {
+        return;
+    }
+
+    // Get base path by finding the script's location
+    const scripts = document.querySelectorAll('script[src*="main.js"]');
+    let basePath = '';
+    if (scripts.length > 0) {
+        const scriptSrc = scripts[0].getAttribute('src');
+        // scriptSrc is like "assets/js/main.js" or "../assets/js/main.js"
+        basePath = scriptSrc.replace('assets/js/main.js', '');
+    }
+    const imagePath = basePath + '468px_en.jpg';
+
+    // Create popup HTML
+    const popupHTML = `
+        <div class="promo-popup-overlay" id="promoPopup">
+            <div class="promo-popup">
+                <button class="promo-popup-close" onclick="closePromoPopup()" aria-label="Close">&times;</button>
+                <div class="promo-popup-header">
+                    <h3>Today's Best Pick!</h3>
+                </div>
+                <div class="promo-popup-content">
+                    <a href="https://luckywatch.pro/u/0parm" target="_blank" rel="noopener">
+                        <img src="${imagePath}" alt="LuckyWatch - Earn crypto watching videos">
+                    </a>
+                    <a href="https://luckywatch.pro/u/0parm" target="_blank" rel="noopener" class="promo-popup-cta">
+                        Start Earning Now
+                    </a>
+                </div>
+            </div>
+        </div>
+    `;
+
+    // Insert popup into page
+    document.body.insertAdjacentHTML('beforeend', popupHTML);
+
+    // Show popup after a short delay
+    setTimeout(() => {
+        const popup = document.getElementById('promoPopup');
+        if (popup) {
+            popup.classList.add('active');
+        }
+    }, 500);
+
+    // Mark as shown for this session
+    sessionStorage.setItem('promoPopupShown', 'true');
+}
+
+function closePromoPopup() {
+    const popup = document.getElementById('promoPopup');
+    if (popup) {
+        popup.classList.remove('active');
+        // Remove from DOM after animation
+        setTimeout(() => {
+            popup.remove();
+        }, 300);
+    }
+}
+
+// Close popup when clicking overlay (outside the popup box)
+document.addEventListener('click', function(e) {
+    if (e.target.classList.contains('promo-popup-overlay')) {
+        closePromoPopup();
+    }
+});
+
+// Close popup on Escape key
+document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') {
+        closePromoPopup();
+    }
+});
+
+// Initialize popup on page load
+document.addEventListener('DOMContentLoaded', initPromoPopup);
