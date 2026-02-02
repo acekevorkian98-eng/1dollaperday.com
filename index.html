@@ -17,20 +17,29 @@
     <meta property="og:url" content="">
     <!-- og:image - Add your social share image URL here -->
     
-    <!-- CONSENT UPDATE -->
-    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="65a4e9af-e9b8-42c6-9212-649f468f91ae" type="text/javascript" async></script>
+    <!-- Cookiebot first -->
+    <script id="Cookiebot"
+            src="https://consent.cookiebot.com/uc.js"
+            data-cbid="65a4e9af-e9b8-42c6-9212-649f468f91ae"
+            data-blockingmode="auto"
+            type="text/javascript">
+    </script>
     
-    <!-- Canonical URL - Update with your actual domain -->
-    <link rel="canonical" href="">
-    <!-- Google tag (gtag.js) -->
+    <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-MLS6E270KY"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
     
+      // Consent will automatically control GA data collection
       gtag('config', 'G-MLS6E270KY');
     </script>
+
+    
+    <!-- Canonical URL - Update with your actual domain -->
+    <link rel="canonical" href="">
+    
 
     <!-- Favicon placeholder -->
     <!-- <link rel="icon" href="assets/images/favicon.ico"> -->
