@@ -2,7 +2,18 @@
 <html lang="en">
 <head>
     <!-- Cookiebot - MUST be first script -->
-	<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="cfb0435d-f8e9-48a8-82cf-8a976e78d401" data-blockingmode="auto" type="text/javascript"></script>
+    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js"
+            data-cbid="65a4e9af-e9b8-42c6-9212-649f468f91ae"
+            data-blockingmode="auto" type="text/javascript">
+    </script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KK96XDSZ');</script>
+    <!-- End Google Tag Manager -->
 
     <!-- Google Analytics (Consent Managed via Cookiebot) -->
     <script type="text/plain" data-cookieconsent="statistics" async src="https://www.googletagmanager.com/gtag/js?id=G-MLS6E270KY"></script>
@@ -141,6 +152,11 @@
     </script>
 </head>
 <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KK96XDSZ"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
     <!-- HEADER -->
     <header class="site-header">
         <div class="container">
@@ -159,24 +175,36 @@
             </div>
         </div>
         <div class="container">
-            <!-- AD SLOT: Banner Top -->
-            <div class="ad-placeholder banner">
-                <!-- AD SLOT: Banner Top -->
+            <!-- AD SLOT: Header Banner (responsive - hidden on mobile via CSS) -->
+            <div class="ad-placeholder header leaderboard">
+                <!-- Manual ads loaded via ads-config.js, falls back to AdSense -->
                 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9986267429592601"
-				     crossorigin="anonymous"></script>
-				<ins class="adsbygoogle"
-				     style="display:inline-block;width:728px;height:90px"
-				     data-ad-client="ca-pub-9986267429592601"
-				     data-ad-slot="8285211630"></ins>
-				<script>
-				     (adsbygoogle = window.adsbygoogle || []).push({});
-				</script>
+                     crossorigin="anonymous"></script>
+                <ins class="adsbygoogle"
+                     style="display:block;max-width:728px;height:90px;margin:0 auto"
+                     data-ad-client="ca-pub-9986267429592601"
+                     data-ad-slot="8285211630"
+                     data-ad-format="horizontal"
+                     data-full-width-responsive="true"></ins>
+                <script>
+                     (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
             </div>
         </div>
     </header>
 
     <!-- MAIN CONTENT -->
     <main class="container">
+        <!-- LATEST REVIEW BANNER -->
+        <section class="latest-review-banner">
+            <span class="latest-badge">NEW REVIEW</span>
+            <div class="latest-content">
+                <h3>LuckyWatch Review</h3>
+                <p>Earn crypto by watching ads - is it worth your time? We tested it for a month.</p>
+                <a href="reviews/luckywatch.html" class="btn btn-sm">Read Review</a>
+            </div>
+        </section>
+
         <!-- HERO SECTION -->
         <section class="hero">
             <div class="hero-badge">Honest Reviews Since 2025</div>
@@ -185,6 +213,54 @@
             <div style="margin-top: 1.5rem; display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
                 <a href="guides/getting-started.html" class="btn btn-primary">Get Started</a>
                 <a href="reviews/index.html" class="btn btn-secondary">Browse Reviews</a>
+            </div>
+        </section>
+
+        <!-- EARNINGS SHOWCASE -->
+        <section class="earnings-showcase">
+            <div class="earnings-card">
+                <div class="earnings-header">
+                    <span class="live-badge">My Actual Earnings</span>
+                    <span class="last-updated">Updated: January 2025</span>
+                </div>
+                <div class="earnings-display">
+                    <div class="earnings-main">
+                        <span class="amount">$1.05</span>
+                        <span class="period">/ day average</span>
+                    </div>
+                    <p class="earnings-note">This is what I actually earn following my daily routine across multiple platforms.</p>
+                    <div class="earnings-breakdown">
+                        <div class="earning-bar">
+                            <span class="source">Faucets</span>
+                            <div class="bar-container">
+                                <div class="bar-fill" style="width: 24%"></div>
+                            </div>
+                            <span class="bar-amount">$0.25</span>
+                        </div>
+                        <div class="earning-bar">
+                            <span class="source">PTC Ads</span>
+                            <div class="bar-container">
+                                <div class="bar-fill" style="width: 14%"></div>
+                            </div>
+                            <span class="bar-amount">$0.15</span>
+                        </div>
+                        <div class="earning-bar">
+                            <span class="source">Offerwalls</span>
+                            <div class="bar-container">
+                                <div class="bar-fill" style="width: 43%"></div>
+                            </div>
+                            <span class="bar-amount">$0.45</span>
+                        </div>
+                        <div class="earning-bar">
+                            <span class="source">Passive</span>
+                            <div class="bar-container">
+                                <div class="bar-fill" style="width: 19%"></div>
+                            </div>
+                            <span class="bar-amount">$0.20</span>
+                        </div>
+                    </div>
+                </div>
+                <a href="guides/daily-guide.html" class="btn btn-primary btn-large">Follow My Daily Routine</a>
             </div>
         </section>
 
@@ -672,13 +748,15 @@
                     <a href="pages/offers.html">Offers</a>
                     <a href="reviews/index.html">Reviews</a>
                     <a href="guides/index.html">Guides</a>
+                    <span class="footer-separator">|</span>
+                    <a href="pages/about.html">About</a>
+                    <a href="pages/privacy.html">Privacy</a>
+                    <a href="pages/disclaimer.html">Disclaimer</a>
+                    <a href="pages/contact.html">Contact</a>
                 </nav>
 
                 <p class="footer-disclaimer">
-                    <strong>Disclaimer:</strong> This site provides information about online earning methods.
-                    We make no guarantees about earnings. Most methods described yield very small amounts
-                    and require significant time investment. Always research thoroughly before joining any
-                    platform. Some links may be referral links.
+                    <strong>Disclaimer:</strong> This site provides information about micro-earning opportunities. Results vary. Some links are referral links - see our <a href="pages/disclaimer.html">full disclaimer</a>.
                 </p>
 
                 <p class="text-small text-muted" style="margin-top: 1rem;">
@@ -690,12 +768,6 @@
 
     <!-- SCRIPTS -->
     <script src="assets/js/main.js"></script>
-
-    <!--
-        ANALYTICS PLACEHOLDER
-        =====================
-        Add your analytics tracking code here.
-        Google Analytics, Plausible, Fathom, etc.
-    -->
+    <script src="assets/js/ads-config.js"></script>
 </body>
 </html>
