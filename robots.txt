@@ -7,8 +7,11 @@ Allow: /
 # Sitemap location
 Sitemap: https://1perday.com/sitemap.xml
 
-# Disallow admin or private directories (if any)
+# Disallow admin, private, and sensitive files
 Disallow: /_template
+Disallow: /reviews/_template.html
+Disallow: /admin-referral-tracker.html
+Disallow: /referral-links.csv
 
 # Allow all major search engines
 User-agent: Googlebot

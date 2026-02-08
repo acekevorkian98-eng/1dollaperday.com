@@ -8,7 +8,7 @@
     </script>
 
     <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    <script type="text/plain" data-cookieconsent="statistics">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -45,10 +45,11 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>$</text></svg>">
 
     <style>
         .contact-form {
-            background: var(--card-bg);
+            background: var(--bg-subtle);
             border: 1px solid var(--border);
             border-radius: 8px;
             padding: 2rem;
@@ -146,7 +147,7 @@
         }
 
         .contact-method {
-            background: var(--card-bg);
+            background: var(--bg-subtle);
             border: 1px solid var(--border);
             border-radius: 8px;
             padding: 1.5rem;
@@ -343,14 +344,13 @@
                 <p class="footer-disclaimer">
                     <strong>Disclaimer:</strong> This site provides information about micro-earning opportunities. Results vary. Some links are referral links - see our <a href="disclaimer.html">full disclaimer</a>.
                 </p>
-                <p class="text-small text-muted" style="margin-top: 1rem;">&copy; 2025 $1perday!</p>
+                <p class="text-small text-muted" style="margin-top: 1rem;">&copy; 2026 $1perday!</p>
             </div>
         </div>
     </footer>
 
     <script src="../assets/js/main.js"></script>
     <script>
-        // Simple contact form handler
         document.getElementById('contact-form').addEventListener('submit', function(e) {
             e.preventDefault();
 
@@ -359,51 +359,34 @@
             const successMsg = document.getElementById('form-success');
             const errorMsg = document.getElementById('form-error');
 
-            // Collect form data
-            const formData = {
-                name: form.name.value,
-                email: form.email.value,
-                subject: form.subject.value,
-                message: form.message.value,
-                timestamp: new Date().toISOString()
-            };
-
-            // Disable submit button
             submitBtn.disabled = true;
             submitBtn.textContent = 'Sending...';
-
-            // Hide any previous messages
             successMsg.style.display = 'none';
             errorMsg.style.display = 'none';
 
-            // For now, use mailto fallback (can be replaced with form service later)
-            const mailtoSubject = encodeURIComponent(`[1perday Contact] ${formData.subject}`);
-            const mailtoBody = encodeURIComponent(
-                `Name: ${formData.name}\n` +
-                `Email: ${formData.email}\n` +
-                `Subject: ${formData.subject}\n\n` +
-                `Message:\n${formData.message}`
-            );
+            const formData = new FormData(form);
 
-            // Store in localStorage as backup
-            try {
-                const contacts = JSON.parse(localStorage.getItem('contact_submissions') || '[]');
-                contacts.push(formData);
-                localStorage.setItem('contact_submissions', JSON.stringify(contacts));
-            } catch(err) {
-                console.log('Could not save to localStorage');
-            }
-
-            // Show success message
-            setTimeout(function() {
-                successMsg.style.display = 'block';
-                form.reset();
+            fetch('https://formspree.io/f/xpwzgkvq', {
+                method: 'POST',
+                body: formData,
+                headers: { 'Accept': 'application/json' }
+            })
+            .then(function(response) {
+                if (response.ok) {
+                    successMsg.style.display = 'block';
+                    form.reset();
+                    successMsg.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                } else {
+                    errorMsg.style.display = 'block';
+                }
+            })
+            .catch(function() {
+                errorMsg.style.display = 'block';
+            })
+            .finally(function() {
                 submitBtn.disabled = false;
                 submitBtn.textContent = 'Send Message';
-
-                // Scroll to success message
-                successMsg.scrollIntoView({ behavior: 'smooth', block: 'center' });
-            }, 500);
+            });
         });
     </script>
 </body>

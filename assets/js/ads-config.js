@@ -106,7 +106,6 @@ function createAdElement(ad, size) {
     // Error handling - hide ad if image fails to load
     img.onerror = function() {
         wrapper.style.display = 'none';
-        console.warn(`Ad image failed to load: ${ad.image}`);
     };
 
     wrapper.appendChild(img);

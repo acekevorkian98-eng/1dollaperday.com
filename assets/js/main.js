@@ -1,55 +1,7 @@
 /**
- * MONETIZATION BLOG - Main JavaScript
- * Minimal JS for header/footer includes and basic functionality
- *
- * NOTE: For local file:// usage, includes won't work due to CORS.
- * When hosted on a server, the includes will function properly.
- * For local testing, the full HTML is already in each page.
+ * $1perday! - Main JavaScript
+ * Site functionality for navigation, calculator, FAQ, sharing, and forms.
  */
-
-// ============================================
-// HEADER/FOOTER INCLUDES (Server Only)
-// ============================================
-// Uncomment and use these functions when hosted on a server
-// They fetch external header.html and footer.html files
-
-/*
-async function loadIncludes() {
-    // Determine if we're in a subdirectory
-    const isSubpage = window.location.pathname.includes('/pages/');
-    const basePath = isSubpage ? '../' : './';
-
-    // Load header
-    const headerEl = document.getElementById('site-header');
-    if (headerEl) {
-        try {
-            const response = await fetch(basePath + 'header.html');
-            if (response.ok) {
-                headerEl.innerHTML = await response.text();
-                highlightCurrentPage();
-            }
-        } catch (e) {
-            console.log('Header include failed - using inline header');
-        }
-    }
-
-    // Load footer
-    const footerEl = document.getElementById('site-footer');
-    if (footerEl) {
-        try {
-            const response = await fetch(basePath + 'footer.html');
-            if (response.ok) {
-                footerEl.innerHTML = await response.text();
-            }
-        } catch (e) {
-            console.log('Footer include failed - using inline footer');
-        }
-    }
-}
-
-// Call on DOM ready
-document.addEventListener('DOMContentLoaded', loadIncludes);
-*/
 
 // ============================================
 // NAVIGATION HIGHLIGHTING
@@ -60,7 +12,6 @@ function highlightCurrentPage() {
 
     navLinks.forEach(link => {
         const href = link.getAttribute('href');
-        // Check if current path ends with this href or matches
         if (currentPath.endsWith(href) ||
             (href === 'index.html' && (currentPath.endsWith('/') || currentPath.endsWith('/site/')))) {
             link.classList.add('active');
@@ -68,112 +19,17 @@ function highlightCurrentPage() {
     });
 }
 
-// Run on page load
 document.addEventListener('DOMContentLoaded', highlightCurrentPage);
 
 // ============================================
-// AD SLOT INITIALIZATION PLACEHOLDER
-// ============================================
-// This function is a placeholder for initializing ad networks
-// Replace the console.log with actual ad provider code
-
-function initializeAds() {
-    /*
-    * AD PROVIDER INITIALIZATION
-    * --------------------------
-    * Paste your ad network initialization code here.
-    *
-    * Example for Google AdSense:
-    * (adsbygoogle = window.adsbygoogle || []).push({});
-    *
-    * Example for Ezoic:
-    * ezstandalone.cmd.push(function() {
-    *     ezstandalone.showAds();
-    * });
-    */
-
-    console.log('Ad slots ready for initialization');
-}
-
-// ============================================
-// OFFERWALL INITIALIZATION PLACEHOLDER
-// ============================================
-function initializeOfferwall() {
-    /*
-    * OFFERWALL PROVIDER CODE
-    * -----------------------
-    * Paste your offerwall initialization here.
-    *
-    * Example providers:
-    * - CPX Research
-    * - Ayet Studios
-    * - AdGate Media
-    * - Lootably
-    *
-    * Each provider will give you specific embed code.
-    */
-
-    console.log('Offerwall placeholder ready');
-}
-
-// ============================================
-// FAUCET PLACEHOLDER
-// ============================================
-function initializeFaucet() {
-    /*
-    * FAUCET IMPLEMENTATION
-    * ---------------------
-    * If running your own faucet, initialize it here.
-    * This could be:
-    * - An iframe to FaucetPay
-    * - ExpressCrypto widget
-    * - Custom faucet script
-    */
-
-    console.log('Faucet placeholder ready');
-}
-
-// ============================================
-// AUTOSURF SCRIPT PLACEHOLDER
-// ============================================
-function initializeAutosurf() {
-    /*
-    * AUTOSURF / TRAFFIC EXCHANGE
-    * ---------------------------
-    * WARNING: Be careful with autosurf scripts.
-    * Many ad networks ban sites that use autosurfs.
-    *
-    * If using traffic exchanges, place their
-    * verification/earning scripts here.
-    *
-    * Common traffic exchanges:
-    * - Hitleap
-    * - 10KHits
-    * - TrafficG
-    */
-
-    console.log('Autosurf placeholder ready');
-}
-
-// ============================================
-// REFERRAL LINK TRACKING (Optional)
+// REFERRAL LINK TRACKING
 // ============================================
 function trackReferralClick(linkName) {
-    /*
-    * REFERRAL TRACKING
-    * -----------------
-    * Add analytics tracking for referral clicks.
-    *
-    * Example with Google Analytics:
-    * gtag('event', 'referral_click', {
-    *     'link_name': linkName
-    * });
-    */
-
-    console.log('Referral clicked:', linkName);
+    if (typeof gtag === 'function') {
+        gtag('event', 'referral_click', { 'link_name': linkName });
+    }
 }
 
-// Add click tracking to referral links
 document.addEventListener('DOMContentLoaded', function() {
     const referralLinks = document.querySelectorAll('.referral-link');
     referralLinks.forEach(link => {
@@ -185,23 +41,8 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 // ============================================
-// UTILITY FUNCTIONS
+// SMOOTH SCROLL
 // ============================================
-
-// Simple cookie consent placeholder
-function showCookieConsent() {
-    /*
-    * COOKIE CONSENT
-    * --------------
-    * If targeting EU users, implement cookie consent here.
-    * Consider using a library like:
-    * - Osano
-    * - CookieYes
-    * - Cookiebot
-    */
-}
-
-// Smooth scroll for anchor links
 document.addEventListener('DOMContentLoaded', function() {
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         anchor.addEventListener('click', function(e) {
@@ -215,7 +56,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 // ============================================
-// FAQ ACCORDION
+// FAQ ACCORDION (with keyboard accessibility)
 // ============================================
 document.addEventListener('DOMContentLoaded', function() {
     const faqItems = document.querySelectorAll('.faq-item');
@@ -225,38 +66,56 @@ document.addEventListener('DOMContentLoaded', function() {
         const answer = item.querySelector('.faq-answer');
 
         if (question && answer) {
-            question.addEventListener('click', function() {
-                const isOpen = item.classList.contains('active');
+            // Add accessibility attributes
+            question.setAttribute('role', 'button');
+            question.setAttribute('tabindex', '0');
+            question.setAttribute('aria-expanded', 'false');
 
-                // Close all other FAQs (optional - remove for multi-open)
+            function toggleFaq() {
+                // Close all other FAQs
                 faqItems.forEach(otherItem => {
                     if (otherItem !== item) {
                         otherItem.classList.remove('active');
+                        const otherQ = otherItem.querySelector('.faq-question');
+                        if (otherQ) otherQ.setAttribute('aria-expanded', 'false');
                     }
                 });
 
-                // Toggle current FAQ
                 item.classList.toggle('active');
+                question.setAttribute('aria-expanded', item.classList.contains('active'));
+            }
+
+            question.addEventListener('click', toggleFaq);
+            question.addEventListener('keydown', function(e) {
+                if (e.key === 'Enter' || e.key === ' ') {
+                    e.preventDefault();
+                    toggleFaq();
+                }
             });
         }
     });
 });
 
 // ============================================
-// EARNINGS CALCULATOR
+// EARNINGS CALCULATOR (with input validation)
 // ============================================
-function calculateEarnings() {
-    const faucetTime = parseFloat(document.getElementById('faucet-time')?.value) || 0;
-    const ptcTime = parseFloat(document.getElementById('ptc-time')?.value) || 0;
-    const offerwallTime = parseFloat(document.getElementById('offerwall-time')?.value) || 0;
-    const socialTime = parseFloat(document.getElementById('social-time')?.value) || 0;
+function clampValue(value, min, max) {
+    if (isNaN(value) || value < min) return min;
+    if (value > max) return max;
+    return value;
+}
 
-    // Realistic hourly rates (in dollars)
+function calculateEarnings() {
+    const faucetTime = clampValue(parseFloat(document.getElementById('faucet-time')?.value), 0, 120);
+    const ptcTime = clampValue(parseFloat(document.getElementById('ptc-time')?.value), 0, 120);
+    const offerwallTime = clampValue(parseFloat(document.getElementById('offerwall-time')?.value), 0, 180);
+    const socialTime = clampValue(parseFloat(document.getElementById('social-time')?.value), 0, 120);
+
     const rates = {
-        faucet: 0.30,      // $0.30/hour
-        ptc: 0.20,         // $0.20/hour
-        offerwall: 1.50,   // $1.50/hour (best ROI)
-        social: 0.50       // $0.50/hour
+        faucet: 0.30,
+        ptc: 0.20,
+        offerwall: 1.50,
+        social: 0.50
     };
 
     const dailyEarnings = (
@@ -270,7 +129,6 @@ function calculateEarnings() {
     const totalTime = faucetTime + ptcTime + offerwallTime + socialTime;
     const hourlyRate = totalTime > 0 ? (dailyEarnings / (totalTime / 60)) : 0;
 
-    // Update display
     const dailyEl = document.getElementById('daily-earnings');
     const monthlyEl = document.getElementById('monthly-earnings');
     const hourlyEl = document.getElementById('hourly-rate');
@@ -297,7 +155,6 @@ function calculateEarnings() {
     }
 }
 
-// Attach calculator listeners
 document.addEventListener('DOMContentLoaded', function() {
     const calcInputs = document.querySelectorAll('.calc-input');
     calcInputs.forEach(input => {
@@ -305,7 +162,6 @@ document.addEventListener('DOMContentLoaded', function() {
         input.addEventListener('change', calculateEarnings);
     });
 
-    // Initial calculation
     if (document.getElementById('earnings-calculator')) {
         calculateEarnings();
     }
@@ -341,6 +197,14 @@ function copyToClipboard() {
                 btn.textContent = originalText;
             }, 2000);
         }
+    }).catch(() => {
+        const btn = document.querySelector('.share-copy');
+        if (btn) {
+            btn.textContent = 'Copy failed';
+            setTimeout(() => {
+                btn.textContent = 'Copy Link';
+            }, 2000);
+        }
     });
 }
 
@@ -364,7 +228,6 @@ function generateTOC() {
     tocList.className = 'toc-list';
 
     headings.forEach((heading, index) => {
-        // Add ID if not present
         if (!heading.id) {
             heading.id = 'section-' + index;
         }
@@ -391,7 +254,6 @@ document.addEventListener('DOMContentLoaded', generateTOC);
 document.addEventListener('DOMContentLoaded', function() {
     const lastUpdatedEl = document.querySelector('.last-updated');
     if (lastUpdatedEl && !lastUpdatedEl.textContent.trim()) {
-        // Use document's last modified date as fallback
         const date = new Date(document.lastModified);
         const options = { year: 'numeric', month: 'long', day: 'numeric' };
         lastUpdatedEl.textContent = 'Last updated: ' + date.toLocaleDateString('en-US', options);
@@ -404,24 +266,42 @@ document.addEventListener('DOMContentLoaded', function() {
 function handleNewsletterSubmit(e) {
     e.preventDefault();
     const form = e.target;
-    const email = form.querySelector('input[type="email"]').value;
     const button = form.querySelector('button');
     const message = form.querySelector('.newsletter-message');
+    const formData = new FormData(form);
 
-    // Simulate submission (replace with actual endpoint)
     button.disabled = true;
     button.textContent = 'Subscribing...';
 
-    // Placeholder - replace with actual newsletter service
-    setTimeout(() => {
-        if (message) {
-            message.textContent = 'Thanks for subscribing! Check your email to confirm.';
-            message.className = 'newsletter-message success';
+    fetch(form.action, {
+        method: 'POST',
+        body: formData,
+        headers: { 'Accept': 'application/json' }
+    })
+    .then(response => {
+        if (response.ok) {
+            if (message) {
+                message.textContent = 'Thanks for subscribing! Check your email to confirm.';
+                message.className = 'newsletter-message success';
+            }
+            form.reset();
+        } else {
+            if (message) {
+                message.textContent = 'Something went wrong. Please try again.';
+                message.className = 'newsletter-message error';
+            }
         }
-        form.reset();
+    })
+    .catch(() => {
+        if (message) {
+            message.textContent = 'Something went wrong. Please try again.';
+            message.className = 'newsletter-message error';
+        }
+    })
+    .finally(() => {
         button.disabled = false;
         button.textContent = 'Subscribe';
-    }, 1000);
+    });
 }
 
 document.addEventListener('DOMContentLoaded', function() {
@@ -435,22 +315,18 @@ document.addEventListener('DOMContentLoaded', function() {
 // PROMO POPUP
 // ============================================
 function initPromoPopup() {
-    // Check if popup was already shown this session
     if (sessionStorage.getItem('promoPopupShown')) {
         return;
     }
 
-    // Get base path by finding the script's location
     const scripts = document.querySelectorAll('script[src*="main.js"]');
     let basePath = '';
     if (scripts.length > 0) {
         const scriptSrc = scripts[0].getAttribute('src');
-        // scriptSrc is like "assets/js/main.js" or "../assets/js/main.js"
         basePath = scriptSrc.replace('assets/js/main.js', '');
     }
-    const imagePath = basePath + '468px_en.jpg';
+    const imagePath = basePath + 'assets/images/468px_en.jpg';
 
-    // Create popup HTML
     const popupHTML = `
         <div class="promo-popup-overlay" id="promoPopup">
             <div class="promo-popup">
@@ -460,7 +336,7 @@ function initPromoPopup() {
                 </div>
                 <div class="promo-popup-content">
                     <a href="https://luckywatch.pro/u/0parm" target="_blank" rel="noopener">
-                        <img src="${imagePath}" alt="LuckyWatch - Earn crypto watching videos">
+                        <img src="${imagePath}" alt="LuckyWatch - Earn crypto watching videos" loading="lazy">
                     </a>
                     <a href="https://luckywatch.pro/u/0parm" target="_blank" rel="noopener" class="promo-popup-cta">
                         Start Earning Now
@@ -470,10 +346,8 @@ function initPromoPopup() {
         </div>
     `;
 
-    // Insert popup into page
     document.body.insertAdjacentHTML('beforeend', popupHTML);
 
-    // Show popup after a short delay
     setTimeout(() => {
         const popup = document.getElementById('promoPopup');
         if (popup) {
@@ -481,7 +355,6 @@ function initPromoPopup() {
         }
     }, 500);
 
-    // Mark as shown for this session
     sessionStorage.setItem('promoPopupShown', 'true');
 }
 
@@ -489,26 +362,22 @@ function closePromoPopup() {
     const popup = document.getElementById('promoPopup');
     if (popup) {
         popup.classList.remove('active');
-        // Remove from DOM after animation
         setTimeout(() => {
             popup.remove();
         }, 300);
     }
 }
 
-// Close popup when clicking overlay (outside the popup box)
 document.addEventListener('click', function(e) {
     if (e.target.classList.contains('promo-popup-overlay')) {
         closePromoPopup();
     }
 });
 
-// Close popup on Escape key
 document.addEventListener('keydown', function(e) {
     if (e.key === 'Escape') {
         closePromoPopup();
     }
 });
 
-// Initialize popup on page load
 document.addEventListener('DOMContentLoaded', initPromoPopup);
