@@ -397,6 +397,7 @@ a:hover {
     border-radius: var(--radius-md);
     margin: 1.5rem 0;
     border: 1px solid;
+    overflow-x: auto;
 }
 
 .info-box.warning {
@@ -1024,6 +1025,8 @@ tr:hover td {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
+    min-width: 0;
+    overflow-x: hidden;
 }
 
 .sidebar-widget {
@@ -1407,6 +1410,8 @@ tr:hover td {
    ============================================ */
 .article {
     background: var(--bg);
+    min-width: 0;
+    overflow-x: hidden;
 }
 
 .article-header {
