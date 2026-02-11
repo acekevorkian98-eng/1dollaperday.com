@@ -312,35 +312,26 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 // ============================================
-// PROMO POPUP
+// WARNING POPUP
 // ============================================
 function initPromoPopup() {
     if (sessionStorage.getItem('promoPopupShown')) {
         return;
     }
 
-    const scripts = document.querySelectorAll('script[src*="main.js"]');
-    let basePath = '';
-    if (scripts.length > 0) {
-        const scriptSrc = scripts[0].getAttribute('src');
-        basePath = scriptSrc.replace('assets/js/main.js', '');
-    }
-    const imagePath = basePath + 'assets/images/468px_en.jpg';
-
     const popupHTML = `
         <div class="promo-popup-overlay" id="promoPopup">
-            <div class="promo-popup">
+            <div class="promo-popup warning-popup">
                 <button class="promo-popup-close" onclick="closePromoPopup()" aria-label="Close">&times;</button>
-                <div class="promo-popup-header">
-                    <h3>Today's Best Pick!</h3>
+                <div class="promo-popup-header warning-header">
+                    <span class="warning-icon">&#9888;</span>
+                    <h3>VieFaucet Payout Warning</h3>
                 </div>
-                <div class="promo-popup-content">
-                    <a href="https://luckywatch.pro/u/0parm" target="_blank" rel="noopener">
-                        <img src="${imagePath}" alt="LuckyWatch - Earn crypto watching videos" loading="lazy">
-                    </a>
-                    <a href="https://luckywatch.pro/u/0parm" target="_blank" rel="noopener" class="promo-popup-cta">
-                        Start Earning Now
-                    </a>
+                <div class="promo-popup-content warning-content">
+                    <p class="warning-main-text">VieFaucet's payout wallets are currently <strong>empty</strong>. Withdrawals may be delayed or unavailable until funds are replenished.</p>
+                    <p class="warning-editorial">While we love VieFaucet, we don't know if the situation will get worse or better, and our job here is to keep you informed.</p>
+                    <p class="warning-advice">We recommend <strong>not investing significant time</strong> on the platform until payouts resume normally. If you have a pending withdrawal, keep an eye on it.</p>
+                    <a href="reviews/viefaucet.html" class="warning-popup-cta">Read Our VieFaucet Review</a>
                 </div>
             </div>
         </div>
