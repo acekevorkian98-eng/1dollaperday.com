@@ -1,0 +1,11 @@
+# Admin folder - internal tools, templates, notes
+admin/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~

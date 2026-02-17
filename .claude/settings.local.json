@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(dir \"C:\\\\Users\\\\jackd\\\\OneDrive\\\\Desktop\\\\1dollaperday.com-main\\\\1dollaperday.com-main\\\\*.jpg\")",
+      "Bash(xargs -I {} bash -c \"head -100 {}\")",
+      "Bash(wc:*)",
+      "Bash(ls:*)",
+      "Bash(test:*)",
+      "Bash(xargs sed:*)",
+      "Bash(python3:*)",
+      "Bash(python build_blog.py:*)",
+      "Bash(gh auth status:*)",
+      "Bash(git --version:*)",
+      "Bash(git config:*)",
+      "Bash(sudo apt install:*)",
+      "Bash(gh repo list:*)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(gh api:*)",
+      "Bash(git branch:*)",
+      "Bash(git fetch:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}

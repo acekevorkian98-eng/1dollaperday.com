@@ -1,0 +1,682 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Cookiebot - MUST be first script -->
+    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js"
+            data-cbid="65a4e9af-e9b8-42c6-9212-649f468f91ae"
+            data-blockingmode="auto" type="text/javascript">
+    </script>
+
+    <!-- Google Tag Manager -->
+    <script type="text/plain" data-cookieconsent="statistics">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KK96XDSZ');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Google Analytics (Consent Managed via Cookiebot) -->
+    <script type="text/plain" data-cookieconsent="statistics" async src="https://www.googletagmanager.com/gtag/js?id=G-MLS6E270KY"></script>
+    <script type="text/plain" data-cookieconsent="statistics">
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-MLS6E270KY');
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- SEO META TAGS -->
+    <title>Blog - Tips, News & Insights | $1perday!</title>
+    <meta name="description" content="Latest articles, tips, and insights on micro-earning online. Strategies, news, and honest opinions from the $1perday! team.">
+    <meta name="keywords" content="micro earning blog, online earning tips, passive income news, beermoney articles, crypto faucet updates">
+    <meta name="author" content="$1perday!">
+    <meta name="robots" content="index, follow">
+
+    <link rel="canonical" href="https://1perday.com/blog/">
+    <link rel="alternate" type="application/rss+xml" title="$1perday! Blog" href="https://1perday.com/blog/feed.xml">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Blog - $1perday!">
+    <meta property="og:description" content="Latest articles, tips, and insights on micro-earning online.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://1perday.com/blog/">
+    <meta property="og:site_name" content="$1perday!">
+
+    <!-- Google Fonts - Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>$</text></svg>">
+
+    <!-- Structured Data - BreadcrumbList -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://1perday.com/"},
+            {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://1perday.com/blog/"}
+        ]
+    }
+    </script>
+
+    <!-- Structured Data - ItemList (updated by build_blog.py) -->
+    <!-- BLOG_JSONLD_START -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Blog Articles",
+        "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "How Much Can You REALLY Make From PTC & Faucets in 2026? (30-Day Test Results)", "url": "https://1perday.com/blog/ptc-faucet-30-day-earnings-test"},
+            {"@type": "ListItem", "position": 2, "name": "5 Highest Paying PTC Sites in 2025", "url": "https://1perday.com/blog/5-highest-paying-ptc-sites"},
+            {"@type": "ListItem", "position": 3, "name": "The Fascinating History of Bitcoin Faucets: From 5 BTC to Satoshis", "url": "https://1perday.com/blog/history-of-bitcoin-faucets"},
+            {"@type": "ListItem", "position": 4, "name": "How Many People Make Money Online Every Day?", "url": "https://1perday.com/blog/how-many-people-make-money-online-every-day"}
+        ]
+    }
+    </script>
+    <!-- BLOG_JSONLD_END -->
+
+    <style>
+        /* Blog index page styles */
+        .blog-hero {
+            background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 50%, #dbeafe 100%);
+            padding: 3.5rem 2rem;
+            text-align: center;
+            border-radius: var(--radius-xl);
+            margin-bottom: 2rem;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .blog-hero::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background:
+                radial-gradient(circle at 15% 30%, rgba(59, 130, 246, 0.1) 0%, transparent 50%),
+                radial-gradient(circle at 85% 70%, rgba(99, 102, 241, 0.08) 0%, transparent 50%);
+            pointer-events: none;
+        }
+
+        .blog-hero > * {
+            position: relative;
+            z-index: 1;
+        }
+
+        .blog-hero-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.4rem 1rem;
+            background: white;
+            border-radius: 100px;
+            font-size: 0.8rem;
+            font-weight: 700;
+            color: var(--primary-dark);
+            box-shadow: var(--shadow-md);
+            margin-bottom: 1.25rem;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+        }
+
+        .blog-hero h1 {
+            font-size: 2.25rem;
+            font-weight: 800;
+            letter-spacing: -0.03em;
+            line-height: 1.2;
+            margin-bottom: 0.75rem;
+            background: linear-gradient(135deg, var(--text) 0%, var(--text-secondary) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        @media (min-width: 768px) {
+            .blog-hero h1 { font-size: 2.75rem; }
+        }
+
+        .blog-hero p {
+            max-width: 560px;
+            margin: 0 auto;
+            font-size: 1.0625rem;
+            color: var(--text-secondary);
+            line-height: 1.7;
+        }
+
+        /* Featured post card */
+        .blog-featured {
+            border: 1px solid var(--border);
+            border-radius: var(--radius-xl);
+            overflow: hidden;
+            margin-bottom: 2rem;
+            background: var(--bg);
+            transition: all var(--transition-base);
+            display: grid;
+            grid-template-columns: 1fr;
+        }
+
+        @media (min-width: 640px) {
+            .blog-featured {
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+
+        .blog-featured:hover {
+            box-shadow: var(--shadow-xl);
+            border-color: var(--primary-light);
+        }
+
+        .blog-featured-visual {
+            background: linear-gradient(135deg, var(--primary) 0%, #6366f1 100%);
+            padding: 2.5rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            min-height: 200px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .blog-featured-visual::before {
+            content: '';
+            position: absolute;
+            top: -30%; right: -30%;
+            width: 60%; height: 60%;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.08);
+        }
+
+        .blog-featured-visual::after {
+            content: '';
+            position: absolute;
+            bottom: -20%; left: -20%;
+            width: 50%; height: 50%;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .blog-featured-visual .featured-icon {
+            font-size: 3rem;
+            margin-bottom: 0.75rem;
+            position: relative;
+            z-index: 1;
+            filter: drop-shadow(0 2px 8px rgba(0,0,0,0.15));
+        }
+
+        .blog-featured-visual .featured-label {
+            color: rgba(255,255,255,0.9);
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            position: relative;
+            z-index: 1;
+        }
+
+        .blog-featured-body {
+            padding: 2rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .blog-featured-body .featured-category {
+            display: inline-block;
+            padding: 0.2rem 0.65rem;
+            background: var(--success-bg);
+            color: #047857;
+            border-radius: 100px;
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 0.75rem;
+            width: fit-content;
+        }
+
+        .blog-featured-body h2 {
+            font-size: 1.375rem;
+            font-weight: 700;
+            margin: 0 0 0.5rem;
+            padding: 0;
+            border: none;
+        }
+
+        .blog-featured-body h2 a {
+            color: var(--text);
+            text-decoration: none;
+        }
+
+        .blog-featured-body h2 a:hover {
+            color: var(--primary);
+        }
+
+        .blog-featured-body .featured-excerpt {
+            font-size: 0.9375rem;
+            color: var(--text-secondary);
+            line-height: 1.65;
+            margin-bottom: 1.25rem;
+        }
+
+        .blog-featured-body .featured-meta {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .blog-featured-body .featured-cta {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.35rem;
+            font-weight: 600;
+            font-size: 0.9375rem;
+            color: var(--primary);
+            margin-top: 1rem;
+            transition: gap var(--transition-fast);
+        }
+
+        .blog-featured-body .featured-cta:hover {
+            gap: 0.6rem;
+            color: var(--primary-dark);
+        }
+
+        /* Blog articles section heading */
+        .blog-section-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 1.25rem;
+            padding-bottom: 0.75rem;
+            border-bottom: 2px solid var(--border-light);
+        }
+
+        .blog-section-header h2 {
+            margin: 0;
+            padding: 0;
+            border: none;
+            font-size: 1.375rem;
+        }
+
+        .blog-section-header .post-count {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            background: var(--bg-alt);
+            padding: 0.25rem 0.75rem;
+            border-radius: 100px;
+            font-weight: 600;
+        }
+
+        /* Sidebar category tags */
+        .category-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        .category-tags li {
+            margin: 0;
+        }
+
+        .category-tags a {
+            display: inline-block;
+            padding: 0.35rem 0.85rem;
+            background: var(--bg-alt);
+            border: 1px solid var(--border);
+            border-radius: 100px;
+            font-size: 0.8rem;
+            font-weight: 500;
+            color: var(--text-secondary);
+            text-decoration: none;
+            transition: all var(--transition-fast);
+        }
+
+        .category-tags a:hover,
+        .category-tags a.active {
+            background: var(--primary-bg);
+            border-color: var(--primary-light);
+            color: var(--primary-dark);
+        }
+
+        /* Sidebar quick-stat boxes */
+        .blog-stat-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 0.75rem;
+        }
+
+        .blog-stat {
+            background: var(--bg-alt);
+            border-radius: var(--radius-md);
+            padding: 0.85rem;
+            text-align: center;
+        }
+
+        .blog-stat-value {
+            display: block;
+            font-size: 1.25rem;
+            font-weight: 800;
+            color: var(--primary);
+            letter-spacing: -0.02em;
+        }
+
+        .blog-stat-label {
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            font-weight: 600;
+        }
+
+        /* Blog newsletter variant */
+        .blog-newsletter {
+            background: linear-gradient(135deg, var(--primary-bg) 0%, #dbeafe 100%);
+            border: 1px solid rgba(59, 130, 246, 0.2);
+            padding: 1.75rem;
+            border-radius: var(--radius-xl);
+            margin-top: 2rem;
+            text-align: center;
+        }
+
+        .blog-newsletter h3 {
+            margin: 0 0 0.35rem;
+            font-size: 1.125rem;
+        }
+
+        .blog-newsletter p {
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            margin-bottom: 1rem;
+        }
+
+        .blog-newsletter .newsletter-form {
+            max-width: 100%;
+        }
+
+        .blog-newsletter .newsletter-form input[type="email"] {
+            font-size: 0.875rem;
+            padding: 0.7rem 1rem;
+        }
+
+        .blog-newsletter .newsletter-form button {
+            font-size: 0.875rem;
+            padding: 0.7rem 1.25rem;
+        }
+    </style>
+</head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KK96XDSZ"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- HEADER -->
+    <header class="site-header">
+        <div class="container">
+            <div class="header-inner">
+                <a href="../" class="site-logo">$1perday!</a>
+                <nav class="main-nav">
+                    <ul>
+                        <li><a href="../">Home</a></li>
+                        <li><a href="../pages/ptc">PTC</a></li>
+                        <li><a href="../pages/faucets">Faucets</a></li>
+                        <li><a href="../pages/offers">Offers</a></li>
+                        <li><a href="../reviews/">Reviews</a></li>
+                        <li><a href="../guides/">Guides</a></li>
+                        <li><a href="./index.html" class="active">Blog</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        <div class="container">
+            <!-- AD SLOT: Banner Top -->
+            <div class="ad-placeholder banner">
+                <!-- AD SLOT: Banner Top -->
+
+            </div>
+        </div>
+    </header>
+
+    <!-- MAIN CONTENT -->
+    <main class="container">
+        <!-- BREADCRUMBS -->
+        <nav class="breadcrumbs" aria-label="Breadcrumb">
+            <a href="../">Home</a>
+            <span class="separator">/</span>
+            <span class="current">Blog</span>
+        </nav>
+
+        <!-- BLOG HERO -->
+        <section class="blog-hero">
+            <div class="blog-hero-badge">The $1perday! Blog</div>
+            <h1>Tips, News &amp; Honest Takes</h1>
+            <p>Practical articles on micro-earning strategies, platform updates, and the stuff nobody else tells you about making money online.</p>
+        </section>
+
+        <!-- FEATURED POST -->
+        <a href="ptc-faucet-30-day-earnings-test.html" style="text-decoration: none; color: inherit; display: block;">
+            <div class="blog-featured">
+                <div class="blog-featured-visual">
+                    <div class="featured-icon">&#128176;</div>
+                    <div class="featured-label">Featured Article</div>
+                </div>
+                <div class="blog-featured-body">
+                    <span class="featured-category">Case Study</span>
+                    <h2><span>How Much Can You REALLY Make From PTC & Faucets in 2026? (30-Day Test Results)</span></h2>
+                    <p class="featured-excerpt">We spent 30 days tracking every cent earned from PTC sites and crypto faucets. Here are the real numbers, daily breakdowns, and honest verdict on whether it's worth your time in 2026.</p>
+                    <div class="featured-meta">
+                        <span>February 17, 2026</span>
+                        <span>&middot;</span>
+                        <span>12 min read</span>
+                    </div>
+                    <span class="featured-cta">Read Article <span>&rarr;</span></span>
+                </div>
+            </div>
+        </a>
+
+        
+        
+        <!-- AD SLOT: In-Content -->
+        <div class="ad-placeholder banner" style="margin: 2rem 0;">
+            <!-- AD SLOT: In-Content -->
+
+        </div>
+
+        <div class="main-content">
+            <!-- ARTICLES COLUMN -->
+            <div class="article">
+                <div class="article-content">
+
+                    <!-- ALL ARTICLES -->
+                    <section>
+                        <div class="blog-section-header">
+                            <h2>All Articles</h2>
+                            <span class="post-count">4 articles</span>
+                        </div>
+
+                        <div class="guide-list">
+                            <!-- BLOG_ENTRIES_START -->
+                            <div class="guide-card" data-category="Case Study">
+                                <span class="guide-card-category">Case Study</span>
+                                <h3><a href="ptc-faucet-30-day-earnings-test.html">How Much Can You REALLY Make From PTC & Faucets in 2026? (30-Day Test Results)</a></h3>
+                                <p>We spent 30 days tracking every cent earned from PTC sites and crypto faucets. Here are the real numbers, daily breakdowns, and honest verdict on whether it's worth your time...</p>
+                                <div class="guide-card-footer">
+                                    <span class="difficulty-badge beginner">February 17, 2026 &middot; 12 min read</span>
+                                    <a href="ptc-faucet-30-day-earnings-test.html">Read Article &rarr;</a>
+                                </div>
+                            </div>
+                            <div class="guide-card" data-category="Guide">
+                                <span class="guide-card-category">Guide</span>
+                                <h3><a href="5-highest-paying-ptc-sites.html">5 Highest Paying PTC Sites in 2025</a></h3>
+                                <p>The 5 best PTC (paid-to-click) sites that actually pay in 2025. MakeYouTask, LuckyWatch.Pro, CoinPayU, FireFaucet, and FaucetCrypto compared with real earnings data.</p>
+                                <div class="guide-card-footer">
+                                    <span class="difficulty-badge beginner">February 16, 2026 &middot; 7 min read</span>
+                                    <a href="5-highest-paying-ptc-sites.html">Read Article &rarr;</a>
+                                </div>
+                            </div>
+                            <div class="guide-card" data-category="Guide">
+                                <span class="guide-card-category">Guide</span>
+                                <h3><a href="history-of-bitcoin-faucets.html">The Fascinating History of Bitcoin Faucets: From 5 BTC to Satoshis</a></h3>
+                                <p>Discover the history of Bitcoin faucets, from Gavin Andresen's original 5 BTC giveaway in 2010 to the modern micro-earning landscape of 2026.</p>
+                                <div class="guide-card-footer">
+                                    <span class="difficulty-badge beginner">February 16, 2026 &middot; 6 min read</span>
+                                    <a href="history-of-bitcoin-faucets.html">Read Article &rarr;</a>
+                                </div>
+                            </div>
+                            <div class="guide-card" data-category="Opinion">
+                                <span class="guide-card-category">Opinion</span>
+                                <h3><a href="how-many-people-make-money-online-every-day.html">How Many People Make Money Online Every Day?</a></h3>
+                                <p>How many people actually make money online every day? We break down realistic numbers, income levels, and what it really looks like in 2026.</p>
+                                <div class="guide-card-footer">
+                                    <span class="difficulty-badge beginner">February 16, 2026 &middot; 9 min read</span>
+                                    <a href="how-many-people-make-money-online-every-day.html">Read Article &rarr;</a>
+                                </div>
+                            </div>
+                            <!-- BLOG_ENTRIES_END -->
+                        </div>
+                    </section>
+
+                    <!-- AD SLOT: In-Content Bottom -->
+                    <div class="ad-placeholder banner" style="margin: 2rem 0;">
+                        <!-- AD SLOT: In-Content Bottom -->
+
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- SIDEBAR -->
+            <aside class="sidebar">
+                <!-- AD SLOT: Sidebar -->
+                <div class="ad-placeholder sidebar">
+                    <!-- AD SLOT: Sidebar -->
+
+                </div>
+
+                <!-- BLOG AT A GLANCE -->
+                <div class="sidebar-widget">
+                    <h3>At a Glance</h3>
+                    <div class="blog-stat-grid">
+                        <div class="blog-stat">
+                            <span class="blog-stat-value">70+</span>
+                            <span class="blog-stat-label">Reviews</span>
+                        </div>
+                        <div class="blog-stat">
+                            <span class="blog-stat-value">5</span>
+                            <span class="blog-stat-label">Guides</span>
+                        </div>
+                        <div class="blog-stat">
+                            <span class="blog-stat-value">$1.05</span>
+                            <span class="blog-stat-label">/day avg</span>
+                        </div>
+                        <div class="blog-stat">
+                            <span class="blog-stat-value">0</span>
+                            <span class="blog-stat-label">Scams</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- BLOG CATEGORIES -->
+                <div class="sidebar-widget">
+                    <h3>Categories</h3>
+                    <ul class="category-tags">
+                        <li><a href="#" data-category="all" class="active">All</a></li>
+                        <li><a href="#" data-category="Case Study">Case Study</a></li>
+                        <li><a href="#" data-category="Guide">Guide</a></li>
+                        <li><a href="#" data-category="Opinion">Opinion</a></li>
+                    </ul>
+                </div>
+
+                <!-- POPULAR REVIEWS -->
+                <div class="sidebar-widget">
+                    <h3>Popular Reviews</h3>
+                    <ul>
+                        <li><a href="../reviews/makeyoutask">MakeYouTask</a></li>
+                        <li><a href="../reviews/freecash">Freecash</a></li>
+                        <li><a href="../reviews/honeygain">Honeygain</a></li>
+                        <li><a href="../reviews/faucetpay">FaucetPay</a></li>
+                        <li><a href="../reviews/coinpayu">CoinPayU</a></li>
+                        <li><a href="../reviews/faucetcrypto">FaucetCrypto</a></li>
+                    </ul>
+                </div>
+
+                <!-- GUIDES -->
+                <div class="sidebar-widget">
+                    <h3>Start Here</h3>
+                    <ul>
+                        <li><a href="../guides/getting-started">Getting Started</a></li>
+                        <li><a href="../guides/best-faucets-2025">Best Faucets 2025</a></li>
+                        <li><a href="../guides/daily-guide">Daily Earning Routine</a></li>
+                        <li><a href="../guides/scam-alerts">Scam Alerts</a></li>
+                    </ul>
+                </div>
+
+                <!-- NEWSLETTER -->
+                <div class="blog-newsletter">
+                    <h3>Stay Updated</h3>
+                    <p>New articles, scam alerts, and earning tips. No spam.</p>
+                    <form class="newsletter-form" action="https://buttondown.com/api/emails/embed-subscribe/acekevorkian98" method="POST">
+                        <input type="email" name="email" placeholder="Your email address" required>
+                        <button type="submit">Subscribe</button>
+                    </form>
+                    <p class="newsletter-message"></p>
+                    <p class="newsletter-privacy" style="font-size: 0.75rem; color: var(--text-muted); margin-top: 0.5rem;">Unsubscribe anytime.</p>
+                </div>
+
+                <!-- AD SLOT: Sidebar Bottom -->
+                <div class="ad-placeholder sidebar">
+                    <!-- AD SLOT: Sidebar Bottom -->
+
+                </div>
+            </aside>
+        </div>
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="site-footer">
+        <div class="container">
+            <div class="ad-placeholder footer">
+                <!-- AD SLOT: Footer -->
+
+            </div>
+
+            <div class="footer-inner">
+                <nav class="footer-nav">
+                    <a href="../">Home</a>
+                    <a href="../pages/ptc">PTC</a>
+                    <a href="../pages/faucets">Faucets</a>
+                    <a href="../pages/offers">Offers</a>
+                    <a href="../reviews/">Reviews</a>
+                    <a href="../guides/">Guides</a>
+                    <a href="./index.html">Blog</a>
+                    <span class="footer-separator">|</span>
+                    <a href="../pages/about">About</a>
+                    <a href="../pages/privacy">Privacy</a>
+                    <a href="../pages/disclaimer">Disclaimer</a>
+                    <a href="../pages/contact">Contact</a>
+                </nav>
+
+                <p class="footer-disclaimer">
+                    <strong>Disclaimer:</strong> This site provides information about micro-earning opportunities. Results vary. Some links are referral links - see our <a href="../pages/disclaimer">full disclaimer</a>.
+                </p>
+
+                <p class="text-small text-muted" style="margin-top: 1rem;">
+                    &copy; 2026 $1perday! For educational purposes only.
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../assets/js/main.js"></script>
+</body>
+</html>

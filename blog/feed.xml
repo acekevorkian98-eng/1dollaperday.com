@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>$1perday! Blog</title>
+        <link>https://1perday.com/blog/</link>
+        <description>Practical articles on micro-earning strategies, platform updates, and honest opinions about making money online.</description>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 17 Feb 2026 07:30:49 +0000</lastBuildDate>
+        <atom:link href="https://1perday.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>How Much Can You REALLY Make From PTC &amp; Faucets in 2026? (30-Day Test Results)</title>
+            <link>https://1perday.com/blog/ptc-faucet-30-day-earnings-test</link>
+            <guid isPermaLink="true">https://1perday.com/blog/ptc-faucet-30-day-earnings-test</guid>
+            <description>We spent 30 days tracking every cent earned from PTC sites and crypto faucets. Here are the real numbers, daily breakdowns, and honest verdict on whether it&#x27;s worth your time in 2026.</description>
+            <category>Case Study</category>
+            <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>5 Highest Paying PTC Sites in 2025</title>
+            <link>https://1perday.com/blog/5-highest-paying-ptc-sites</link>
+            <guid isPermaLink="true">https://1perday.com/blog/5-highest-paying-ptc-sites</guid>
+            <description>The 5 best PTC (paid-to-click) sites that actually pay in 2025. MakeYouTask, LuckyWatch.Pro, CoinPayU, FireFaucet, and FaucetCrypto compared with real earnings data.</description>
+            <category>Guide</category>
+            <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>The Fascinating History of Bitcoin Faucets: From 5 BTC to Satoshis</title>
+            <link>https://1perday.com/blog/history-of-bitcoin-faucets</link>
+            <guid isPermaLink="true">https://1perday.com/blog/history-of-bitcoin-faucets</guid>
+            <description>Discover the history of Bitcoin faucets, from Gavin Andresen&#x27;s original 5 BTC giveaway in 2010 to the modern micro-earning landscape of 2026.</description>
+            <category>Guide</category>
+            <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>How Many People Make Money Online Every Day?</title>
+            <link>https://1perday.com/blog/how-many-people-make-money-online-every-day</link>
+            <guid isPermaLink="true">https://1perday.com/blog/how-many-people-make-money-online-every-day</guid>
+            <description>How many people actually make money online every day? We break down realistic numbers, income levels, and what it really looks like in 2026.</description>
+            <category>Opinion</category>
+            <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,38 @@
+# robots.txt for $1perday!
+# https://1perday.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://1perday.com/sitemap.xml
+
+# Disallow admin and template files
+Disallow: /admin/
+Disallow: /reviews/_template.html
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# Block bad bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+# Crawl-delay for polite bots
+Crawl-delay: 1
