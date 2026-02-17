@@ -37,7 +37,12 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-    <link rel="stylesheet" href="../assets/css/style.css">
+
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+    <link rel="dns-prefetch" href="https://www.google-analytics.com">
+    <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+    <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+    <link rel="stylesheet" href="../assets/css/style.css" fetchpriority="high">
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>$</text></svg>">
 
     <script type="application/ld+json">
@@ -58,10 +63,11 @@
         "@type": "ItemList",
         "name": "Blog Articles",
         "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "How Much Can You REALLY Make From PTC & Faucets in 2026? (30-Day Test Results)", "url": "https://1perday.com/blog/ptc-faucet-30-day-earnings-test"},
-            {"@type": "ListItem", "position": 2, "name": "5 Highest Paying PTC Sites in 2025", "url": "https://1perday.com/blog/5-highest-paying-ptc-sites"},
-            {"@type": "ListItem", "position": 3, "name": "The Fascinating History of Bitcoin Faucets: From 5 BTC to Satoshis", "url": "https://1perday.com/blog/history-of-bitcoin-faucets"},
-            {"@type": "ListItem", "position": 4, "name": "How Many People Make Money Online Every Day?", "url": "https://1perday.com/blog/how-many-people-make-money-online-every-day"}
+            {"@type": "ListItem", "position": 1, "name": "How to Automate MakeYouTask Video Earnings (Step-by-Step + My 2 Macros)", "url": "https://1perday.com/blog/automate-makeyoutask-earnings"},
+            {"@type": "ListItem", "position": 2, "name": "How Much Can You REALLY Make From PTC & Faucets in 2026? (30-Day Test Results)", "url": "https://1perday.com/blog/ptc-faucet-30-day-earnings-test"},
+            {"@type": "ListItem", "position": 3, "name": "5 Highest Paying PTC Sites in 2025", "url": "https://1perday.com/blog/5-highest-paying-ptc-sites"},
+            {"@type": "ListItem", "position": 4, "name": "The Fascinating History of Bitcoin Faucets: From 5 BTC to Satoshis", "url": "https://1perday.com/blog/history-of-bitcoin-faucets"},
+            {"@type": "ListItem", "position": 5, "name": "How Many People Make Money Online Every Day?", "url": "https://1perday.com/blog/how-many-people-make-money-online-every-day"}
         ]
     }
     </script>
@@ -400,7 +406,8 @@
             padding: 0.7rem 1.25rem;
         }
     </style>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.css" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.css"></noscript>
 </head>
 <body>
     
@@ -478,11 +485,20 @@
                     <section>
                         <div class="blog-section-header">
                             <h2>All Articles</h2>
-                            <span class="post-count">4 articles</span>
+                            <span class="post-count">5 articles</span>
                         </div>
 
                         <div class="guide-list">
                             <!-- BLOG_ENTRIES_START -->
+                            <div class="guide-card" data-category="Strategy">
+                                <span class="guide-card-category">Strategy</span>
+                                <h3><a href="automate-makeyoutask-earnings.html">How to Automate MakeYouTask Video Earnings (Step-by-Step + My 2 Macros)</a></h3>
+                                <p>My exact 2-macro system for automating MakeYouTask video earnings. Step-by-step guide + free scripts. Turn repetitive clicking into semi-passive income.</p>
+                                <div class="guide-card-footer">
+                                    <span class="difficulty-badge beginner">February 17, 2026 &middot; 7 min read</span>
+                                    <a href="automate-makeyoutask-earnings.html">Read Article &rarr;</a>
+                                </div>
+                            </div>
                             <div class="guide-card" data-category="Case Study">
                                 <span class="guide-card-category">Case Study</span>
                                 <h3><a href="ptc-faucet-30-day-earnings-test.html">How Much Can You REALLY Make From PTC & Faucets in 2026? (30-Day Test Results)</a></h3>
@@ -565,6 +581,7 @@
                         <li><a href="#" data-category="Case Study">Case Study</a></li>
                         <li><a href="#" data-category="Guide">Guide</a></li>
                         <li><a href="#" data-category="Opinion">Opinion</a></li>
+                        <li><a href="#" data-category="Strategy">Strategy</a></li>
                     </ul>
                 </div>
 
