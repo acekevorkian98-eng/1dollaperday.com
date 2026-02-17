@@ -1,23 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Cookiebot - MUST be first script -->
-    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js"
-            data-cbid="65a4e9af-e9b8-42c6-9212-649f468f91ae"
-            data-blockingmode="auto" type="text/javascript">
-    </script>
-
-    <!-- Google Tag Manager -->
-    <script type="text/plain" data-cookieconsent="statistics">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<!-- Google Tag Manager -->
+    <script type="text/plain" data-category="analytics">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-KK96XDSZ');</script>
     <!-- End Google Tag Manager -->
 
-    <!-- Google Analytics (Consent Managed via Cookiebot) -->
-    <script type="text/plain" data-cookieconsent="statistics" async src="https://www.googletagmanager.com/gtag/js?id=G-MLS6E270KY"></script>
-    <script type="text/plain" data-cookieconsent="statistics">
+    <!-- Google Analytics () -->
+    <script type="text/plain" data-category="analytics" async src="https://www.googletagmanager.com/gtag/js?id=G-MLS6E270KY"></script>
+    <script type="text/plain" data-category="analytics">
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
@@ -45,6 +39,7 @@
 
     <link rel="stylesheet" href="../assets/css/style.css">
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>$</text></svg>">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.css">
 </head>
 <body>
     <!-- Google Tag Manager (noscript) -->
@@ -115,7 +110,7 @@
 
                     <section>
                         <h2>Cookies and Tracking Technologies</h2>
-                        <p>We use cookies and similar tracking technologies to improve your experience and analyze Site usage. Our cookie consent is managed by Cookiebot, which allows you to control your preferences.</p>
+                        <p>We use cookies and similar tracking technologies to improve your experience and analyze Site usage. Our cookie consent is managed by CookieConsent (open-source, self-hosted), which allows you to control your preferences.</p>
 
                         <h3>Types of Cookies We Use</h3>
                         <table>
@@ -147,7 +142,7 @@
 
                         <div class="info-box neutral">
                             <p class="info-box-title">Managing Your Cookie Preferences</p>
-                            <p>You can change your cookie preferences at any time by clicking the cookie settings icon or by visiting our <a href="javascript:Cookiebot.renew()">Cookie Declaration</a>.</p>
+                            <p>You can change your cookie preferences at any time by clicking the cookie settings icon or by visiting our <a href="javascript:CookieConsent.showPreferences()">Cookie Declaration</a>.</p>
                         </div>
                     </section>
 
@@ -161,8 +156,8 @@
                         <h3>Google Tag Manager</h3>
                         <p>We use Google Tag Manager to manage tracking scripts on our Site. GTM itself does not collect personal data but facilitates the deployment of other analytics tools.</p>
 
-                        <h3>Cookiebot</h3>
-                        <p>We use Cookiebot to manage cookie consent and comply with privacy regulations. Cookiebot stores your consent preferences. See <a href="https://www.cookiebot.com/en/privacy-policy/" target="_blank" rel="noopener">Cookiebot's Privacy Policy</a>.</p>
+                        <h3>Cookie Consent</h3>
+                        <p>We use CookieConsent (an open-source tool by Orest Bida) to manage cookie consent and comply with privacy regulations. Your consent preferences are stored locally in your browser. No data is sent to third-party consent services.</p>
 
                         <h3>Affiliate Partners</h3>
                         <p>When you click referral links on our Site, you may be directed to third-party websites. These sites have their own privacy policies, and we encourage you to review them. We may receive information about successful referrals but do not receive your personal information from these partners.</p>
@@ -250,7 +245,7 @@
                 <div class="sidebar-widget">
                     <h3>Cookie Settings</h3>
                     <p class="text-small">You can manage your cookie preferences at any time.</p>
-                    <a href="javascript:Cookiebot.renew()" class="btn" style="display: block; text-align: center; margin-top: 0.5rem;">Manage Cookies</a>
+                    <a href="javascript:CookieConsent.showPreferences()" class="btn" style="display: block; text-align: center; margin-top: 0.5rem;">Manage Cookies</a>
                 </div>
             </aside>
         </div>
@@ -282,5 +277,7 @@
     </footer>
 
     <script src="../assets/js/main.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.umd.js"></script>
+    <script src="../assets/js/cookieconsent-config.js"></script>
 </body>
 </html>
