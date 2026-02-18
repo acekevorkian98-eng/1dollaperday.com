@@ -682,7 +682,7 @@ function initPromoPopup() {
                     <h3>MakeYouTask &mdash; The #1 Micro-Earning Site</h3>
                 </div>
                 <div class="promo-popup-content promo-success-content">
-                    <p class="promo-highlight-text">Looking for the <strong>best way to earn online</strong> in 2025? MakeYouTask is the undisputed champion of micro-earning platforms.</p>
+                    <p class="promo-highlight-text">Looking for the <strong>best way to earn online</strong> in 2026? MakeYouTask is the undisputed champion of micro-earning platforms.</p>
                     <p class="promo-feature-text">Easy payouts, minimal thresholds, and one of the most <strong>lucrative referral programs</strong> in the space &mdash; earn up to <strong>20% of your referrals' earnings</strong> for life.</p>
                     <p class="promo-cta-text">Whether you're completing surveys, tasks, or offerwalls, MakeYouTask makes every minute count.</p>
                     <a href="reviews/makeyoutask" class="promo-success-cta">Read Our Full Review &rarr;</a>
