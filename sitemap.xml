@@ -418,6 +418,12 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://1perday.com/blog/my-1-dollar-a-day-passive-income-stack</loc>
+        <lastmod>2026-02-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://1perday.com/blog/automate-luckywatch-earnings</loc>
         <lastmod>2026-02-18</lastmod>
         <changefreq>monthly</changefreq>
@@ -453,5 +459,5 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
-                                <!-- BLOG_SITEMAP_END -->
+                                    <!-- BLOG_SITEMAP_END -->
 </urlset>
