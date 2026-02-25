@@ -630,7 +630,8 @@ function handleNewsletterSubmit(e) {
 
     fetch(form.action, {
         method: 'POST',
-        body: formData
+        body: formData,
+        headers: { 'Accept': 'application/json' }
     })
     .then(response => {
         if (response.ok || response.redirected) {
