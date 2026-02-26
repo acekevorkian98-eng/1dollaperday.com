@@ -407,9 +407,15 @@
     <!-- BLOG_SITEMAP_START -->
     <url>
         <loc>https://1perday.com/blog/</loc>
-        <lastmod>2026-02-25</lastmod>
+        <lastmod>2026-02-26</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://1perday.com/blog/how-to-make-1-dollar-a-day-online</loc>
+        <lastmod>2026-02-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
     </url>
     <url>
         <loc>https://1perday.com/blog/faucetpay-microwallet-guide</loc>
@@ -471,5 +477,5 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
-                                            <!-- BLOG_SITEMAP_END -->
+                                                <!-- BLOG_SITEMAP_END -->
 </urlset>
