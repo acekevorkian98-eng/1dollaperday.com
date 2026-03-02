@@ -407,12 +407,48 @@
     <!-- BLOG_SITEMAP_START -->
     <url>
         <loc>https://1perday.com/blog/</loc>
-        <lastmod>2026-02-26</lastmod>
+        <lastmod>2026-03-02</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://1perday.com/blog/automate-makeyoutask-macro-v2</loc>
+        <lastmod>2026-03-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://1perday.com/blog/makeyoutask-2026-update</loc>
+        <lastmod>2026-03-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://1perday.com/blog/rewardxp-review-2026</loc>
+        <lastmod>2026-03-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://1perday.com/blog/bandwidth-sharing-apps-compared-2026</loc>
+        <lastmod>2026-02-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://1perday.com/blog/freecash-vs-swagbucks-vs-prizerebel-2026</loc>
+        <lastmod>2026-02-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://1perday.com/blog/how-to-make-1-dollar-a-day-online</loc>
+        <lastmod>2026-02-26</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://1perday.com/blog/real-hourly-rate-micro-earning</loc>
         <lastmod>2026-02-26</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -477,5 +513,5 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
-                                                <!-- BLOG_SITEMAP_END -->
+                                                    <!-- BLOG_SITEMAP_END -->
 </urlset>

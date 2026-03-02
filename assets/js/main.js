@@ -679,14 +679,14 @@ function initPromoPopup() {
             <div class="promo-popup promo-success-popup">
                 <button class="promo-popup-close" onclick="closePromoPopup()" aria-label="Close">&times;</button>
                 <div class="promo-popup-header promo-success-header">
-                    <span class="promo-success-icon">&#11088;</span>
-                    <h3>MakeYouTask &mdash; The #1 Micro-Earning Site</h3>
+                    <span class="promo-success-icon">&#9889;</span>
+                    <h3>MakeYouTask Macro V2 &mdash; Just Updated</h3>
                 </div>
                 <div class="promo-popup-content promo-success-content">
-                    <p class="promo-highlight-text">Looking for the <strong>best way to earn online</strong> in 2026? MakeYouTask is the undisputed champion of micro-earning platforms.</p>
-                    <p class="promo-feature-text">Easy payouts, minimal thresholds, and one of the most <strong>lucrative referral programs</strong> in the space &mdash; earn up to <strong>20% of your referrals' earnings</strong> for life.</p>
-                    <p class="promo-cta-text">Whether you're completing surveys, tasks, or offerwalls, MakeYouTask makes every minute count.</p>
-                    <a href="reviews/makeyoutask" class="promo-success-cta">Read Our Full Review &rarr;</a>
+                    <p class="promo-highlight-text">We've updated our <strong>MakeYouTask automation script</strong> based on your feedback. V2 is smarter, handles more edge cases, and runs with less babysitting.</p>
+                    <p class="promo-feature-text">Short video loops, age-restricted tabs, live stream queues &mdash; V2 handles them all automatically. Plus a best-effort captcha nudge on load.</p>
+                    <p class="promo-cta-text">Already running the macros? The update is a 30-second swap. New to it? The full guide has everything you need.</p>
+                    <a href="blog/automate-makeyoutask-macro-v2" class="promo-success-cta">Read the V2 Update &rarr;</a>
                 </div>
             </div>
         </div>
