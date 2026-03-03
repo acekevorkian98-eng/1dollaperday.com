@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <!-- Homepage -->
     <url>
-        <loc>https://1perday.com/</loc>
+        <loc>https://1dollaperday.com/</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -10,55 +10,55 @@
 
     <!-- Main Pages -->
     <url>
-        <loc>https://1perday.com/pages/ptc</loc>
+        <loc>https://1dollaperday.com/pages/ptc</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/pages/faucets</loc>
+        <loc>https://1dollaperday.com/pages/faucets</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/pages/offers</loc>
+        <loc>https://1dollaperday.com/pages/offers</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/pages/autosurf</loc>
+        <loc>https://1dollaperday.com/pages/autosurf</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/pages/social</loc>
+        <loc>https://1dollaperday.com/pages/social</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/pages/about</loc>
+        <loc>https://1dollaperday.com/pages/about</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://1perday.com/pages/contact</loc>
+        <loc>https://1dollaperday.com/pages/contact</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://1perday.com/pages/privacy</loc>
+        <loc>https://1dollaperday.com/pages/privacy</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.3</priority>
     </url>
     <url>
-        <loc>https://1perday.com/pages/disclaimer</loc>
+        <loc>https://1dollaperday.com/pages/disclaimer</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.3</priority>
@@ -66,7 +66,7 @@
 
     <!-- Reviews Index -->
     <url>
-        <loc>https://1perday.com/reviews/</loc>
+        <loc>https://1dollaperday.com/reviews/</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
@@ -74,278 +74,278 @@
 
     <!-- Individual Reviews -->
     <url>
-        <loc>https://1perday.com/reviews/faucetpay</loc>
+        <loc>https://1dollaperday.com/reviews/faucetpay</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/faucetcrypto</loc>
+        <loc>https://1dollaperday.com/reviews/faucetcrypto</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/firefaucet</loc>
+        <loc>https://1dollaperday.com/reviews/firefaucet</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/coinpayu</loc>
+        <loc>https://1dollaperday.com/reviews/coinpayu</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/cointiply</loc>
+        <loc>https://1dollaperday.com/reviews/cointiply</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/viefaucet</loc>
+        <loc>https://1dollaperday.com/reviews/viefaucet</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/faucetoshi</loc>
+        <loc>https://1dollaperday.com/reviews/faucetoshi</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/adbtc</loc>
+        <loc>https://1dollaperday.com/reviews/adbtc</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/honeygain</loc>
+        <loc>https://1dollaperday.com/reviews/honeygain</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/jumptask</loc>
+        <loc>https://1dollaperday.com/reviews/jumptask</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/bytelixir</loc>
+        <loc>https://1dollaperday.com/reviews/bytelixir</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/luckywatch</loc>
+        <loc>https://1dollaperday.com/reviews/luckywatch</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/makeyoutask</loc>
+        <loc>https://1dollaperday.com/reviews/makeyoutask</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/freecash</loc>
+        <loc>https://1dollaperday.com/reviews/freecash</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/swagbucks</loc>
+        <loc>https://1dollaperday.com/reviews/swagbucks</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/prolific</loc>
+        <loc>https://1dollaperday.com/reviews/prolific</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/prizerebel</loc>
+        <loc>https://1dollaperday.com/reviews/prizerebel</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/brave</loc>
+        <loc>https://1dollaperday.com/reviews/brave</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/rakuten</loc>
+        <loc>https://1dollaperday.com/reviews/rakuten</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/ysense</loc>
+        <loc>https://1dollaperday.com/reviews/ysense</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/pawns</loc>
+        <loc>https://1dollaperday.com/reviews/pawns</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/mturk</loc>
+        <loc>https://1dollaperday.com/reviews/mturk</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/ibotta</loc>
+        <loc>https://1dollaperday.com/reviews/ibotta</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/usertesting</loc>
+        <loc>https://1dollaperday.com/reviews/usertesting</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/respondent</loc>
+        <loc>https://1dollaperday.com/reviews/respondent</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/topcashback</loc>
+        <loc>https://1dollaperday.com/reviews/topcashback</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/honey</loc>
+        <loc>https://1dollaperday.com/reviews/honey</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/clickworker</loc>
+        <loc>https://1dollaperday.com/reviews/clickworker</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/mistplay</loc>
+        <loc>https://1dollaperday.com/reviews/mistplay</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/earnapp</loc>
+        <loc>https://1dollaperday.com/reviews/earnapp</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/freebitcoin</loc>
+        <loc>https://1dollaperday.com/reviews/freebitcoin</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/gg2u</loc>
+        <loc>https://1dollaperday.com/reviews/gg2u</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/pinecone</loc>
+        <loc>https://1dollaperday.com/reviews/pinecone</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/befrugal</loc>
+        <loc>https://1dollaperday.com/reviews/befrugal</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/fetchrewards</loc>
+        <loc>https://1dollaperday.com/reviews/fetchrewards</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/rewardxp</loc>
+        <loc>https://1dollaperday.com/reviews/rewardxp</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/surveytime</loc>
+        <loc>https://1dollaperday.com/reviews/surveytime</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/userfeel</loc>
+        <loc>https://1dollaperday.com/reviews/userfeel</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/dutchycorp</loc>
+        <loc>https://1dollaperday.com/reviews/dutchycorp</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/dscout</loc>
+        <loc>https://1dollaperday.com/reviews/dscout</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <!-- Previously missing reviews -->
     <url>
-        <loc>https://1perday.com/reviews/attapoll</loc>
+        <loc>https://1dollaperday.com/reviews/attapoll</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/gaingg</loc>
+        <loc>https://1dollaperday.com/reviews/gaingg</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/idleempire</loc>
+        <loc>https://1dollaperday.com/reviews/idleempire</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/packetstream</loc>
+        <loc>https://1dollaperday.com/reviews/packetstream</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/qmee</loc>
+        <loc>https://1dollaperday.com/reviews/qmee</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/reviews/toloka</loc>
+        <loc>https://1dollaperday.com/reviews/toloka</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -353,7 +353,7 @@
 
     <!-- Guides Index -->
     <url>
-        <loc>https://1perday.com/guides/</loc>
+        <loc>https://1dollaperday.com/guides/</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
@@ -361,43 +361,43 @@
 
     <!-- Individual Guides -->
     <url>
-        <loc>https://1perday.com/guides/getting-started</loc>
+        <loc>https://1dollaperday.com/guides/getting-started</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://1perday.com/guides/account-setup</loc>
+        <loc>https://1dollaperday.com/guides/account-setup</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/guides/best-faucets-2025</loc>
+        <loc>https://1dollaperday.com/guides/best-faucets-2025</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.95</priority>
     </url>
     <url>
-        <loc>https://1perday.com/guides/best-passive-income-apps</loc>
+        <loc>https://1dollaperday.com/guides/best-passive-income-apps</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.95</priority>
     </url>
     <url>
-        <loc>https://1perday.com/guides/scam-alerts</loc>
+        <loc>https://1dollaperday.com/guides/scam-alerts</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://1perday.com/guides/glossary</loc>
+        <loc>https://1dollaperday.com/guides/glossary</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/guides/daily-guide</loc>
+        <loc>https://1dollaperday.com/guides/daily-guide</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -406,112 +406,124 @@
     <!-- Blog (auto-maintained by build_blog.py) -->
     <!-- BLOG_SITEMAP_START -->
     <url>
-        <loc>https://1perday.com/blog/</loc>
-        <lastmod>2026-03-02</lastmod>
+        <loc>https://1dollaperday.com/blog/</loc>
+        <lastmod>2026-03-03</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://1perday.com/blog/automate-makeyoutask-macro-v2</loc>
+        <loc>https://1dollaperday.com/blog/history-of-cryptocurrency</loc>
+        <lastmod>2026-03-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://1dollaperday.com/blog/how-crypto-wallets-work</loc>
+        <lastmod>2026-03-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://1dollaperday.com/blog/automate-makeyoutask-macro-v2</loc>
         <lastmod>2026-03-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/blog/makeyoutask-2026-update</loc>
+        <loc>https://1dollaperday.com/blog/makeyoutask-2026-update</loc>
         <lastmod>2026-03-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/blog/rewardxp-review-2026</loc>
+        <loc>https://1dollaperday.com/blog/rewardxp-review-2026</loc>
         <lastmod>2026-03-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/blog/bandwidth-sharing-apps-compared-2026</loc>
+        <loc>https://1dollaperday.com/blog/bandwidth-sharing-apps-compared-2026</loc>
         <lastmod>2026-02-27</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/blog/freecash-vs-swagbucks-vs-prizerebel-2026</loc>
+        <loc>https://1dollaperday.com/blog/freecash-vs-swagbucks-vs-prizerebel-2026</loc>
         <lastmod>2026-02-27</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/blog/how-to-make-1-dollar-a-day-online</loc>
+        <loc>https://1dollaperday.com/blog/how-to-make-1-dollar-a-day-online</loc>
         <lastmod>2026-02-26</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/blog/real-hourly-rate-micro-earning</loc>
+        <loc>https://1dollaperday.com/blog/real-hourly-rate-micro-earning</loc>
         <lastmod>2026-02-26</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/blog/faucetpay-microwallet-guide</loc>
+        <loc>https://1dollaperday.com/blog/faucetpay-microwallet-guide</loc>
         <lastmod>2026-02-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/blog/5-passive-income-apps-30-day-phone-test</loc>
+        <loc>https://1dollaperday.com/blog/5-passive-income-apps-30-day-phone-test</loc>
         <lastmod>2026-02-24</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/blog/honeygain-vs-pawns-vs-earnapp-vs-packetstream</loc>
+        <loc>https://1dollaperday.com/blog/honeygain-vs-pawns-vs-earnapp-vs-packetstream</loc>
         <lastmod>2026-02-23</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/blog/my-1-dollar-a-day-passive-income-stack</loc>
+        <loc>https://1dollaperday.com/blog/my-1-dollar-a-day-passive-income-stack</loc>
         <lastmod>2026-02-23</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/blog/automate-luckywatch-earnings</loc>
+        <loc>https://1dollaperday.com/blog/automate-luckywatch-earnings</loc>
         <lastmod>2026-02-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/blog/automate-makeyoutask-earnings</loc>
+        <loc>https://1dollaperday.com/blog/automate-makeyoutask-earnings</loc>
         <lastmod>2026-02-17</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/blog/ptc-faucet-30-day-earnings-test</loc>
+        <loc>https://1dollaperday.com/blog/ptc-faucet-30-day-earnings-test</loc>
         <lastmod>2026-02-17</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/blog/5-highest-paying-ptc-sites</loc>
+        <loc>https://1dollaperday.com/blog/5-highest-paying-ptc-sites</loc>
         <lastmod>2026-02-16</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/blog/history-of-bitcoin-faucets</loc>
+        <loc>https://1dollaperday.com/blog/history-of-bitcoin-faucets</loc>
         <lastmod>2026-02-16</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://1perday.com/blog/how-many-people-make-money-online-every-day</loc>
+        <loc>https://1dollaperday.com/blog/how-many-people-make-money-online-every-day</loc>
         <lastmod>2026-02-16</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
-                                                    <!-- BLOG_SITEMAP_END -->
+                                                            <!-- BLOG_SITEMAP_END -->
 </urlset>
