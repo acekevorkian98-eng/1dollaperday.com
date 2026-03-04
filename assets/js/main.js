@@ -686,7 +686,7 @@ function initPromoPopup() {
                     <p class="promo-highlight-text">We've updated our <strong>MakeYouTask automation script</strong> based on your feedback. V2 is smarter, handles more edge cases, and runs with less babysitting.</p>
                     <p class="promo-feature-text">Short video loops, age-restricted tabs, live stream queues &mdash; V2 handles them all automatically. Plus a best-effort captcha nudge on load.</p>
                     <p class="promo-cta-text">Already running the macros? The update is a 30-second swap. New to it? The full guide has everything you need.</p>
-                    <a href="blog/automate-makeyoutask-macro-v2" class="promo-success-cta">Read the V2 Update &rarr;</a>
+                    <a href="/blog/automate-makeyoutask-macro-v2" class="promo-success-cta">Read the V2 Update &rarr;</a>
                 </div>
             </div>
         </div>
