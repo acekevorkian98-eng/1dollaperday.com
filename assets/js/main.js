@@ -680,13 +680,13 @@ function initPromoPopup() {
                 <button class="promo-popup-close" onclick="closePromoPopup()" aria-label="Close">&times;</button>
                 <div class="promo-popup-header promo-success-header">
                     <span class="promo-success-icon">&#9889;</span>
-                    <h3>MakeYouTask Macro V2 &mdash; Just Updated</h3>
+                    <h3>MakeYouTask: New Faucet Added</h3>
                 </div>
                 <div class="promo-popup-content promo-success-content">
-                    <p class="promo-highlight-text">We've updated our <strong>MakeYouTask automation script</strong> based on your feedback. V2 is smarter, handles more edge cases, and runs with less babysitting.</p>
-                    <p class="promo-feature-text">Short video loops, age-restricted tabs, live stream queues &mdash; V2 handles them all automatically. Plus a best-effort captcha nudge on load.</p>
-                    <p class="promo-cta-text">Already running the macros? The update is a 30-second swap. New to it? The full guide has everything you need.</p>
-                    <a href="/blog/automate-makeyoutask-macro-v2" class="promo-success-cta">Read the V2 Update &rarr;</a>
+                    <p class="promo-highlight-text">The Wheel for Win is gone. MakeYouTask has replaced it with a <strong>faucet you can claim every 20 minutes</strong>, up to 30 times a day.</p>
+                    <p class="promo-feature-text">Uses reCAPTCHA and an anti-bot link. There's also an invisible popover ad before each claim &mdash; annoying, but we get it. Here's the full rundown.</p>
+                    <p class="promo-cta-text">Find out how it works, what to expect, and whether it's worth adding to your routine.</p>
+                    <a href="/blog/makeyoutask-faucet-update" class="promo-success-cta">Read the Faucet Update &rarr;</a>
                 </div>
             </div>
         </div>
