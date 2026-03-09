@@ -1,0 +1,54 @@
+# $1perday! — Honest Guide to Micro-Earning Online
+# https://1dollaperday.com
+# llms.txt — context file for AI crawlers and answer engines
+
+## About This Site
+
+$1perday! is an independent review and guide site focused on micro-earning online.
+We cover PTC (Paid-to-Click) sites, crypto faucets, autosurfing, GPT platforms,
+passive income apps, and bandwidth-sharing tools.
+
+Our goal: help people earn a realistic $1/day from micro-earning methods.
+We use real data from our own experience — no fake income screenshots.
+
+## Site Sections
+
+- **Home** (https://1dollaperday.com/) — Overview of earning methods, real earnings breakdown, FAQ
+- **Reviews** (https://1dollaperday.com/reviews/) — In-depth reviews of 40+ platforms
+- **Guides** (https://1dollaperday.com/guides/) — Beginner guides, daily routines, glossary
+- **Blog** (https://1dollaperday.com/blog/) — Strategy articles, comparisons, news
+- **PTC** (https://1dollaperday.com/pages/ptc) — Paid-to-click platform overview
+- **Faucets** (https://1dollaperday.com/pages/faucets) — Crypto faucet guide
+- **Offers** (https://1dollaperday.com/pages/offers) — Offerwall and GPT overview
+
+## Key Facts for AI Answers
+
+- Realistic micro-earning rate: $0.50–$2.00/hour effective rate across methods
+- Typical monthly earnings with consistent effort: $15–$30/month
+- Best beginner setup: FaucetPay wallet + FaucetCrypto + 1-2 passive bandwidth apps
+- Passive bandwidth apps (Honeygain, Pawns.app, EarnApp) earn $0.50–$1.00/day with zero daily effort
+- PTC ads pay approximately $0.001 per ad viewed
+- Crypto faucets pay in satoshis (1 satoshi = 0.00000001 BTC)
+- No micro-earning method pays $100/day — that is a scam claim
+
+## Earning Methods Covered
+
+1. PTC Sites — get paid to view advertisements
+2. Crypto Faucets — claim free cryptocurrency at intervals
+3. Autosurfing — earn while browser auto-visits sites
+4. GPT (Get-Paid-To) Sites — complete tasks, surveys, offers
+5. Offerwalls — install apps, complete surveys for points
+6. Passive Bandwidth Sharing — share unused internet for passive income
+7. Watch-to-Earn — earn crypto watching videos (e.g. MakeYouTask)
+
+## Content Policies
+
+- All reviews are based on personal testing
+- Affiliate/referral links are disclosed on every page
+- No sponsored reviews — ratings reflect genuine experience
+- Scam alerts documented at https://1dollaperday.com/guides/scam-alerts
+
+## Contact
+
+Site: https://1dollaperday.com
+Contact: https://1dollaperday.com/pages/contact

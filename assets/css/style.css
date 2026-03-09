@@ -764,6 +764,37 @@ section:not(.hero) .btn-secondary:hover {
 }
 
 /* ============================================
+   QUICK ANSWER BOX - AEO Direct Answer
+   ============================================ */
+.quick-answer {
+    background: linear-gradient(135deg, rgba(99,102,241,0.07), var(--bg-subtle));
+    border: 1px solid rgba(99,102,241,0.25);
+    border-left: 4px solid var(--primary);
+    border-radius: var(--radius-md);
+    padding: 1.25rem 1.5rem;
+    margin: 1.5rem 0 2rem;
+}
+
+.quick-answer::before {
+    content: 'Quick Answer';
+    display: block;
+    font-family: 'Syne', sans-serif;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--primary);
+    margin-bottom: 0.5rem;
+}
+
+.quick-answer p {
+    margin: 0;
+    color: var(--text);
+    font-size: 1rem;
+    line-height: 1.65;
+}
+
+/* ============================================
    LATEST REVIEW BANNER
    ============================================ */
 .latest-review-banner {
