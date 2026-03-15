@@ -820,7 +820,7 @@ document.addEventListener('DOMContentLoaded', function() {
     generateTOC();
     initLastUpdated();
     initNewsletter();
-    initPromoPopup();
+    // initPromoPopup(); // temporarily disabled
 
     // Blog enhancements
     initReadingProgress();
