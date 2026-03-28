@@ -5,8 +5,16 @@
         <link>https://1dollaperday.com/blog/</link>
         <description>Practical articles on micro-earning strategies, platform updates, and honest opinions about making money online.</description>
         <language>en-us</language>
-        <lastBuildDate>Thu, 05 Mar 2026 10:17:18 +0000</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 12:00:00 +0000</lastBuildDate>
         <atom:link href="https://1dollaperday.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>MakeYouTask Macro V3: Updated Scripts + A Note on Fair Use</title>
+            <link>https://1dollaperday.com/blog/makeyoutask-macro-v3</link>
+            <guid isPermaLink="true">https://1dollaperday.com/blog/makeyoutask-macro-v3</guid>
+            <description>MakeYouTask updated their site layout and the V2 scripts stopped clicking. V3 fixes the dashboard selector, handles the new Account Safety modal, and reloads the page when captcha fails. Both updated scripts inside.</description>
+            <category>Strategy</category>
+            <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+        </item>
         <item>
             <title>MakeYouTask Removes Wheel for Win, Adds New Faucet (Every 20 Minutes)</title>
             <link>https://1dollaperday.com/blog/makeyoutask-faucet-update</link>

@@ -1,0 +1,707 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <script type="text/plain" data-category="analytics">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KK96XDSZ');</script>
+
+    <script type="text/plain" data-category="analytics" async src="https://www.googletagmanager.com/gtag/js?id=G-MLS6E270KY"></script>
+    <script type="text/plain" data-category="analytics">
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-MLS6E270KY');
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>MakeYouTask Macro V3: Updated Scripts + A Note on Fair Use | $1perday!</title>
+    <meta name="description" content="Updated MakeYouTask automation scripts for March 2026. V3 fixes the dashboard button selector and adds captcha reload logic. Plus a note on keeping your account safe.">
+    <meta name="keywords" content="MakeYouTask macro V3, MakeYouTask automation 2026, MakeYouTask userscript update, MakeYouTask Tampermonkey, PTC automation script">
+    <meta name="author" content="$1perday!">
+    <meta name="robots" content="index, follow">
+    <meta name="article:published_time" content="2026-03-28">
+    <meta name="article:section" content="Strategy">
+    <meta name="reading_time" content="5 min read">
+    <link rel="canonical" href="https://1dollaperday.com/blog/makeyoutask-macro-v3">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:title" content="MakeYouTask Macro V3 – Updated Scripts + Fair Use Note">
+    <meta property="og:description" content="V3 fixes broken dashboard clicks and captcha false positives. Both scripts inside, plus a note on playing by the rules.">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://1dollaperday.com/blog/makeyoutask-macro-v3">
+    <meta property="og:site_name" content="$1perday!">
+    <meta property="og:image" content="https://1dollaperday.com/blog-images/automate-makeyoutask-thumb.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="MakeYouTask Macro V3 Update - Free Scripts">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="MakeYouTask Macro V3 – Updated Scripts + Fair Use Note">
+    <meta name="twitter:description" content="V3 fixes broken dashboard clicks and captcha false positives. Both scripts inside.">
+    <meta name="twitter:image" content="https://1dollaperday.com/blog-images/automate-makeyoutask-thumb.png">
+    <meta name="twitter:image:alt" content="MakeYouTask Macro V3 Update">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+    <link rel="dns-prefetch" href="https://www.google-analytics.com">
+    <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+    <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+    <link rel="stylesheet" href="../assets/css/style.css" fetchpriority="high">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "MakeYouTask Macro V3: Updated Scripts + A Note on Fair Use",
+        "description": "Updated MakeYouTask automation scripts for March 2026. V3 fixes the dashboard button selector and adds captcha reload logic.",
+        "author": {"@type": "Organization", "name": "$1perday!"},
+        "publisher": {"@type": "Organization", "name": "$1perday!"},
+        "datePublished": "2026-03-28",
+        "dateModified": "2026-03-28",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://1dollaperday.com/blog/makeyoutask-macro-v3"
+        }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://1dollaperday.com/"},
+            {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://1dollaperday.com/blog/"},
+            {"@type": "ListItem", "position": 3, "name": "MakeYouTask Macro V3", "item": "https://1dollaperday.com/blog/makeyoutask-macro-v3"}
+        ]
+    }
+    </script>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.css" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.css"></noscript>
+
+    <!-- Structured Data - Speakable (AEO) -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "url": "https://1dollaperday.com/blog/makeyoutask-macro-v3",
+        "speakable": {
+            "@type": "SpeakableSpecification",
+            "cssSelector": [".quick-answer", "h1", "article h2:first-of-type"]
+        }
+    }
+    </script>
+</head>
+<body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KK96XDSZ"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <header class="site-header">
+        <div class="container">
+            <div class="header-inner">
+                <a href="../" class="site-logo">$1perday!</a>
+                <nav class="main-nav">
+                    <ul>
+                        <li><a href="../">Home</a></li>
+                        <li><a href="../pages/ptc">PTC</a></li>
+                        <li><a href="../pages/faucets">Faucets</a></li>
+                        <li><a href="../pages/offers">Offers</a></li>
+                        <li><a href="../reviews/">Reviews</a></li>
+                        <li><a href="../guides/">Guides</a></li>
+                        <li><a href="./" class="active">Blog</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <nav class="breadcrumbs" aria-label="Breadcrumb">
+            <a href="../">Home</a>
+            <span class="separator">/</span>
+            <a href="./">Blog</a>
+            <span class="separator">/</span>
+            <span class="current">MakeYouTask Macro V3</span>
+        </nav>
+
+        <div class="main-content">
+            <article class="article">
+                <header class="review-header">
+                    <div class="review-title-section">
+                        <span class="last-updated">March 2026</span>
+                        <h1>MakeYouTask Macro V3: Updated Scripts + A Note on Fair Use</h1>
+                        <p class="article-meta">Strategy &middot; 5 min read</p>
+                    </div>
+                </header>
+
+                <div class="article-content">
+
+                    <div class="info-box neutral">
+                        <p class="info-box-title">Disclosure</p>
+                        <p style="margin-bottom: 0;">This article contains referral links to MakeYouTask. If you sign up through our link, we may earn a commission at no cost to you. We only recommend platforms we've personally tested. See our <a href="../pages/disclaimer">full disclaimer</a>.</p>
+                    </div>
+
+                    <div class="quick-answer" id="quick-answer">
+                        <p>MakeYouTask updated their site layout and the V2 scripts stopped clicking. V3 fixes the dashboard selector, handles the new Account Safety modal, and reloads the page when Cloudflare captcha fails to load instead of clicking verify with a bad token. Both updated scripts are below.</p>
+                    </div>
+
+
+                    <section>
+                        <h2 id="still-maintaining">Yes, We're Still Maintaining These</h2>
+
+                        <p>Quick reassurance for everyone who's been using these scripts: <strong>we're still actively maintaining them</strong>. When MakeYouTask makes changes on their end, we update the scripts. That's the deal.</p>
+
+                        <p>V2 ran well for about a month. Then MakeYouTask redesigned their PTC dashboard &mdash; new card layout, new button classes, a new popup &mdash; and V2 stopped clicking. If your scripts suddenly stopped working in the last week or so, that's why. Not a Tampermonkey issue, not a browser issue. The site changed underneath the scripts.</p>
+
+                        <p>V3 fixes it. Both scripts are updated below.</p>
+                    </section>
+
+                    <section>
+                        <h2 id="what-changed">What Broke and What V3 Fixes</h2>
+
+                        <p><strong>Three things changed on MakeYouTask's end:</strong></p>
+
+                        <ul>
+                            <li><strong>New "Account Safety" modal:</strong> MakeYouTask now shows a popup overlay on every visit with platform rules. It blocks the entire page until you click "I Understand." V2 had no idea this existed, so it just sat there trying to click buttons behind the modal. V3 auto-dismisses it and checks the "don't show for 24 hours" box.</li>
+                            <li><strong>New button structure:</strong> The "Watch Video" buttons changed from generic links to styled <code>.btn-view</code> elements inside video cards. V2's broad selector was grabbing ad iframes and report buttons by mistake. V3 targets <code>a.btn-view</code> with PTC URL validation &mdash; much more precise.</li>
+                            <li><strong>Captcha false positives (Script #2):</strong> Cloudflare Turnstile sometimes fails to load or times out silently. When that happens, the old script would eventually click verify anyway with no captcha token, wasting the ad. V3 now detects when the captcha hasn't solved after 20 seconds and <strong>reloads the page</strong> for a fresh challenge instead of clicking through with a bad token.</li>
+                        </ul>
+                    </section>
+
+
+                    <section>
+                        <h2 id="script-1">Script #1 &ndash; PTC Dashboard Manager V3 (Updated)</h2>
+
+                        <p><strong>Replace your existing Script #1 with this one.</strong> The old version won't click buttons anymore due to the site changes.</p>
+
+                        <div class="info-box neutral">
+                            <p class="info-box-title">Script #1 V3 &mdash; Copy this entire script:</p>
+                            <pre style="background: #1e1e1e; color: #d4d4d4; padding: 1rem; border-radius: 4px; overflow-x: auto; font-size: 0.85rem;"><code>// ==UserScript==
+// @name         PTC Dashboard Manager V3
+// @match        *://makeyoutask.com/ptc*
+// @grant        none
+// @version      2026.03.28
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    const MAX_HISTORY = 200;
+
+    // ── 1. Dismiss the "Account Safety" modal ──────────────────���─────────────
+    function dismissRulesModal() {
+        const modal = document.getElementById('gxRulesModal');
+        if (modal &amp;&amp; modal.classList.contains('gx-show')) {
+            const checkbox = document.getElementById('gxDontShow');
+            if (checkbox &amp;&amp; !checkbox.checked) checkbox.click();
+            const btn = document.getElementById('gxCloseBtn');
+            if (btn) {
+                console.log('[PTC] Dismissing Account Safety modal.');
+                btn.click();
+                return true;
+            }
+        }
+        return false;
+    }
+
+    // ── 2. Handle success popups (Notiflix + SweetAlert fallback) ────────��────
+    function dismissPopups() {
+        const notiflixClose = document.querySelector('.notiflix-notify .nx-close-button, .notiflix-report .nx-close-button');
+        if (notiflixClose) {
+            console.log('[PTC] Dismissing Notiflix notification.');
+            notiflixClose.click();
+            return true;
+        }
+
+        const notiflixOk = document.querySelector('.notiflix-confirm .nx-confirm-button-ok');
+        if (notiflixOk &amp;&amp; notiflixOk.offsetParent !== null) {
+            console.log('[PTC] Clicking Notiflix OK.');
+            notiflixOk.click();
+            return true;
+        }
+
+        const swalBtn = document.querySelector('.swal2-confirm');
+        if (swalBtn &amp;&amp; swalBtn.offsetParent !== null) {
+            console.log('[PTC] Clicking SweetAlert OK.');
+            swalBtn.click();
+            return true;
+        }
+
+        return false;
+    }
+
+    // ── 3. Main dashboard processing ─────────────────────────────────────────
+    function processDashboard() {
+        if (document.hidden) return;
+
+        if (dismissRulesModal()) return;
+        if (dismissPopups()) return;
+
+        let clickedAds = JSON.parse(localStorage.getItem('ptc_clicked_history') || '[]');
+
+        let availableAds = Array.from(document.querySelectorAll('a.btn-view')).filter(el =&gt; {
+            const isVisible = el.offsetParent !== null;
+            const adUrl = el.href || '';
+            const isPtcLink = adUrl.includes('/ptc/view/');
+            return isVisible &amp;&amp; isPtcLink &amp;&amp; !clickedAds.includes(adUrl);
+        });
+
+        if (availableAds.length &gt; 0) {
+            const targetAd = availableAds[0];
+            const adUrl = targetAd.href;
+
+            console.log(`[PTC] ${availableAds.length} ads remaining. Clicking next in 3s...`);
+
+            setTimeout(() =&gt; {
+                clickedAds.push(adUrl);
+                if (clickedAds.length &gt; MAX_HISTORY) clickedAds.shift();
+                localStorage.setItem('ptc_clicked_history', JSON.stringify(clickedAds));
+
+                targetAd.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                targetAd.click();
+            }, 3000);
+        } else {
+            console.log('[PTC] No new ads on this tab.');
+        }
+    }
+
+    setInterval(processDashboard, 5000);
+})();</code></pre>
+                        </div>
+
+                        <p><strong>What changed from V2:</strong></p>
+                        <ul>
+                            <li>Auto-dismisses the new Account Safety modal (and checks "don't show for 24h")</li>
+                            <li>Handles Notiflix popups (MakeYouTask switched from SweetAlert)</li>
+                            <li>Uses <code>a.btn-view</code> selector with URL validation instead of scanning every link on the page</li>
+                            <li>Click history bumped to 200 entries</li>
+                        </ul>
+                    </section>
+
+                    <section>
+                        <h2 id="script-2">Script #2 &ndash; PTC Video &amp; Tab Handler V3 (Updated)</h2>
+
+                        <p><strong>Replace your existing Script #2 with this one.</strong> The big change here is the captcha reload logic.</p>
+
+                        <div class="info-box neutral">
+                            <p class="info-box-title">Script #2 V3 &mdash; Copy this entire script:</p>
+                            <pre style="background: #1e1e1e; color: #d4d4d4; padding: 1rem; border-radius: 4px; overflow-x: auto; font-size: 0.85rem;"><code>// ==UserScript==
+// @name         PTC Video &amp; Tab Handler V3.1 (Terminator)
+// @match        *://*/ptc/view/*
+// @match        *://*.youtube.com/embed/*
+// @match        *://www.youtube.com/watch*
+// @grant        window.close
+// @run-at       document-start
+// @allFrames    true
+// @version      2026.03.28.1
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    const hostname = window.location.hostname;
+    const pathname = window.location.pathname;
+
+    // ── Helper ───────────────��─────────────────────────���──────────────────────
+
+    const closeTab = () =&gt; {
+        window.close();
+        try { window.top.close(); } catch(e) {}
+        if (!window.closed) {
+            window.location.href = 'about:blank';
+            setTimeout(() =&gt; window.close(), 500);
+        }
+    };
+
+    // ── 1. YouTube Embed Logic ───────────────────��─────────────────────���──────
+    if (hostname.includes('youtube.com') &amp;&amp; pathname.includes('/embed/')) {
+
+        let videoHandlersAttached = false;
+
+        const checkForErrors = () =&gt; {
+            if (document.querySelector('.ytp-error, .ytp-age-gate, .ytp-age-gate-overlay')) {
+                console.log('[PTC] Video unavailable or age-restricted. Closing tab.');
+                closeTab(); return true;
+            }
+            const watchOnYT = document.querySelector('.ytp-watch-on-youtube');
+            if (watchOnYT &amp;&amp; watchOnYT.offsetParent !== null) {
+                console.log('[PTC] Video restricted to YouTube only. Closing tab.');
+                closeTab(); return true;
+            }
+            if (document.querySelector('.ytp-offline-slate')) {
+                console.log('[PTC] Live stream queue detected. Closing tab.');
+                closeTab(); return true;
+            }
+            const errorContent = document.querySelector('.ytp-error-content-wrap-reason');
+            if (errorContent &amp;&amp; errorContent.textContent.trim().length &gt; 0) {
+                console.log('[PTC] Video error: ' + errorContent.textContent.trim() + '. Closing tab.');
+                closeTab(); return true;
+            }
+            return false;
+        };
+
+        const attachVideoHandlers = (video) =&gt; {
+            if (videoHandlersAttached) return;
+            videoHandlersAttached = true;
+
+            video.addEventListener('loadedmetadata', () =&gt; {
+                if (!isFinite(video.duration)) {
+                    console.log('[PTC] Live stream (infinite duration). Closing tab.');
+                    closeTab(); return;
+                }
+                if (video.duration &lt; 10) {
+                    console.log(`[PTC] Short video (${video.duration.toFixed(1)}s) – auto-restart enabled.`);
+                }
+            });
+
+            video.addEventListener('ended', () =&gt; {
+                if (video.duration &lt; 10) {
+                    console.log('[PTC] Short video ended – restarting.');
+                    video.currentTime = 0;
+                    video.play().catch(() =&gt; {});
+                }
+            });
+        };
+
+        const forcePlay = () =&gt; {
+            const video = document.querySelector('video');
+            if (!video) return;
+            video.muted = true;
+            video.volume = 0;
+            attachVideoHandlers(video);
+            const player = document.querySelector('#movie_player');
+            if (player &amp;&amp; typeof player.playVideo === 'function') player.playVideo();
+            video.play().catch(() =&gt; {
+                const bigPlay = document.querySelector('.ytp-large-play-button');
+                if (bigPlay) bigPlay.click();
+            });
+        };
+
+        const playInterval = setInterval(() =&gt; {
+            if (checkForErrors()) { clearInterval(playInterval); return; }
+            const v = document.querySelector('video');
+            if (v &amp;&amp; v.paused) forcePlay();
+            else if (v &amp;&amp; !v.paused) clearInterval(playInterval);
+        }, 1500);
+
+        setTimeout(() =&gt; clearInterval(playInterval), 20000);
+
+        const errorPoll = setInterval(() =&gt; {
+            if (checkForErrors()) clearInterval(errorPoll);
+        }, 2000);
+        setTimeout(() =&gt; clearInterval(errorPoll), 20000);
+    }
+
+    // ── 2. Watch Page Logic (Aggressive Termination) ──────���───────────────────
+    if (hostname.includes('youtube.com') &amp;&amp; pathname.startsWith('/watch')) {
+        console.log('[PTC] Watch page detected – closing tab.');
+        const terminate = () =&gt; {
+            window.close();
+            const s = document.createElement('script');
+            s.text = "window.open('','_self').close();";
+            document.body?.appendChild(s);
+            if (!window.closed) {
+                window.location.href = 'about:blank';
+                setTimeout(() =&gt; window.close(), 500);
+            }
+        };
+        setTimeout(terminate, 1200);
+        setTimeout(terminate, 3000);
+    }
+
+    // ── 3. PTC Verification Logic ─��────────────��──────────────────────────────
+    if (window.top === window.self &amp;&amp; pathname.includes('/ptc/view/')) {
+
+        const tryClickCaptcha = () =&gt; {
+            const turnstile = document.querySelector('.cf-turnstile, [data-sitekey][class*="turnstile"]');
+            if (turnstile) { turnstile.click(); return; }
+
+            const hcaptcha = document.querySelector('.h-captcha, [data-sitekey][class*="hcaptcha"]');
+            if (hcaptcha) { hcaptcha.click(); return; }
+
+            const recaptcha = document.querySelector('.g-recaptcha');
+            if (recaptcha) { recaptcha.click(); return; }
+
+            const iframe = document.querySelector(
+                'iframe[src*="recaptcha"], iframe[src*="challenges.cloudflare"], iframe[src*="hcaptcha"], iframe[title*="captcha" i], iframe[title*="reCAPTCHA"]'
+            );
+            if (iframe) (iframe.parentElement || iframe).click();
+        };
+
+        setTimeout(tryClickCaptcha, 1500);
+        setTimeout(tryClickCaptcha, 3500);
+        setTimeout(tryClickCaptcha, 6000);
+
+        let pollCount = 0;
+        const MAX_CAPTCHA_POLLS = 10; // ~20s before reload
+
+        const checkCaptchaAndVerify = setInterval(() =&gt; {
+            pollCount++;
+
+            const cfResponse =
+                document.querySelector('[name="cf-turnstile-response"]')?.value ||
+                document.querySelector('[name="g-recaptcha-response"]')?.value ||
+                document.querySelector('[name="h-captcha-response"]')?.value ||
+                '';
+
+            const isSolved = cfResponse.length &gt; 10;
+
+            const btn =
+                document.querySelector('#verify') ||
+                document.querySelector('button[type="submit"]') ||
+                document.querySelector('.btn-verify, .btn-claim, .verify-btn');
+
+            if (!isSolved) {
+                if (pollCount &gt;= MAX_CAPTCHA_POLLS) {
+                    clearInterval(checkCaptchaAndVerify);
+                    console.log('[PTC] Captcha not solved after 20s — reloading for fresh challenge.');
+                    window.location.reload();
+                    return;
+                }
+
+                tryClickCaptcha();
+                console.log(`[PTC] Waiting for captcha... (${pollCount}/${MAX_CAPTCHA_POLLS})`);
+                return;
+            }
+
+            if (btn &amp;&amp; !btn.disabled &amp;&amp; btn.offsetParent !== null) {
+                clearInterval(checkCaptchaAndVerify);
+                console.log('[PTC] Captcha confirmed. Clicking verify in 2s...');
+                setTimeout(() =&gt; { btn.click(); console.log('[PTC] Claim clicked.'); }, 2000);
+            }
+        }, 2000);
+    }
+})();</code></pre>
+                        </div>
+
+                        <p><strong>What changed from V2:</strong></p>
+                        <ul>
+                            <li>Captcha timeout now <strong>reloads the page</strong> instead of clicking verify with a bad token</li>
+                            <li>Added hCaptcha support (some PTC sites are switching)</li>
+                            <li>Broader verify button selectors as a fallback</li>
+                            <li>Extended error polling from 15s to 20s for slow-loading restricted videos</li>
+                            <li>Added <code>.ytp-error-content-wrap-reason</code> detection for YouTube error messages</li>
+                        </ul>
+                    </section>
+
+
+                    <section>
+                        <h2 id="how-to-update">How to Update</h2>
+
+                        <p>Same process as last time. Takes about a minute.</p>
+
+                        <ol>
+                            <li>Click the <strong>Tampermonkey</strong> extension icon</li>
+                            <li>Click <strong>Dashboard</strong></li>
+                            <li>Find <strong>"PTC Dashboard Manager"</strong> &mdash; click edit, select all, delete, paste Script #1 above, save</li>
+                            <li>Find <strong>"PTC Video &amp; Tab Handler (Terminator)"</strong> &mdash; same thing, paste Script #2 above, save</li>
+                        </ol>
+
+                        <p><strong>Both scripts need updating this time.</strong> V2 only changed Script #2. V3 changes both.</p>
+
+                        <div class="info-box warning">
+                            <p class="info-box-title">Fresh Install?</p>
+                            <p style="margin-bottom: 0;">If you haven't set up the macros at all, start with the <a href="automate-makeyoutask-earnings">original guide</a> for the full Tampermonkey setup walkthrough, then use the V3 scripts from this page instead of the ones in that article.</p>
+                        </div>
+                    </section>
+
+
+                    <section>
+                        <h2 id="a-note-on-fair-use">A Note on Fair Use</h2>
+
+                        <p>I want to take a second to say something directly.</p>
+
+                        <p>These scripts exist to save you time on repetitive clicking. They handle the mechanical parts &mdash; scrolling to buttons, dismissing popups, managing tabs, restarting short videos. That's it. They're designed to <strong>assist</strong> you during an active session, not to run unattended while you go do something else.</p>
+
+                        <p><strong>Please play by the rules of the platform.</strong></p>
+
+                        <ul>
+                            <li>One account per person, per network. Don't run multiples.</li>
+                            <li>Don't use VPNs or proxies. MakeYouTask flags this and will ban your account.</li>
+                            <li>Stay present during your session. Solve captchas when they appear. The scripts nudge Cloudflare Turnstile, but when the site asks you to prove you're human, actually prove it.</li>
+                            <li>Don't run these 24/7 on a headless browser pretending to be a person. That's not what this is for.</li>
+                        </ul>
+
+                        <p>MakeYouTask is one of the platforms that actually pays. Consistently. With low minimums. That's rare in this space and I'd like it to stay that way. If enough people abuse the system, the platform either shuts down the PTC section, tanks the payout rates, or both. We've seen it happen elsewhere.</p>
+
+                        <div class="info-box neutral">
+                            <p class="info-box-title">The Simple Version</p>
+                            <p style="margin-bottom: 0;">Use the scripts. Save yourself some clicking. But be present, solve your captchas, and don't try to game the system harder than these scripts already do. The goal is to earn a bit more efficiently &mdash; not to kill the golden goose.</p>
+                        </div>
+                    </section>
+
+
+                    <section>
+                        <h2 id="feedback">Keep the Feedback Coming</h2>
+
+                        <p>V2 happened because of reader feedback. V3 happened because of reader feedback. See the pattern.</p>
+
+                        <p>If something breaks, if the captcha reload is too aggressive, if the site changes again &mdash; let us know. We'll update it again. That's how this works.</p>
+
+                        <div class="link-block">
+                            <p><strong>Not on MakeYouTask yet?</strong></p>
+                            <a href="https://makeyoutask.com/?r=8501" class="referral-link"
+                               data-ref="makeyoutask" target="_blank" rel="noopener nofollow">
+                                Join MakeYouTask Now (Free)
+                            </a>
+                            <p class="text-small text-muted">$0.10 min withdrawal &middot; FaucetPay &amp; CWallet supported</p>
+                        </div>
+                    </section>
+
+
+                    <section>
+                        <h2 id="version-history">Version History</h2>
+
+                        <ul>
+                            <li><strong>V1</strong> (Feb 2026) &mdash; <a href="automate-makeyoutask-earnings">Original automation guide</a>. Basic dashboard auto-click + video handler.</li>
+                            <li><strong>V2</strong> (Mar 2, 2026) &mdash; <a href="automate-makeyoutask-macro-v2">V2 update</a>. Short video restart, age-restricted detection, live stream handling, captcha nudge.</li>
+                            <li><strong>V3</strong> (Mar 28, 2026) &mdash; This article. Fixed dashboard selector for new site layout, Account Safety modal handler, Notiflix popup support, captcha reload on timeout.</li>
+                        </ul>
+                    </section>
+
+
+                    <section>
+                        <h2>Related Reading</h2>
+                        <ul>
+                            <li><a href="automate-makeyoutask-earnings">Original Automation Guide &ndash; Full Setup (V1)</a></li>
+                            <li><a href="automate-makeyoutask-macro-v2">MakeYouTask Macro V2 &ndash; Smarter, More Reliable</a></li>
+                            <li><a href="../reviews/makeyoutask">MakeYouTask Review &ndash; Full Platform Breakdown</a></li>
+                            <li><a href="makeyoutask-faucet-update">MakeYouTask New Faucet &ndash; Claim Every 20 Minutes</a></li>
+                            <li><a href="makeyoutask-2026-update">MakeYouTask in 2026 &ndash; Our Experience So Far</a></li>
+                            <li><a href="../reviews/faucetpay">FaucetPay Review &ndash; Where to Withdraw Your Earnings</a></li>
+                            <li><a href="./">More Blog Posts</a></li>
+                        </ul>
+                    </section>
+
+                    <div class="engagement-prompt">
+                        <p>Was this article helpful?</p>
+                        <div class="engagement-buttons">
+                            <button class="engagement-btn" onclick="this.classList.add('selected')">Yes, helpful</button>
+                            <button class="engagement-btn" onclick="this.classList.add('selected')">Needs more info</button>
+                            <button class="engagement-btn" onclick="this.classList.add('selected')">Outdated</button>
+                        </div>
+                    </div>
+
+                    <div class="share-section">
+                        <span>Share this article:</span>
+                        <div class="share-buttons">
+                            <button class="share-btn share-twitter" onclick="shareOnTwitter()">Twitter</button>
+                            <button class="share-btn share-reddit" onclick="shareOnReddit()">Reddit</button>
+                            <button class="share-btn share-copy" onclick="copyToClipboard()">Copy Link</button>
+                        </div>
+                    </div>
+
+                </div>
+            </article>
+
+            <aside class="sidebar">
+                <div class="ad-placeholder sidebar">
+                    <a href="https://luckwatch.pro/?r=8501" target="_blank" rel="noopener">
+                        <img src="https://luckwatch.pro/banners/300x250.gif"
+                             alt="LuckyWatch - Earn Crypto Watching Videos"
+                             style="max-width: 100%; height: auto; display: block;"
+                             loading="lazy">
+                    </a>
+                </div>
+
+                <div class="sidebar-widget">
+                    <h3>In This Article</h3>
+                    <ul>
+                        <li><a href="#still-maintaining">Still Maintaining These</a></li>
+                        <li><a href="#what-changed">What Broke &amp; V3 Fixes</a></li>
+                        <li><a href="#script-1">Script #1 (Dashboard V3)</a></li>
+                        <li><a href="#script-2">Script #2 (Terminator V3)</a></li>
+                        <li><a href="#how-to-update">How to Update</a></li>
+                        <li><a href="#a-note-on-fair-use">A Note on Fair Use</a></li>
+                        <li><a href="#feedback">Feedback</a></li>
+                        <li><a href="#version-history">Version History</a></li>
+                    </ul>
+                </div>
+
+                <div class="sidebar-widget">
+                    <h3>Get Both Scripts</h3>
+                    <p class="text-small" style="margin-bottom: 1rem;">Both scripts are updated in the V3 sections above. Replace both in Tampermonkey.</p>
+                    <a href="https://makeyoutask.com/?r=8501" target="_blank" rel="noopener" style="display: block; text-align: center; padding: 0.75rem; background: var(--primary); color: white; border-radius: 4px; text-decoration: none; margin-bottom: 0.5rem;">Join MakeYouTask First</a>
+                    <p class="text-small text-muted">Free to join &middot; $0.10 min withdrawal</p>
+                </div>
+
+                <div class="sidebar-widget">
+                    <h3>Popular Reviews</h3>
+                    <ul>
+                        <li><a href="../reviews/makeyoutask">MakeYouTask</a></li>
+                        <li><a href="../reviews/freecash">Freecash</a></li>
+                        <li><a href="../reviews/honeygain">Honeygain</a></li>
+                        <li><a href="../reviews/faucetpay">FaucetPay</a></li>
+                        <li><a href="../reviews/coinpayu">CoinPayU</a></li>
+                    </ul>
+                </div>
+
+                <div class="sidebar-widget">
+                    <h3>Start Here</h3>
+                    <ul>
+                        <li><a href="../guides/getting-started">Getting Started</a></li>
+                        <li><a href="../guides/daily-guide">Daily Earning Routine</a></li>
+                        <li><a href="../guides/scam-alerts">Scam Alerts</a></li>
+                    </ul>
+                </div>
+
+                <div class="ad-placeholder sidebar">
+                    <a href="https://luckwatch.pro/?r=8501" target="_blank" rel="noopener">
+                        <img src="https://luckwatch.pro/banners/300x250.gif"
+                             alt="LuckyWatch - Earn Crypto Watching Videos"
+                             style="max-width: 100%; height: auto; display: block;"
+                             loading="lazy">
+                    </a>
+                </div>
+            </aside>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-inner">
+                <nav class="footer-nav">
+                    <a href="../">Home</a>
+                    <a href="../pages/ptc">PTC</a>
+                    <a href="../pages/faucets">Faucets</a>
+                    <a href="../pages/offers">Offers</a>
+                    <a href="../reviews/">Reviews</a>
+                    <a href="../guides/">Guides</a>
+                    <a href="./">Blog</a>
+                    <span class="footer-separator">|</span>
+                    <a href="../pages/about">About</a>
+                    <a href="../pages/privacy">Privacy</a>
+                    <a href="../pages/disclaimer">Disclaimer</a>
+                    <a href="../pages/contact">Contact</a>
+                </nav>
+
+                <p class="footer-disclaimer">
+                    <strong>Disclaimer:</strong> This site provides information about micro-earning opportunities. Results vary. Some links are referral links - see our <a href="../pages/disclaimer">full disclaimer</a>.
+                </p>
+
+                <p class="text-small text-muted" style="margin-top: 1rem;">
+                    &copy; 2026 $1perday! For educational purposes only.
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../assets/js/main.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.umd.js"></script>
+    <script src="../assets/js/cookieconsent-config.js"></script>
+</body>
+</html>
