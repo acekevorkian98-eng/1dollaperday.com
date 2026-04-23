@@ -13,6 +13,12 @@ const ADS_CONFIG = {
     // Leaderboard banners (728x90)
     leaderboard: [
         {
+            name: "PayUp.video",
+            image: "../assets/ads/payup-728.gif",
+            url: "https://payup.video/u/3170527",
+            alt: "PayUp.video - Earn TRX watching videos"
+        },
+        {
             name: "LuckyWatch",
             image: "../assets/ads/luckywatch-728.jpg",
             url: "https://luckywatch.pro/u/oolwg",
@@ -25,6 +31,12 @@ const ADS_CONFIG = {
     // Rectangle banners (300x250)
     rectangle: [
         {
+            name: "PayUp.video",
+            image: "../assets/ads/payup-200.gif",
+            url: "https://payup.video/u/3170527",
+            alt: "PayUp.video - Earn TRX watching videos"
+        },
+        {
             name: "LuckyWatch",
             image: "../assets/ads/luckywatch-300.jpg",
             url: "https://luckywatch.pro/u/oolwg",
@@ -36,6 +48,12 @@ const ADS_CONFIG = {
     // Mobile banners (320x100 or responsive)
     mobile: [
         {
+            name: "PayUp.video",
+            image: "../assets/ads/payup-200.gif",
+            url: "https://payup.video/u/3170527",
+            alt: "PayUp.video - Earn TRX watching videos"
+        },
+        {
             name: "LuckyWatch",
             image: "../assets/ads/luckywatch-320.jpg",
             url: "https://luckywatch.pro/u/oolwg",
@@ -46,6 +64,12 @@ const ADS_CONFIG = {
 
     // Banner banners (468x60)
     banner: [
+        {
+            name: "PayUp.video",
+            image: "../assets/ads/payup-468.gif",
+            url: "https://payup.video/u/3170527",
+            alt: "PayUp.video - Earn TRX watching videos"
+        },
         {
             name: "LuckyWatch",
             image: "../assets/ads/luckywatch-468.jpg",
