@@ -824,11 +824,17 @@ section:not(.hero) .btn-secondary:hover {
     align-items: center;
     gap: 0.75rem;
     box-shadow: 0 2px 8px rgba(240, 62, 62, 0.15);
+    position: sticky;
+    top: 0;
+    z-index: 100;
 }
 
 [data-theme="dark"] .warning-banner {
     background: linear-gradient(135deg, var(--danger) 0%, #dc2626 100%);
     color: white;
+    position: sticky;
+    top: 0;
+    z-index: 100;
 }
 
 .latest-review-banner::before {
