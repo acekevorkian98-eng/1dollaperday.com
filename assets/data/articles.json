@@ -1,0 +1,244 @@
+{
+  "articles": [
+    {
+      "id": "zenmine-review-2026",
+      "title": "ZenMine.io Review 2026: Live Test In Progress",
+      "excerpt": "Cloud mining platform. Currently testing — will update with payout verdict around Day 7. Proceed with caution based on current patterns.",
+      "category": "cloud-mining",
+      "section": "reviews",
+      "url": "../blog/zenmine-review-2026.html",
+      "date": "April 23, 2026",
+      "readTime": "Live Test"
+    },
+    {
+      "id": "clickfight-review-2026",
+      "title": "ClickFight Review 2026: A Browser Game That Actually Pays Bitcoin",
+      "excerpt": "ClickFight is a browser RPG where you fight dungeon enemies, craft gear, and earn FightCoins paid instantly to FaucetPay. We played it. Here's what it actually pays and whether it's worth your time.",
+      "category": "games",
+      "section": "reviews",
+      "url": "../reviews/games/clickfight-review-2026.html",
+      "date": "April 16, 2026",
+      "readTime": "10 min read"
+    },
+    {
+      "id": "best-browser-everyday-use-2026",
+      "title": "Best Browser for Everyday Use in 2026: Chrome vs Firefox vs Brave",
+      "excerpt": "Chrome is still the default, but it's not the best anymore. We break down speed, privacy, RAM usage, and Brave Rewards earnings to find which browser is actually worth using in 2026.",
+      "category": "Guide",
+      "section": "blog",
+      "url": "best-browser-everyday-use-2026.html",
+      "date": "April 06, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "makeyoutask-macro-v3",
+      "title": "MakeYouTask Macro V3: Updated Scripts + A Note on Fair Use",
+      "excerpt": "MakeYouTask updated their site layout and the V2 scripts stopped clicking. V3 fixes the dashboard selector, handles the new Account Safety modal, and reloads the page when captcha fails. Both updated scripts inside.",
+      "category": "Strategy",
+      "section": "blog",
+      "url": "makeyoutask-macro-v3.html",
+      "date": "March 28, 2026",
+      "readTime": "5 min read"
+    },
+    {
+      "id": "makeyoutask-faucet-update",
+      "title": "MakeYouTask Removes Wheel for Win, Adds New Faucet (Every 20 Minutes)",
+      "excerpt": "MakeYouTask has replaced the Wheel for Win with a faucet you can claim every 20 minutes, up to 30 times a day. Here's how it works, what to expect from the ads, and whether...",
+      "category": "News",
+      "section": "blog",
+      "url": "makeyoutask-faucet-update.html",
+      "date": "March 05, 2026",
+      "readTime": "6 min read"
+    },
+    {
+      "id": "history-of-cryptocurrency",
+      "title": "The Full History of Cryptocurrency: From Cypherpunks to $100K Bitcoin",
+      "excerpt": "A complete history of cryptocurrency — from the cypherpunk roots of the 1990s, through Bitcoin's invention, the Mt. Gox disaster, the ICO boom, and where we are in 2026.",
+      "category": "Education",
+      "section": "blog",
+      "url": "history-of-cryptocurrency.html",
+      "date": "March 03, 2026",
+      "readTime": "11 min read"
+    },
+    {
+      "id": "how-crypto-wallets-work",
+      "title": "How Crypto Wallets Actually Work (And 8 Red Flags to Watch For)",
+      "excerpt": "A plain-English explanation of how crypto wallets work — hot vs cold, custodial vs non-custodial, seed phrases, and the scams to watch out for in 2026.",
+      "category": "Guide",
+      "section": "blog",
+      "url": "how-crypto-wallets-work.html",
+      "date": "March 03, 2026",
+      "readTime": "10 min read"
+    },
+    {
+      "id": "automate-makeyoutask-macro-v2",
+      "title": "MakeYouTask Macro V2: Smarter, More Reliable (March 2026 Update)",
+      "excerpt": "We updated our MakeYouTask automation scripts based on reader feedback. V2 handles age-restricted videos, live stream queues, short video loops, and attempts captcha auto-click.",
+      "category": "Strategy",
+      "section": "blog",
+      "url": "automate-makeyoutask-macro-v2.html",
+      "date": "March 02, 2026",
+      "readTime": "6 min read"
+    },
+    {
+      "id": "makeyoutask-2026-update",
+      "title": "MakeYouTask in 2026: Our Experience So Far (Still Worth It?)",
+      "excerpt": "We've been using MakeYouTask for months. Here's an honest account of how the platform has evolved, what's changed, and whether it's still worth adding to your stack.",
+      "category": "Review",
+      "section": "blog",
+      "url": "makeyoutask-2026-update.html",
+      "date": "March 02, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "rewardxp-review-2026",
+      "title": "RewardXP Review 2026: 60 Days, Real Data, Honest Verdict",
+      "excerpt": "We tested RewardXP for 60 days. Here's what it actually pays, how the XP bonus system works, and whether it beats Freecash or Swagbucks for your time.",
+      "category": "Review",
+      "section": "blog",
+      "url": "rewardxp-review-2026.html",
+      "date": "March 02, 2026",
+      "readTime": "9 min read"
+    },
+    {
+      "id": "bandwidth-sharing-apps-compared-2026",
+      "title": "Bandwidth Sharing Apps Tested: EarnApp vs Pawns.app vs PacketStream (2026)",
+      "excerpt": "We ran EarnApp, Pawns.app, and PacketStream for 30 days on a residential connection. Here's exactly what each paid — and what they cost you in data.",
+      "category": "bandwidth",
+      "section": "blog",
+      "url": "bandwidth-sharing-apps-compared-2026.html",
+      "date": "February 27, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "freecash-vs-swagbucks-vs-prizerebel-2026",
+      "title": "Freecash vs Swagbucks vs PrizeRebel: Which GPT Site Pays More in 2026?",
+      "excerpt": "Three of the biggest GPT platforms tested side by side. Hourly rates, payout speeds, and which one is actually worth your time in 2026.",
+      "category": "gpt",
+      "section": "blog",
+      "url": "freecash-vs-swagbucks-vs-prizerebel-2026.html",
+      "date": "February 27, 2026",
+      "readTime": "10 min read"
+    },
+    {
+      "id": "how-to-make-1-dollar-a-day-online",
+      "title": "How to Make $1 a Day Online: The Exact Stack That Works (2026)",
+      "excerpt": "Want to make $1 a day online consistently? Here's the exact stack of apps and sites I use — broken down by effort, earnings, and payout method. No surveys required.",
+      "category": "Strategy",
+      "section": "blog",
+      "url": "how-to-make-1-dollar-a-day-online.html",
+      "date": "February 26, 2026",
+      "readTime": "10 min read"
+    },
+    {
+      "id": "real-hourly-rate-micro-earning",
+      "title": "The Real Hourly Rate of Micro-Earning: A Data-Driven Breakdown",
+      "excerpt": "What does micro-earning actually pay per hour? We break down the math on PTC, faucets, surveys, bandwidth apps, and GPT sites with real numbers from 30-day tests.",
+      "category": "guide",
+      "section": "blog",
+      "url": "real-hourly-rate-micro-earning.html",
+      "date": "February 26, 2026",
+      "readTime": "~10 min read"
+    },
+    {
+      "id": "faucetpay-microwallet-guide",
+      "title": "FaucetPay: How to Get Your Faucet Earnings Into Your Bank Account",
+      "excerpt": "The complete guide to using FaucetPay — from your first faucet claim to real money in your bank. Microwallets, coin swaps, trusted exchanges, and the $5 rule explained.",
+      "category": "Guide",
+      "section": "blog",
+      "url": "faucetpay-microwallet-guide.html",
+      "date": "February 25, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "5-passive-income-apps-30-day-phone-test",
+      "title": "I Ran 5 Passive Income Apps on One Android Phone for 30 Days — Real Earnings",
+      "excerpt": "30-day real earnings test: I ran Honeygain, EarnApp, Pawns.app, LuckyWatch, and Brave Rewards on a single Android phone. Week-by-week numbers, winner, loser, and honest verdict.",
+      "category": "Test",
+      "section": "blog",
+      "url": "5-passive-income-apps-30-day-phone-test.html",
+      "date": "February 24, 2026",
+      "readTime": "10 min read"
+    },
+    {
+      "id": "honeygain-vs-pawns-vs-earnapp-vs-packetstream",
+      "title": "Honeygain vs Pawns.app vs EarnApp vs PacketStream: Which Pays the Most? (2026)",
+      "excerpt": "We tested all 4 bandwidth sharing apps head-to-head. Real earnings data, honest comparison, and the surprising verdict on which pays the most in 2026.",
+      "category": "Comparison",
+      "section": "blog",
+      "url": "honeygain-vs-pawns-vs-earnapp-vs-packetstream.html",
+      "date": "February 23, 2026",
+      "readTime": "10 min read"
+    },
+    {
+      "id": "my-1-dollar-a-day-passive-income-stack",
+      "title": "How I Hit $1/Day Passive Income: My Exact 5-App Stack (2026)",
+      "excerpt": "The exact 5-app combination I use to earn $1/day (and more) in passive and semi-passive income. Real setup guide, honest earnings, and step-by-step instructions.",
+      "category": "Strategy",
+      "section": "blog",
+      "url": "my-1-dollar-a-day-passive-income-stack.html",
+      "date": "February 23, 2026",
+      "readTime": "9 min read"
+    },
+    {
+      "id": "automate-luckywatch-earnings",
+      "title": "How To Automate Your LuckyWatch Earnings (2026 Guide)",
+      "excerpt": "Step-by-step guide to automating LuckyWatch video earnings using MacroDroid. Earn ~$0.15/day passively while your phone charges. Free macro included.",
+      "category": "Guide",
+      "section": "blog",
+      "url": "automate-luckywatch-earnings.html",
+      "date": "February 18, 2026",
+      "readTime": "6 min read"
+    },
+    {
+      "id": "automate-makeyoutask-earnings",
+      "title": "How to Automate MakeYouTask Video Earnings (Step-by-Step + My 2 Macros)",
+      "excerpt": "My exact 2-macro system for automating MakeYouTask video earnings. Step-by-step guide + free scripts. Turn repetitive clicking into semi-passive income.",
+      "category": "Strategy",
+      "section": "blog",
+      "url": "automate-makeyoutask-earnings.html",
+      "date": "February 17, 2026",
+      "readTime": "7 min read"
+    },
+    {
+      "id": "ptc-faucet-30-day-earnings-test",
+      "title": "How Much Can You REALLY Make From PTC & Faucets in 2026? (30-Day Test Results)",
+      "excerpt": "We spent 30 days tracking every cent earned from PTC sites and crypto faucets. Here are the real numbers, daily breakdowns, and honest verdict on whether it's worth your time...",
+      "category": "Case Study",
+      "section": "blog",
+      "url": "ptc-faucet-30-day-earnings-test.html",
+      "date": "February 17, 2026",
+      "readTime": "12 min read"
+    },
+    {
+      "id": "5-highest-paying-ptc-sites",
+      "title": "5 Highest Paying PTC Sites in 2025",
+      "excerpt": "The 5 best PTC (paid-to-click) sites that actually pay in 2025. MakeYouTask, LuckyWatch.Pro, CoinPayU, FireFaucet, and FaucetCrypto compared with real earnings data.",
+      "category": "Guide",
+      "section": "blog",
+      "url": "5-highest-paying-ptc-sites.html",
+      "date": "February 16, 2026",
+      "readTime": "7 min read"
+    },
+    {
+      "id": "history-of-bitcoin-faucets",
+      "title": "The Fascinating History of Bitcoin Faucets: From 5 BTC to Satoshis",
+      "excerpt": "Discover the history of Bitcoin faucets, from Gavin Andresen's original 5 BTC giveaway in 2010 to the modern micro-earning landscape of 2026.",
+      "category": "Guide",
+      "section": "blog",
+      "url": "history-of-bitcoin-faucets.html",
+      "date": "February 16, 2026",
+      "readTime": "6 min read"
+    },
+    {
+      "id": "how-many-people-make-money-online-every-day",
+      "title": "How Many People Make Money Online Every Day?",
+      "excerpt": "How many people actually make money online every day? We break down realistic numbers, income levels, and what it really looks like in 2026.",
+      "category": "Opinion",
+      "section": "blog",
+      "url": "how-many-people-make-money-online-every-day.html",
+      "date": "February 16, 2026",
+      "readTime": "9 min read"
+    }
+  ]
+}
