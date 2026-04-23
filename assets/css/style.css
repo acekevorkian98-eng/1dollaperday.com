@@ -812,6 +812,25 @@ section:not(.hero) .btn-secondary:hover {
     overflow: hidden;
 }
 
+.warning-banner {
+    background: linear-gradient(135deg, var(--danger-bg) 0%, #fff0f0 100%);
+    border: 2px solid var(--danger);
+    border-radius: var(--radius-md);
+    padding: 1rem 1.5rem;
+    margin-bottom: 1.5rem;
+    color: var(--danger);
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    box-shadow: 0 2px 8px rgba(240, 62, 62, 0.15);
+}
+
+[data-theme="dark"] .warning-banner {
+    background: linear-gradient(135deg, var(--danger) 0%, #dc2626 100%);
+    color: white;
+}
+
 .latest-review-banner::before {
     content: '';
     position: absolute;
