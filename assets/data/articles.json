@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "id": "nuggmi-review",
+      "title": "Nuggmi Review (2026): Tasks, Offers, and Daily Bonuses That Actually Pay to FaucetPay",
+      "excerpt": "Nuggmi combines micro-tasks, offerwalls, and daily bonuses with FaucetPay crypto payouts. We break down what it pays, which earning methods are worth your time, and the non-negotiable daily bonus habit.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "../reviews/nuggmi.html",
+      "date": "May 04, 2026",
+      "readTime": "9 min read"
+    },
+    {
+      "id": "streampayz-review",
+      "title": "StreamPayz Review (2026): Earn Crypto Watching Video Streams — Spare Device Protocol",
+      "excerpt": "StreamPayz pays crypto for watching video streams via FaucetPay. We cover the spare device setup, the promo cards page most users miss, and honest earnings data for the watch-to-earn category.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "../reviews/streampayz.html",
+      "date": "May 04, 2026",
+      "readTime": "9 min read"
+    },
+    {
+      "id": "faucetpayz-review",
+      "title": "FaucetPayz Review (2026): Solid Faucet & PTC Hybrid with Instant FaucetPay Payouts",
+      "excerpt": "FaucetPayz delivers hourly faucet claims, PTC ads, shortlinks, and offerwalls with instant FaucetPay multi-crypto settlement. We break down the daily routine that makes it useful as a stack component.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "../reviews/faucetpayz.html",
+      "date": "May 04, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "2captcha-review",
+      "title": "2Captcha Review (2026): Honest Look at the Worst Hourly Rate You Will Ever Accept",
+      "excerpt": "2Captcha is legitimate and it pays — but at $0.50 to $1.00 per hour of active captcha solving, it is the lowest-yield method we cover. Here is the only scenario where it makes sense and why.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "../reviews/2captcha.html",
+      "date": "May 04, 2026",
+      "readTime": "8 min read"
+    },
+    {
       "id": "rewardvid-review",
       "title": "RewardVid Review (2026): The Honest Guide to Earning Crypto by Watching Videos",
       "excerpt": "RewardVid pays crypto for watching videos with a $1 FaucetPay withdrawal threshold. We tested it — here's the exact earning rate, the anti-cheat mechanics, and the strategy that makes it worth your time.",
