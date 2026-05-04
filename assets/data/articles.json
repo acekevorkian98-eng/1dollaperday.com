@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "rewardvid-review",
+      "title": "RewardVid Review (2026): The Honest Guide to Earning Crypto by Watching Videos",
+      "excerpt": "RewardVid pays crypto for watching videos with a $1 FaucetPay withdrawal threshold. We tested it — here's the exact earning rate, the anti-cheat mechanics, and the strategy that makes it worth your time.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "../reviews/rewardvid.html",
+      "date": "May 04, 2026",
+      "readTime": "10 min read"
+    },
+    {
+      "id": "automate-rewardvid-tampermonkey",
+      "title": "Automate RewardVid with TamperMonkey: The Auto Surfer Script (2026)",
+      "excerpt": "Full TamperMonkey userscript that auto-picks the shortest unwatched video, handles Cloudflare Turnstile, enforces 24h cooldowns per video ID, and cycles pages when exhausted. Free script included.",
+      "category": "Guide",
+      "section": "blog",
+      "url": "automate-rewardvid-tampermonkey.html",
+      "date": "May 04, 2026",
+      "readTime": "8 min read"
+    },
+    {
       "id": "earnbitmoon-review",
       "title": "EarnBitMoon Review (2026): Can You Really Make Crypto Every 5 Minutes?",
       "excerpt": "EarnBitMoon has 2 million monthly visitors and a 5-minute faucet. We break down every earning method — PTC, shortlinks, offerwalls — plus a daily strategy to hit $1 a day with zero investment.",

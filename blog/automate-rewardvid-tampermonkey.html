@@ -1,0 +1,1215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script type="text/plain" data-category="analytics">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KK96XDSZ');</script>
+
+    <script type="text/plain" data-category="analytics" async src="https://www.googletagmanager.com/gtag/js?id=G-MLS6E270KY"></script>
+    <script type="text/plain" data-category="analytics">
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-MLS6E270KY');
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Automate RewardVid with TamperMonkey: The Auto Surfer Script (2026) | $1perday!</title>
+    <meta name="description" content="Free TamperMonkey userscript for RewardVid: auto-picks shortest videos, enforces 24h cooldowns, handles Cloudflare Turnstile, and cycles pages. Full script + install guide.">
+    <meta name="keywords" content="RewardVid TamperMonkey, RewardVid automation, RewardVid auto surfer, RewardVid script, automate RewardVid 2026">
+    <meta name="author" content="$1perday!">
+    <meta name="robots" content="index, follow">
+    <meta name="article:published_time" content="2026-05-04">
+    <meta name="article:section" content="Guide">
+    <meta name="reading_time" content="10 min read">
+
+    <link rel="canonical" href="https://1dollaperday.com/blog/automate-rewardvid-tampermonkey">
+
+    <meta property="og:title" content="Automate RewardVid with TamperMonkey: The Auto Surfer Script (2026)">
+    <meta property="og:description" content="Free TamperMonkey userscript that auto-surfs RewardVid — picks shortest unwatched videos, enforces 24h cooldowns, handles Turnstile, and cycles pages automatically.">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://1dollaperday.com/blog/automate-rewardvid-tampermonkey">
+    <meta property="og:site_name" content="$1perday!">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Automate RewardVid with TamperMonkey: The Auto Surfer Script (2026)">
+    <meta name="twitter:description" content="Free TamperMonkey script for RewardVid — 24h cooldowns, Turnstile handling, auto page cycling. Full install guide inside.">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+    <link rel="dns-prefetch" href="https://www.google-analytics.com">
+    <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+    <link rel="stylesheet" href="../assets/css/style.css" fetchpriority="high">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Automate RewardVid with TamperMonkey: The Auto Surfer Script (2026)",
+        "description": "Free TamperMonkey userscript for RewardVid. Picks shortest unwatched video per pass, enforces 24-hour cooldowns, handles Cloudflare Turnstile, and cycles through pages automatically.",
+        "author": {"@type": "Organization", "name": "$1perday!"},
+        "publisher": {"@type": "Organization", "name": "$1perday!"},
+        "datePublished": "2026-05-04",
+        "dateModified": "2026-05-04",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://1dollaperday.com/blog/automate-rewardvid-tampermonkey"
+        }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://1dollaperday.com/"},
+            {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://1dollaperday.com/blog/"},
+            {"@type": "ListItem", "position": 3, "name": "Automate RewardVid with TamperMonkey", "item": "https://1dollaperday.com/blog/automate-rewardvid-tampermonkey"}
+        ]
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "How to Install the RewardVid Auto Surfer TamperMonkey Script",
+        "description": "Install the RewardVid Auto Surfer userscript via TamperMonkey to automate video watching on rewardvid.com.",
+        "step": [
+            {"@type": "HowToStep", "name": "Create a RewardVid account", "text": "Sign up at rewardvid.com to get access to the video earning platform."},
+            {"@type": "HowToStep", "name": "Install TamperMonkey", "text": "Add the TamperMonkey browser extension from the Chrome Web Store or Firefox Add-ons."},
+            {"@type": "HowToStep", "name": "Create a new script", "text": "Click the TamperMonkey icon, select Dashboard, then click the + tab to create a new script."},
+            {"@type": "HowToStep", "name": "Paste the script", "text": "Delete the default template content and paste the full RewardVid Auto Surfer script."},
+            {"@type": "HowToStep", "name": "Save and navigate", "text": "Press Ctrl+S to save, then navigate to rewardvid.com and click Start in the floating panel."}
+        ]
+    }
+    </script>
+
+    <!-- Structured Data - Speakable (AEO) -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "url": "https://1dollaperday.com/blog/automate-rewardvid-tampermonkey",
+        "speakable": {
+            "@type": "SpeakableSpecification",
+            "cssSelector": [".quick-answer", "h1", "article h2:first-of-type"]
+        }
+    }
+    </script>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.css" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.css"></noscript>
+
+    <style>
+        pre {
+            background: #0d0e1a;
+            border: 1px solid #2a2b3d;
+            border-radius: 8px;
+            padding: 1.25rem 1.5rem;
+            overflow-x: auto;
+            font-size: 0.78rem;
+            line-height: 1.6;
+            margin: 1.5rem 0;
+        }
+        pre code {
+            color: #e0e0f0;
+            font-family: "Fira Code", "Cascadia Code", "JetBrains Mono", Consolas, monospace;
+        }
+        .script-cta-block {
+            background: linear-gradient(135deg, #1a1b2e 0%, #141624 100%);
+            border: 2px solid #f59e0b;
+            border-radius: 10px;
+            padding: 1.5rem;
+            margin: 2rem 0;
+            text-align: center;
+        }
+        .script-cta-block p {
+            color: #e8e8e8;
+            margin-bottom: 0.75rem;
+        }
+        .script-cta-block strong {
+            color: #f59e0b;
+        }
+    </style>
+</head>
+<body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KK96XDSZ"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <header class="site-header">
+        <div class="container">
+            <div class="header-inner">
+                <a href="../" class="site-logo">$1perday!</a>
+                <nav class="main-nav">
+                    <ul>
+                        <li><a href="../">Home</a></li>
+                        <li><a href="../#daily-stack" class="nav-stack-link">My Stack</a></li>
+                        <li><a href="../pages/ptc">PTC</a></li>
+                        <li><a href="../pages/faucets">Faucets</a></li>
+                        <li><a href="../pages/offers">Offers</a></li>
+                        <li><a href="../reviews/">Reviews</a></li>
+                        <li><a href="../guides/">Guides</a></li>
+                        <li><a href="./" class="active">Blog</a></li>
+                    </ul>
+                </nav>
+                <button class="hamburger" aria-label="Open menu" aria-expanded="false">
+                    <span></span><span></span><span></span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <nav class="breadcrumbs" aria-label="Breadcrumb">
+            <a href="../">Home</a>
+            <span class="separator">/</span>
+            <a href="./">Blog</a>
+            <span class="separator">/</span>
+            <span class="current">Automate RewardVid with TamperMonkey</span>
+        </nav>
+
+        <div class="main-content">
+            <article class="article">
+                <header class="review-header">
+                    <div class="review-title-section">
+                        <span class="last-updated">May 2026</span>
+                        <h1>Automate RewardVid with TamperMonkey: The Auto Surfer Script (2026)</h1>
+                        <p class="article-meta">Guide &middot; 10 min read</p>
+                    </div>
+                </header>
+
+                <div class="article-content">
+
+                    <!-- AFFILIATE DISCLOSURE -->
+                    <div class="info-box neutral">
+                        <p class="info-box-title">Disclosure</p>
+                        <p style="margin-bottom: 0;">This article contains referral links to RewardVid. If you sign up through our links, we may earn a small commission at no cost to you. We only recommend platforms we've personally tested. See our <a href="../pages/disclaimer">full disclaimer</a>.</p>
+                    </div>
+
+                    <div class="quick-answer" id="quick-answer">
+                        <p>The RewardVid Auto Surfer is a free TamperMonkey userscript that automates the desktop browser version of rewardvid.com. It picks the shortest unwatched video on each pass, enforces a 24-hour cooldown per video ID so you never re-watch the same content before it resets, handles Cloudflare Turnstile pauses, and automatically cycles through pages when the current page is exhausted. Install takes under two minutes.</p>
+                    </div>
+
+                    <!-- SIGNUP CTA - TOP -->
+                    <div class="script-cta-block">
+                        <p>You'll need a <strong>free RewardVid account</strong> before the script is useful.</p>
+                        <a href="https://rewardvid.com?ref=neGoAYYa" class="referral-link" data-ref="rewardvid" target="_blank" rel="noopener nofollow">Sign Up for RewardVid (Free)</a>
+                        <p class="text-small" style="color: #888; margin-top: 0.5rem; margin-bottom: 0;">Referral link &mdash; no cost to you</p>
+                    </div>
+
+                    <!-- WHAT IS REWARDVID -->
+                    <section>
+                        <h2>What Is RewardVid?</h2>
+
+                        <p>RewardVid is a Get-Paid-To (GPT) platform that pays you to watch videos. Advertisers pay for guaranteed views; the platform passes a fraction of that to you in the form of points redeemable for cryptocurrency or PayPal. The platform is available as a web interface and an Android app.</p>
+
+                        <p>The honest earning rate from video watching alone lands between $0.05 and $0.15 per hour depending on your region and available ad inventory. That's not impressive in isolation — the entire case for using it rests on running it as a background process that requires minimal attention. Our <a href="../reviews/rewardvid">full RewardVid review</a> covers the platform in detail including the withdrawal process, offerwall mechanics, and spare-device strategy.</p>
+
+                        <p>The desktop web version has one friction point that makes it semi-passive rather than fully passive: periodic "Are you still watching?" captcha interrupts. This script solves that friction for the video selection and navigation side of things, while also handling the broader automation logic.</p>
+                    </section>
+
+                    <div class="ad-placeholder banner" style="margin: 1.5rem 0;"></div>
+
+                    <!-- WHAT THE SCRIPT DOES -->
+                    <section>
+                        <h2>What the Script Does</h2>
+
+                        <p>Here is a precise breakdown of every behaviour the Auto Surfer implements:</p>
+
+                        <h3>Core Surfing Logic</h3>
+                        <ul>
+                            <li><strong>Shortest-first selection:</strong> On each landing page pass, the script scans all visible video links, extracts their durations, filters out anything on cooldown or marked no-budget, and navigates to the shortest eligible video. This maximises the number of completions per unit of time.</li>
+                            <li><strong>24-hour cooldown per video ID:</strong> Every watched video gets its ID stored in localStorage with a timestamp. The script skips that ID for the next 24 hours. If the platform's own cooldown differs (e.g. the page text says "refreshes every 12 hours"), the script detects it and adjusts accordingly.</li>
+                            <li><strong>Automatic page cycling:</strong> When the current page has no eligible videos, the script increments the page number and navigates to the next. When all pages up to the configured maximum are exhausted, it either waits and restarts from page 1 (with a countdown) or bumps the max video length filter by 1 minute and restarts immediately, depending on your settings.</li>
+                            <li><strong>Duration-based countdown:</strong> Once on a video page, the script calculates the wait time from the known video duration plus a 15-second safety buffer. It counts down in real time so you can see exactly when navigation back to the landing page will occur.</li>
+                            <li><strong>Auto-resume after navigation:</strong> The script stores its running state in localStorage. If it was running when the page reloaded (as happens between every video), it resumes automatically without requiring you to click Start again.</li>
+                        </ul>
+
+                        <h3>Cloudflare Turnstile Handling</h3>
+                        <p>When a Cloudflare Turnstile challenge is detected — either a visible iframe from challenges.cloudflare.com, a .cf-turnstile element, or a full-page challenge overlay — the script pauses and displays a warning in its status panel. It polls every second until the challenge is cleared. Once you solve it manually, the script resumes automatically after a 3-second stabilisation delay. You cannot automate Turnstile itself; you solve it, everything else resumes without intervention.</p>
+
+                        <h3>No-Budget Detection</h3>
+                        <p>Some videos have exhausted their advertiser budget. When the script detects phrases like "does not have enough budget" or "no views available" on a video page, it logs that video's ID to a persistent no-budget list, marks it as watched (skipping it for the cooldown period), and returns to the landing page. The no-budget count is visible in the panel.</p>
+                    </section>
+
+                    <!-- INSTALLATION -->
+                    <section>
+                        <h2>Installation: Step by Step</h2>
+
+                        <h3>Step 1: Install TamperMonkey</h3>
+                        <p>TamperMonkey is a free browser extension that runs userscripts. Install it from the official source for your browser:</p>
+                        <ul>
+                            <li><strong>Chrome / Brave / Edge:</strong> <a href="https://www.tampermonkey.net/" target="_blank" rel="noopener nofollow">tampermonkey.net</a> &rarr; Chrome Web Store link</li>
+                            <li><strong>Firefox:</strong> <a href="https://www.tampermonkey.net/" target="_blank" rel="noopener nofollow">tampermonkey.net</a> &rarr; Firefox Add-ons link</li>
+                        </ul>
+                        <p>Once installed, the TamperMonkey icon appears in your browser toolbar (a circle with two overlapping squares).</p>
+
+                        <h3>Step 2: Create a New Script</h3>
+                        <ol>
+                            <li>Click the TamperMonkey icon in your toolbar.</li>
+                            <li>Select <strong>Dashboard</strong> from the dropdown.</li>
+                            <li>In the Dashboard, click the <strong>+</strong> tab (or the "Create a new script" button).</li>
+                            <li>A default script template appears in the editor.</li>
+                        </ol>
+
+                        <h3>Step 3: Paste the Script</h3>
+                        <ol>
+                            <li>Select all the text in the editor (Ctrl+A / Cmd+A).</li>
+                            <li>Delete it.</li>
+                            <li>Copy the complete script from the code block below.</li>
+                            <li>Paste it into the empty editor.</li>
+                        </ol>
+
+                        <h3>Step 4: Save</h3>
+                        <p>Press <strong>Ctrl+S</strong> (or Cmd+S on Mac), or click <strong>File &rarr; Save</strong>. TamperMonkey will confirm the script is saved and enabled.</p>
+
+                        <h3>Step 5: Navigate to RewardVid and Start</h3>
+                        <ol>
+                            <li>Open <a href="https://rewardvid.com?ref=neGoAYYa" target="_blank" rel="noopener nofollow" data-ref="rewardvid">rewardvid.com</a> and log in.</li>
+                            <li>A floating panel labelled "RewardVid Auto Surfer" appears in the top-right area of the page. Click it to expand the control panel.</li>
+                            <li>Click <strong>Start</strong>. The script begins scanning for videos immediately.</li>
+                        </ol>
+
+                        <div class="info-box neutral">
+                            <p class="info-box-title">Browser Recommendation</p>
+                            <p style="margin-bottom: 0;">Run this in a secondary browser profile or a dedicated browser window, not your main browsing session. A spare desktop or an always-on laptop plugged into power is the ideal setup — same principle as the spare Android device strategy for the mobile app.</p>
+                        </div>
+                    </section>
+
+                    <!-- PANEL UI EXPLAINED -->
+                    <section>
+                        <h2>The Control Panel: Every Option Explained</h2>
+
+                        <p>The floating panel (click the icon to expand) contains everything you need to configure and monitor the script.</p>
+
+                        <h3>Start / Stop</h3>
+                        <p>The primary toggle. Green "Start" begins the surfing loop; red "Stop" halts it immediately. The script does not navigate away when stopped — it just freezes until you resume.</p>
+
+                        <h3>Status Line</h3>
+                        <p>A live text feed of what the script is currently doing: "Scanning page 3 for unwatched videos...", "Watching video — 1:42 remaining...", "Turnstile challenge detected — solve it to continue...", and so on. Also displayed as a persistent toast in the bottom-right corner of the page.</p>
+
+                        <h3>Filters</h3>
+                        <ul>
+                            <li><strong>Max Video Length (minutes):</strong> The script skips videos longer than this threshold. Set to 0 for no limit. Default is 10 minutes. Lower values mean faster cycling through short videos; higher values allow longer content if short inventory runs out.</li>
+                            <li><strong>Max Pages to Scan:</strong> How many paginated pages of videos to cycle through before declaring the full library exhausted. Default is 25.</li>
+                            <li><strong>Auto-increase max length by 1m after full scan:</strong> When checked, instead of sitting idle after exhausting all pages, the script bumps the Max Video Length filter by 1 minute and starts over from page 1. This allows it to gradually unlock longer videos when short inventory is depleted.</li>
+                        </ul>
+
+                        <h3>Videos Watched</h3>
+                        <p>Two counters: <strong>Today</strong> (resets at midnight based on your local time) and <strong>Total</strong> (lifetime count for this browser/device). These are stored in localStorage and persist across page reloads.</p>
+
+                        <h3>Cooldowns (24h)</h3>
+                        <ul>
+                            <li><strong>Active:</strong> Number of video IDs currently under a cooldown lock.</li>
+                            <li><strong>Next expires:</strong> How long until the earliest cooldown lifts, formatted as "Xh Ym". Useful for knowing when new eligible videos will open up.</li>
+                        </ul>
+
+                        <h3>No Budget / Blocked</h3>
+                        <ul>
+                            <li><strong>Logged videos:</strong> Count of videos the script has identified as having no advertiser budget.</li>
+                            <li><strong>Block This Video button:</strong> If you're on a video page and you want to manually flag it as blocked (e.g. it's broken or stuck), click this. The script marks it as no-budget and watched, then returns to the landing page.</li>
+                        </ul>
+
+                        <h3>Reset Controls</h3>
+                        <ul>
+                            <li><strong>Clear Stats:</strong> Resets the video count and earnings counters. Does not affect cooldowns or the no-budget list.</li>
+                            <li><strong>Reset Cooldowns:</strong> Clears all 24-hour cooldown records. All previously watched videos become eligible again immediately.</li>
+                            <li><strong>Clear No Budget Log:</strong> Removes all manually blocked and no-budget flagged video IDs. Use this if budget has been refilled and you want to retry those videos.</li>
+                        </ul>
+                    </section>
+
+                    <div class="ad-placeholder banner" style="margin: 2rem 0;"></div>
+
+                    <!-- KEY BEHAVIOURS -->
+                    <section>
+                        <h2>Key Behaviours to Know</h2>
+
+                        <h3>The 24-Hour Cooldown System</h3>
+                        <p>Every video on RewardVid has a unique ID in its URL. The script records each ID when you start watching it and stores a timestamp. For the next 24 hours, that ID is skipped on every scan pass. This prevents wasteful re-navigation to videos that will reject the view. When the cooldown expires (24 hours by default, or whatever duration the page text indicates), the ID becomes eligible again automatically.</p>
+
+                        <h3>Turnstile Pause Behaviour</h3>
+                        <p>Cloudflare Turnstile challenges require human interaction — there is no way around them. When the script detects one, it pauses the countdown, displays a warning both in the panel and as a toast, and polls every second until the challenge iframe disappears. Once you click through the Turnstile, the script detects clearance and resumes after a 3-second stabilisation pause. You do not need to click Start again.</p>
+
+                        <h3>Duration-Based Wait with 15-Second Buffer</h3>
+                        <p>When the script navigates to a video page, it looks up the duration it scraped from the listing and waits for that duration plus 15 seconds. The 15-second buffer accounts for page load time and any server-side verification lag. If a YouTube-embedded video ends early (detected via the YouTube IFrame API), the remaining wait is shortened to the 15-second buffer only.</p>
+
+                        <h3>Auto-Resume After Page Navigation</h3>
+                        <p>Every video completion sends the browser back to the landing page. This is a full page navigation — the script's in-memory state is lost. To handle this, the script saves its running state to localStorage before every navigation. On page load, it checks this flag and resumes automatically if it was running. This is why the script keeps surfing after every video without you touching anything.</p>
+
+                        <h3>The Spare-Device Approach</h3>
+                        <p>This script is designed for a secondary, always-on computer: an old laptop, a desktop you leave running, anything that stays on and connected. Keep it on a secondary browser window, plug the machine into power, and let it run. Check in occasionally to solve Turnstile challenges. You don't need to watch it — the panel and status toast will surface anything that needs your attention.</p>
+                    </section>
+
+                    <!-- SIGNUP CTA MID -->
+                    <div class="script-cta-block">
+                        <p>Don't have a RewardVid account yet? <strong>Sign up free before installing the script.</strong></p>
+                        <a href="https://rewardvid.com?ref=neGoAYYa" class="referral-link" data-ref="rewardvid" target="_blank" rel="noopener nofollow">Create Free RewardVid Account &rarr;</a>
+                        <p class="text-small" style="color: #888; margin-top: 0.5rem; margin-bottom: 0;">Referral link &mdash; no cost to you</p>
+                    </div>
+
+                    <!-- THE SCRIPT -->
+                    <section>
+                        <h2>The Complete Script</h2>
+
+                        <p>Copy the entire block below. In TamperMonkey: Dashboard &rarr; + &rarr; select all &rarr; paste &rarr; Ctrl+S.</p>
+
+<pre><code>// ==UserScript==
+// @name         RewardVid Auto Surfer
+// @namespace    http://tampermonkey.net/
+// @version      2026.04.30.3
+// @description  Auto-surfs RewardVid.com — picks shortest unwatched video per pass, enforces 24-hour cooldown per video ID, handles Cloudflare Turnstile, cycles through pages when current page is exhausted.
+// @author       You
+// @match        https://rewardvid.com/*
+// @icon         https://rewardvid.com/public/uploads/settings/e276bd175964104e5fe5a682f040c31b.png
+// @grant        none
+// @run-at       document-idle
+// ==/UserScript==
+
+(function () {
+    'use strict';
+
+    // ── Constants ──────────────────────────────────────────────────────────
+    const SCRIPT_NAME  = 'RewardVid Auto Surfer';
+    const PREFIX       = 'rv';
+    const ACCENT       = '#f59e0b';
+    const ACCENT_TEXT  = '#0d0e1a';
+    const BORDER       = '#3d2a06';
+    const LOGO_SRC     = 'https://rewardvid.com/public/uploads/settings/e276bd175964104e5fe5a682f040c31b.png';
+
+    const DEFAULT_COOLDOWN_MS     = 24 * 60 * 60 * 1000;
+    const NAV_DELAY_MS            = 2500;
+    const SETTLE_MS               = 1800;
+    const EXHAUST_WAIT            = 5 * 60 * 1000;
+    const DEFAULT_MAX_LENGTH_MINS = 10;
+    const DEFAULT_MAX_PAGES       = 25;
+    const DURATION_BUFFER_SECS    = 15;
+    const FALLBACK_WAIT_SECS      = 600;
+    const YT_HEARTBEAT_MS         = 6000;
+
+    const getMaxPages = () =&gt; S.get(`${PREFIX}_max_pages`, DEFAULT_MAX_PAGES);
+
+    const isVideoPage    = () =&gt; /\/video\//.test(location.pathname);
+    const getVideoId     = () =&gt; { const m = location.pathname.match(/\/video\/([^/]+)/); return m?.[1] ?? null; };
+    const getCurrentPage = () =&gt; { const p = new URLSearchParams(location.search).get('page'); return p ? parseInt(p, 10) : 1; };
+    const pageUrl        = (n) =&gt; n &lt;= 1 ? 'https://rewardvid.com/' : `https://rewardvid.com/?page=${n}`;
+
+    const S = {
+        get(k, d) { try { const v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); } catch { return d; } },
+        set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} },
+    };
+
+    const todayStr = () =&gt; new Date().toISOString().slice(0, 10);
+
+    function checkDailyReset() {
+        if (S.get(`${PREFIX}_last_reset`, '') !== todayStr()) {
+            S.set(`${PREFIX}_videos_today`, 0);
+            S.set(`${PREFIX}_earn_today`, 0);
+            S.set(`${PREFIX}_last_reset`, todayStr());
+        }
+    }
+
+    function readEntry(raw) {
+        if (typeof raw === 'number') return { ts: raw, cooldownMs: DEFAULT_COOLDOWN_MS };
+        return raw;
+    }
+
+    function isWatched(videoId) {
+        const watched = S.get(`${PREFIX}_watched`, {});
+        const raw = watched[videoId];
+        if (!raw) return false;
+        const { ts, cooldownMs } = readEntry(raw);
+        return Date.now() - ts &lt; cooldownMs;
+    }
+
+    function markWatched(videoId, cooldownMs = DEFAULT_COOLDOWN_MS) {
+        const watched = S.get(`${PREFIX}_watched`, {});
+        watched[videoId] = { ts: Date.now(), cooldownMs };
+        for (const [id, raw] of Object.entries(watched)) {
+            const { ts, cooldownMs: cdMs } = readEntry(raw);
+            if (Date.now() - ts &gt; 2 * cdMs) delete watched[id];
+        }
+        S.set(`${PREFIX}_watched`, watched);
+    }
+
+    function countActiveCooldowns() {
+        const watched = S.get(`${PREFIX}_watched`, {});
+        return Object.values(watched).filter(raw =&gt; {
+            const { ts, cooldownMs } = readEntry(raw);
+            return Date.now() - ts &lt; cooldownMs;
+        }).length;
+    }
+
+    function nextCooldownExpiry() {
+        const watched = S.get(`${PREFIX}_watched`, {});
+        const expiries = Object.values(watched)
+            .map(raw =&gt; { const { ts, cooldownMs } = readEntry(raw); return ts + cooldownMs; })
+            .filter(exp =&gt; exp &gt; Date.now());
+        return expiries.length ? Math.min(...expiries) : null;
+    }
+
+    function scrapeCooldownMs() {
+        const text = (document.body.innerText || '').toLowerCase();
+        const m = text.match(/(?:every|cooldown|refresh(?:es)?(?:\s+every)?)\s*(\d+)\s*h(?:ours?)?/);
+        if (m) {
+            const h = parseInt(m[1], 10);
+            if (h &gt; 0 &amp;&amp; h &lt;= 48) return h * 60 * 60 * 1000;
+        }
+        return DEFAULT_COOLDOWN_MS;
+    }
+
+    const getMaxLengthSecs = () =&gt; S.get(`${PREFIX}_max_length`, DEFAULT_MAX_LENGTH_MINS) * 60;
+
+    function logNoBudget(videoId) {
+        const nb = S.get(`${PREFIX}_no_budget`, {});
+        nb[videoId] = { ts: Date.now(), url: location.href };
+        S.set(`${PREFIX}_no_budget`, nb);
+    }
+
+    function isNoBudget(videoId) {
+        return !!S.get(`${PREFIX}_no_budget`, {})[videoId];
+    }
+
+    function countNoBudget() {
+        return Object.keys(S.get(`${PREFIX}_no_budget`, {})).length;
+    }
+
+    function log(msg) {
+        console.log(`%c[${SCRIPT_NAME}] %c${msg}`, `color:${ACCENT};font-weight:bold`, 'color:#ccc');
+    }
+
+    const sleep = (ms) =&gt; new Promise(r =&gt; setTimeout(r, ms));
+
+    function parseDuration(str) {
+        if (!str) return Infinity;
+        const s = str.trim();
+        const parts = s.split(':').map(Number);
+        if (parts.length === 2) return parts[0] * 60 + parts[1];
+        if (parts.length === 3) return parts[0] * 3600 + parts[1] * 60 + parts[2];
+        const n = parseInt(s, 10);
+        return isNaN(n) ? Infinity : n;
+    }
+
+    function fmtSeconds(s) {
+        const m = Math.floor(s / 60);
+        const r = s % 60;
+        return `${m}:${String(r).padStart(2, '0')}`;
+    }
+
+    function fmtTimeUntil(ms) {
+        const s = Math.max(0, Math.ceil((ms - Date.now()) / 1000));
+        const h = Math.floor(s / 3600);
+        const m = Math.floor((s % 3600) / 60);
+        return `${h}h ${m}m`;
+    }
+
+    function getToast() {
+        let el = document.getElementById(`${PREFIX}-toast`);
+        if (!el) {
+            el = document.createElement('div');
+            el.id = `${PREFIX}-toast`;
+            el.style.cssText = [
+                'position:fixed;bottom:20px;right:20px;',
+                'background:linear-gradient(135deg,#78450a,#a05c0a);',
+                'color:#fff;padding:10px 18px;border-radius:8px;',
+                'z-index:2147483646;',
+                'font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;',
+                'font-size:13px;box-shadow:0 4px 20px rgba(0,0,0,.5);',
+                'pointer-events:none;max-width:320px;line-height:1.4;',
+            ].join('');
+            document.body.appendChild(el);
+        }
+        return el;
+    }
+    function setStatus(msg) { getToast().textContent = msg; log(msg); updateStatusLine(msg); }
+    function clearStatus() { document.getElementById(`${PREFIX}-toast`)?.remove(); }
+
+    function updateStatusLine(msg) {
+        const el = document.getElementById(`${PREFIX}-status-line`);
+        if (el) el.textContent = msg;
+    }
+
+    const INP = `background:#0d0e1a;border:1px solid ${BORDER};color:#e8e8e8;border-radius:5px;padding:3px 8px;font-family:inherit;font-size:12px;`;
+    const SEC = `color:${ACCENT};font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;margin-bottom:8px;`;
+    const ROW = 'display:grid;grid-template-columns:1fr auto;gap:3px 14px;font-size:12px;margin-bottom:10px;align-items:center;';
+    const BTN_BASE = 'border:none;border-radius:6px;padding:5px 13px;cursor:pointer;font-family:inherit;font-size:12px;font-weight:600;white-space:nowrap;transition:opacity .15s;';
+    const BTN_GHOST = `${BTN_BASE}background:#23243a;color:${ACCENT};border:1px solid ${BORDER};font-weight:400;`;
+    const BTN_DANGER = `${BTN_BASE}background:#1a0d0d;color:#f87171;border:1px solid #7b2020;font-weight:400;`;
+
+    let isRunning = false;
+    const overlay = document.createElement('div');
+    overlay.style.cssText = 'position:fixed;top:10px;right:280px;z-index:2147483647;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;user-select:none;';
+
+    function buildOverlay() {
+        overlay.innerHTML = `
+        &lt;div id="${PREFIX}-icon-btn" title="${SCRIPT_NAME}" style="
+            height:44px;padding:0 16px;border-radius:10px;cursor:pointer;
+            background:#141624;border:2px solid ${ACCENT};
+            display:flex;align-items:center;justify-content:center;gap:10px;
+            box-shadow:0 2px 14px rgba(0,0,0,.6);
+        "&gt;
+            &lt;img src="${LOGO_SRC}" style="width:28px;height:28px;object-fit:contain;display:block;" onerror="this.style.display='none'"&gt;
+            &lt;span style="color:${ACCENT};font-size:13px;font-weight:700;letter-spacing:.4px;"&gt;${SCRIPT_NAME}&lt;/span&gt;
+        &lt;/div&gt;
+
+        &lt;div id="${PREFIX}-panel" style="display:none;
+            position:absolute;top:52px;right:0;width:320px;
+            background:#141624;border:1px solid ${BORDER};border-radius:12px;
+            box-shadow:0 10px 36px rgba(0,0,0,.75);overflow:hidden;color:#e8e8e8;
+        "&gt;
+            &lt;div style="padding:14px 15px;"&gt;
+                &lt;div style="display:flex;gap:8px;margin-bottom:14px;align-items:center;"&gt;
+                    &lt;button id="${PREFIX}-toggle" style="${BTN_BASE}background:${ACCENT};color:${ACCENT_TEXT};"&gt;&#9654; Start&lt;/button&gt;
+                &lt;/div&gt;
+                &lt;div style="${SEC}"&gt;Status&lt;/div&gt;
+                &lt;div id="${PREFIX}-status-line" style="font-size:11px;color:#888;margin-bottom:6px;min-height:14px;"&gt;Idle&lt;/div&gt;
+                &lt;div id="${PREFIX}-next-video" style="font-size:10px;color:#444;word-break:break-all;margin-bottom:12px;"&gt;&lt;/div&gt;
+                &lt;div style="border-top:1px solid ${BORDER};margin:0 -15px 12px;"&gt;&lt;/div&gt;
+                &lt;div style="${SEC}"&gt;Filters&lt;/div&gt;
+                &lt;div style="display:flex;align-items:center;gap:6px;margin-bottom:8px;font-size:12px;"&gt;
+                    &lt;span style="color:#888;flex:1;"&gt;Max Video Length&lt;/span&gt;
+                    &lt;input id="${PREFIX}-max-length" type="number" min="0" max="120" step="1"
+                        value="${S.get(`${PREFIX}_max_length`, DEFAULT_MAX_LENGTH_MINS)}"
+                        style="${INP}width:52px;text-align:right;" title="0 = no limit"&gt;
+                    &lt;span style="color:#888;"&gt;min&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div style="display:flex;align-items:center;gap:6px;margin-bottom:8px;font-size:12px;"&gt;
+                    &lt;span style="color:#888;flex:1;"&gt;Max Pages to Scan&lt;/span&gt;
+                    &lt;input id="${PREFIX}-max-pages" type="number" min="1" max="99" step="1"
+                        value="${S.get(`${PREFIX}_max_pages`, DEFAULT_MAX_PAGES)}"
+                        style="${INP}width:52px;text-align:right;"&gt;
+                &lt;/div&gt;
+                &lt;label style="display:flex;align-items:center;gap:8px;font-size:12px;color:#888;margin-bottom:12px;cursor:pointer;"&gt;
+                    &lt;input id="${PREFIX}-auto-inc" type="checkbox" ${S.get(`${PREFIX}_auto_inc`, false) ? 'checked' : ''}
+                        style="accent-color:${ACCENT};width:14px;height:14px;cursor:pointer;"&gt;
+                    &lt;span&gt;Auto-increase max length by 1m after full scan&lt;/span&gt;
+                &lt;/label&gt;
+                &lt;div style="border-top:1px solid ${BORDER};margin:0 -15px 12px;"&gt;&lt;/div&gt;
+                &lt;div style="${SEC}"&gt;Videos Watched&lt;/div&gt;
+                &lt;div style="${ROW}"&gt;
+                    &lt;span style="color:#888;"&gt;Today&lt;/span&gt;
+                    &lt;span id="${PREFIX}-vids-day" style="color:#4ade80;text-align:right;font-weight:600;"&gt;0&lt;/span&gt;
+                    &lt;span style="color:#888;"&gt;Total&lt;/span&gt;
+                    &lt;span id="${PREFIX}-vids-tot" style="color:#4ade80;text-align:right;font-weight:600;"&gt;0&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div style="border-top:1px solid ${BORDER};margin:0 -15px 12px;"&gt;&lt;/div&gt;
+                &lt;div style="${SEC}"&gt;Cooldowns (24h)&lt;/div&gt;
+                &lt;div style="${ROW}"&gt;
+                    &lt;span style="color:#888;"&gt;Active&lt;/span&gt;
+                    &lt;span id="${PREFIX}-cool-count" style="color:#60a5fa;text-align:right;font-weight:600;"&gt;0&lt;/span&gt;
+                    &lt;span style="color:#888;"&gt;Next expires&lt;/span&gt;
+                    &lt;span id="${PREFIX}-cool-next" style="color:#60a5fa;text-align:right;font-weight:600;"&gt;&mdash;&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;div style="border-top:1px solid ${BORDER};margin:0 -15px 12px;"&gt;&lt;/div&gt;
+                &lt;div style="${SEC}"&gt;No Budget / Blocked&lt;/div&gt;
+                &lt;div style="${ROW}"&gt;
+                    &lt;span style="color:#888;"&gt;Logged videos&lt;/span&gt;
+                    &lt;span id="${PREFIX}-nb-count" style="color:#f87171;text-align:right;font-weight:600;"&gt;0&lt;/span&gt;
+                &lt;/div&gt;
+                &lt;button id="${PREFIX}-block-video" style="${BTN_BASE}background:#23243a;color:#f87171;border:1px solid #7b2020;font-weight:600;width:100%;margin-bottom:12px;"&gt;&#8856; Block This Video&lt;/button&gt;
+                &lt;div style="border-top:1px solid ${BORDER};margin:0 -15px 12px;"&gt;&lt;/div&gt;
+                &lt;div style="display:flex;gap:6px;flex-wrap:wrap;"&gt;
+                    &lt;button id="${PREFIX}-clear-stats" style="${BTN_DANGER}"&gt;Clear Stats&lt;/button&gt;
+                    &lt;button id="${PREFIX}-clear-cooldowns" style="${BTN_DANGER}"&gt;Reset Cooldowns&lt;/button&gt;
+                    &lt;button id="${PREFIX}-clear-nb" style="${BTN_DANGER}"&gt;Clear No Budget Log&lt;/button&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;`;
+
+        document.body.appendChild(overlay);
+        wirePanelEvents();
+    }
+
+    function wirePanelEvents() {
+        const iconBtn = document.getElementById(`${PREFIX}-icon-btn`);
+        const panel   = document.getElementById(`${PREFIX}-panel`);
+
+        let dragMoved = false;
+        iconBtn.addEventListener('mousedown', e =&gt; {
+            if (e.button !== 0) return;
+            dragMoved = false;
+            const startX = e.clientX, startY = e.clientY;
+            const rect = overlay.getBoundingClientRect();
+            overlay.style.right = 'auto';
+            overlay.style.left  = rect.left + 'px';
+            overlay.style.top   = rect.top  + 'px';
+            const onMove = ev =&gt; {
+                const dx = ev.clientX - startX, dy = ev.clientY - startY;
+                if (!dragMoved &amp;&amp; Math.abs(dx) + Math.abs(dy) &gt; 4) dragMoved = true;
+                if (dragMoved) {
+                    overlay.style.left = (rect.left + dx) + 'px';
+                    overlay.style.top  = (rect.top  + dy) + 'px';
+                }
+            };
+            const onUp = () =&gt; {
+                document.removeEventListener('mousemove', onMove);
+                document.removeEventListener('mouseup',   onUp);
+                if (!dragMoved) panel.style.display = panel.style.display === 'none' ? '' : 'none';
+            };
+            document.addEventListener('mousemove', onMove);
+            document.addEventListener('mouseup',   onUp);
+        });
+
+        document.getElementById(`${PREFIX}-toggle`).addEventListener('click', () =&gt; {
+            isRunning ? stopSurfer() : startSurfer();
+        });
+
+        document.getElementById(`${PREFIX}-max-length`).addEventListener('change', e =&gt; {
+            const v = Math.max(0, parseInt(e.target.value, 10) || 0);
+            e.target.value = v;
+            S.set(`${PREFIX}_max_length`, v);
+        });
+
+        document.getElementById(`${PREFIX}-max-pages`).addEventListener('change', e =&gt; {
+            const v = Math.max(1, parseInt(e.target.value, 10) || DEFAULT_MAX_PAGES);
+            e.target.value = v;
+            S.set(`${PREFIX}_max_pages`, v);
+        });
+
+        document.getElementById(`${PREFIX}-auto-inc`).addEventListener('change', e =&gt; {
+            S.set(`${PREFIX}_auto_inc`, e.target.checked);
+        });
+
+        document.getElementById(`${PREFIX}-clear-stats`).addEventListener('click', () =&gt; {
+            if (!confirm('Clear video counts? (cooldowns are not affected)')) return;
+            S.set(`${PREFIX}_videos_today`, 0);
+            S.set(`${PREFIX}_videos_total`, 0);
+            S.set(`${PREFIX}_earn_today`, 0);
+            S.set(`${PREFIX}_earn_total`, 0);
+            refreshUI();
+        });
+
+        document.getElementById(`${PREFIX}-clear-cooldowns`).addEventListener('click', () =&gt; {
+            if (!confirm('Reset all 24-hour cooldowns? All videos will be re-eligible.')) return;
+            S.set(`${PREFIX}_watched`, {});
+            refreshUI();
+        });
+
+        document.getElementById(`${PREFIX}-clear-nb`).addEventListener('click', () =&gt; {
+            if (!confirm('Clear the no-budget / blocked video log?')) return;
+            S.set(`${PREFIX}_no_budget`, {});
+            refreshUI();
+        });
+
+        document.getElementById(`${PREFIX}-block-video`).addEventListener('click', () =&gt; {
+            const videoId = getVideoId();
+            if (!videoId) { setStatus('Must be on a video page to block a video.'); return; }
+            logNoBudget(videoId);
+            markWatched(videoId);
+            refreshUI();
+            setStatus('Video blocked — returning to landing page…');
+            setTimeout(() =&gt; {
+                if (isRunning) location.href = pageUrl(S.get(`${PREFIX}_last_page`, 1));
+            }, 1000);
+        });
+    }
+
+    function setToggleVisual(running) {
+        const btn = document.getElementById(`${PREFIX}-toggle`);
+        if (!btn) return;
+        if (running) {
+            btn.textContent = '&#9646; Stop';
+            btn.style.background = '#e74c3c';
+            btn.style.color = '#fff';
+        } else {
+            btn.textContent = '&#9654; Start';
+            btn.style.background = ACCENT;
+            btn.style.color = ACCENT_TEXT;
+        }
+    }
+
+    function refreshUI() {
+        const set = (id, val) =&gt; { const e = document.getElementById(`${PREFIX}-${id}`); if (e) e.textContent = val; };
+        set('vids-day', S.get(`${PREFIX}_videos_today`, 0));
+        set('vids-tot', S.get(`${PREFIX}_videos_total`, 0));
+        set('cool-count', countActiveCooldowns());
+        const nxt = nextCooldownExpiry();
+        set('cool-next', nxt ? fmtTimeUntil(nxt) : '—');
+        set('nb-count', countNoBudget());
+        if (!isRunning) set('status-line', 'Idle');
+        const mlEl = document.getElementById(`${PREFIX}-max-length`);
+        if (mlEl) mlEl.value = S.get(`${PREFIX}_max_length`, DEFAULT_MAX_LENGTH_MINS);
+        const mpEl = document.getElementById(`${PREFIX}-max-pages`);
+        if (mpEl) mpEl.value = S.get(`${PREFIX}_max_pages`, DEFAULT_MAX_PAGES);
+        const aiEl = document.getElementById(`${PREFIX}-auto-inc`);
+        if (aiEl) aiEl.checked = S.get(`${PREFIX}_auto_inc`, false);
+    }
+
+    function scanVideos() {
+        const seen = new Set();
+        const candidates = [];
+
+        document.querySelectorAll('a[href*="/video/"]').forEach(a =&gt; {
+            const href = a.href;
+            const m = href.match(/\/video\/([^/?#]+)/);
+            if (!m) return;
+            const videoId = m[1];
+            if (seen.has(videoId)) return;
+            seen.add(videoId);
+            if (isWatched(videoId)) return;
+            if (isNoBudget(videoId)) return;
+
+            const container = a.closest('.card, .video-card, .video-item, [class*="video"], article, li, .col, .item') || a.parentElement || a;
+            let duration = Infinity;
+
+            const durEl = container.querySelector('[class*="duration"], [class*="time"], [class*="length"], .badge, [class*="sec"], [class*="min"]');
+            if (durEl) {
+                const t = durEl.textContent.trim();
+                const tm = t.match(/(\d{1,2}:\d{2}(?::\d{2})?)/);
+                if (tm) duration = parseDuration(tm[1]);
+            }
+
+            if (duration === Infinity) {
+                const text = container.textContent || '';
+                const tm = text.match(/\b(\d{1,2}:\d{2}(?::\d{2})?)\b/);
+                if (tm) duration = parseDuration(tm[1]);
+            }
+
+            const maxSecs = getMaxLengthSecs();
+            if (maxSecs &gt; 0 &amp;&amp; duration !== Infinity &amp;&amp; duration &gt; maxSecs) return;
+
+            if (/\$0\.0+\b/.test(container.textContent)) return;
+
+            candidates.push({ videoId, href, duration });
+        });
+
+        return candidates.sort((a, b) =&gt; a.duration - b.duration);
+    }
+
+    async function doLandingPage() {
+        await sleep(SETTLE_MS);
+        if (!isRunning) return;
+
+        const curPage = getCurrentPage();
+        setStatus(`Scanning page ${curPage} for unwatched videos…`);
+
+        const videos = scanVideos();
+        const maxMins = S.get(`${PREFIX}_max_length`, DEFAULT_MAX_LENGTH_MINS);
+        const filterNote = maxMins &gt; 0 ? ` (&le;${maxMins}m, not on cooldown)` : ' (not on cooldown)';
+
+        if (videos.length === 0) {
+            const maxPages = getMaxPages();
+            const nextPage = curPage + 1;
+
+            if (nextPage &gt; maxPages) {
+                if (S.get(`${PREFIX}_auto_inc`, false)) {
+                    const curMax = S.get(`${PREFIX}_max_length`, DEFAULT_MAX_LENGTH_MINS);
+                    const newMax = curMax + 1;
+                    S.set(`${PREFIX}_max_length`, newMax);
+                    refreshUI();
+                    setStatus(`All ${maxPages} pages exhausted — bumped max to ${newMax}m, returning to page 1…`);
+                    await sleep(1500);
+                } else {
+                    for (let s = EXHAUST_WAIT / 1000; s &gt; 0; s--) {
+                        if (!isRunning) return;
+                        setStatus(`All ${maxPages} pages exhausted${filterNote} — restarting in ${fmtSeconds(s)}…`);
+                        await sleep(1000);
+                    }
+                }
+                if (isRunning) location.assign(pageUrl(1));
+                return;
+            }
+
+            setStatus(`Page ${curPage}: no eligible videos${filterNote} — trying page ${nextPage}…`);
+            await sleep(1200);
+            if (isRunning) location.href = pageUrl(nextPage);
+            return;
+        }
+
+        const pick = videos[0];
+        const durLabel = pick.duration === Infinity ? 'unknown duration' : fmtSeconds(pick.duration);
+        setStatus(`Found ${videos.length} unwatched — navigating to shortest (${durLabel})…`);
+
+        const nextVidEl = document.getElementById(`${PREFIX}-next-video`);
+        if (nextVidEl) nextVidEl.textContent = pick.href;
+
+        S.set(`${PREFIX}_last_page`, curPage);
+        S.set(`${PREFIX}_last_duration`, pick.duration === Infinity ? 0 : pick.duration);
+
+        await sleep(1200);
+        if (isRunning) location.href = pick.href;
+    }
+
+    function isTurnstilePresent() {
+        const needsUserAction = (el) =&gt; {
+            if (!el) return false;
+            const r = el.getBoundingClientRect();
+            return r.width &gt; 100 &amp;&amp; r.height &gt; 80;
+        };
+        if (needsUserAction(document.querySelector('iframe[src*="challenges.cloudflare.com"]'))) return true;
+        if (needsUserAction(document.querySelector('.cf-turnstile'))) return true;
+        const cfOverlay = document.querySelector('#cf-challenge-running, #cf-error-details, .cf-challenge-running');
+        if (cfOverlay &amp;&amp; cfOverlay.offsetParent !== null) return true;
+        return false;
+    }
+
+    async function waitForTurnstile() {
+        if (!isTurnstilePresent()) return;
+        setStatus('&#9888; Turnstile challenge detected — solve it to continue…');
+        while (isTurnstilePresent() &amp;&amp; isRunning) await sleep(1000);
+        if (!isRunning) return;
+        setStatus('Turnstile passed — resuming…');
+        await sleep(3000);
+    }
+
+    function kickPlayback() {
+        const vid = document.querySelector('video');
+        if (vid) vid.play().catch(() =&gt; {});
+
+        const ytFrame = document.querySelector('iframe[src*="youtube.com/embed"], iframe[src*="youtube-nocookie.com/embed"]');
+        if (ytFrame) {
+            try {
+                ytFrame.contentWindow.postMessage(JSON.stringify({ event: 'command', func: 'playVideo', args: [] }), '*');
+            } catch {}
+            const r = ytFrame.getBoundingClientRect();
+            if (r.width &gt; 0) {
+                ytFrame.dispatchEvent(new MouseEvent('click', { bubbles: true, cancelable: true, clientX: r.left + r.width / 2, clientY: r.top + r.height / 2 }));
+            }
+        }
+    }
+
+    function wireYouTubeDetection(ytEndedFlag, ytPlayingFlag) {
+        const SEL = 'iframe[src*="youtube.com/embed"], iframe[src*="youtube-nocookie.com/embed"]';
+        let heartbeat = null;
+        let messageHandler = null;
+
+        const doWire = (frame) =&gt; {
+            if (!frame.src.includes('enablejsapi=1')) {
+                frame.addEventListener('load', () =&gt; setTimeout(() =&gt; doWire(frame), 1500), { once: true });
+                try {
+                    const url = new URL(frame.src);
+                    url.searchParams.set('enablejsapi', '1');
+                    frame.src = url.toString();
+                } catch {}
+                return;
+            }
+
+            const announce = () =&gt; {
+                try { frame.contentWindow.postMessage(JSON.stringify({ event: 'listening', id: 1 }), '*'); } catch {}
+                try { frame.contentWindow.postMessage(JSON.stringify({ event: 'command', func: 'playVideo', args: [] }), '*'); } catch {}
+            };
+
+            announce();
+            heartbeat = setInterval(announce, YT_HEARTBEAT_MS);
+
+            messageHandler = (e) =&gt; {
+                if (!e.data) return;
+                try {
+                    const msg = typeof e.data === 'string' ? JSON.parse(e.data) : e.data;
+                    if (!msg?.event) return;
+                    if ((msg.event === 'onStateChange' &amp;&amp; msg.info === 1) || (msg.event === 'infoDelivery' &amp;&amp; msg.info?.playerState === 1)) ytPlayingFlag[0] = true;
+                    if ((msg.event === 'onStateChange' &amp;&amp; msg.info === 0) || (msg.event === 'infoDelivery' &amp;&amp; msg.info?.playerState === 0)) ytEndedFlag[0] = true;
+                } catch {}
+            };
+            window.addEventListener('message', messageHandler);
+        };
+
+        let attempts = 0;
+        const poll = setInterval(() =&gt; {
+            const frame = document.querySelector(SEL);
+            if (frame) { clearInterval(poll); doWire(frame); return; }
+            if (++attempts &gt;= 12) clearInterval(poll);
+        }, 1000);
+
+        return () =&gt; {
+            clearInterval(poll);
+            clearInterval(heartbeat);
+            if (messageHandler) window.removeEventListener('message', messageHandler);
+        };
+    }
+
+    async function doVideoPage() {
+        const videoId = getVideoId();
+        if (!videoId) return;
+
+        const pageArrivalMs = Date.now();
+        markWatched(videoId);
+
+        await sleep(SETTLE_MS);
+        if (!isRunning) return;
+
+        const detectedCooldownMs = scrapeCooldownMs();
+        if (detectedCooldownMs !== DEFAULT_COOLDOWN_MS) markWatched(videoId, detectedCooldownMs);
+
+        const ytEndedFlag   = [false];
+        const ytPlayingFlag = [false];
+        const cleanupYT = wireYouTubeDetection(ytEndedFlag, ytPlayingFlag);
+        kickPlayback();
+
+        const hasNoBudget = () =&gt; {
+            const t = (document.body.innerText || '').toLowerCase();
+            return t.includes('does not have enough budget') || t.includes('no views available');
+        };
+        for (let i = 0; i &lt; 6 &amp;&amp; isRunning; i++) {
+            if (hasNoBudget()) {
+                cleanupYT();
+                logNoBudget(videoId);
+                setStatus('No budget for this video — going back…');
+                refreshUI();
+                await sleep(1200);
+                if (isRunning) location.href = pageUrl(S.get(`${PREFIX}_last_page`, 1));
+                return;
+            }
+            await sleep(1000);
+        }
+        if (!isRunning) { cleanupYT(); return; }
+
+        await waitForTurnstile();
+        if (!isRunning) { cleanupYT(); return; }
+
+        const WU_KEY = `${PREFIX}_last_wu`;
+        const lastWU = S.get(WU_KEY, null);
+        let remainingSecs;
+
+        if (lastWU &amp;&amp; lastWU.id === videoId) {
+            const remainingMs = lastWU.until - Date.now();
+            remainingSecs = remainingMs &lt;= 0 ? 0 : Math.ceil(remainingMs / 1000);
+        } else {
+            const knownSecs = S.get(`${PREFIX}_last_duration`, 0);
+            const rawWaitSecs = (knownSecs &gt; 0) ? knownSecs + DURATION_BUFFER_SECS : FALLBACK_WAIT_SECS;
+            const elapsedSecs = Math.floor((Date.now() - pageArrivalMs) / 1000);
+            remainingSecs = Math.max(5, rawWaitSecs - elapsedSecs);
+            S.set(WU_KEY, { id: videoId, until: Date.now() + remainingSecs * 1000 });
+        }
+
+        const nativeVid = document.querySelector('video');
+        if (nativeVid) {
+            nativeVid.addEventListener('ended', () =&gt; { ytEndedFlag[0] = true; }, { once: true });
+        }
+
+        const YT_SEL = 'iframe[src*="youtube.com/embed"], iframe[src*="youtube-nocookie.com/embed"]';
+        let skipVideo = false;
+        const safetyTimeout = setTimeout(() =&gt; {
+            if (!isRunning || skipVideo || remainingSecs &lt;= 0) return;
+            if (!document.querySelector(YT_SEL) &amp;&amp; !document.querySelector('video')) {
+                setStatus('No video player found after 30s — returning to landing page…');
+                skipVideo = true;
+            }
+        }, 30000);
+
+        while (remainingSecs &gt; 0 &amp;&amp; isRunning &amp;&amp; !skipVideo) {
+            if (ytEndedFlag[0] &amp;&amp; remainingSecs &gt; DURATION_BUFFER_SECS) remainingSecs = DURATION_BUFFER_SECS;
+            setStatus(`Watching video — ${fmtSeconds(remainingSecs)} remaining…`);
+            await sleep(1000);
+            remainingSecs--;
+        }
+
+        clearTimeout(safetyTimeout);
+        cleanupYT();
+        if (!isRunning) return;
+
+        if (skipVideo) {
+            await sleep(1200);
+            if (isRunning) location.href = pageUrl(S.get(`${PREFIX}_last_page`, 1));
+            return;
+        }
+
+        await waitForTurnstile();
+        if (!isRunning) return;
+
+        S.set(WU_KEY, null);
+        S.set(`${PREFIX}_videos_today`, S.get(`${PREFIX}_videos_today`, 0) + 1);
+        S.set(`${PREFIX}_videos_total`, S.get(`${PREFIX}_videos_total`, 0) + 1);
+        refreshUI();
+
+        setStatus('Video complete! Returning to landing page…');
+        await sleep(NAV_DELAY_MS);
+        if (isRunning) location.href = pageUrl(1);
+    }
+
+    function startSurfer() {
+        if (isRunning) return;
+        isRunning = true;
+        S.set(`${PREFIX}_running`, true);
+        setToggleVisual(true);
+        if (isVideoPage()) doVideoPage();
+        else doLandingPage();
+    }
+
+    function stopSurfer() {
+        isRunning = false;
+        S.set(`${PREFIX}_running`, false);
+        setToggleVisual(false);
+        setStatus('Stopped.');
+        refreshUI();
+        setTimeout(clearStatus, 3000);
+    }
+
+    function checkAutoResume() {
+        if (S.get(`${PREFIX}_running`, false)) setTimeout(startSurfer, 400);
+    }
+
+    function init() {
+        checkDailyReset();
+        buildOverlay();
+        refreshUI();
+        setInterval(refreshUI, 2000);
+        checkAutoResume();
+    }
+
+    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);
+    else init();
+})();</code></pre>
+
+                    </section>
+
+                    <!-- SIGNUP CTA - BOTTOM -->
+                    <div class="script-cta-block">
+                        <p>The script is only useful if you have a RewardVid account. <strong>Sign up free</strong> — no deposit required.</p>
+                        <a href="https://rewardvid.com?ref=neGoAYYa" class="referral-link" data-ref="rewardvid" target="_blank" rel="noopener nofollow">Create Your Free RewardVid Account &rarr;</a>
+                        <p class="text-small" style="color: #888; margin-top: 0.5rem; margin-bottom: 0;">Referral link &mdash; no cost to you</p>
+                    </div>
+
+                    <!-- PROS CONS -->
+                    <section>
+                        <h2>Is the Script Worth Using?</h2>
+
+                        <div class="pros-cons">
+                            <div class="pros">
+                                <h4>What It Solves</h4>
+                                <ul>
+                                    <li>Eliminates manual video selection on every pass</li>
+                                    <li>Prevents wasted time on no-budget or cooldown-locked videos</li>
+                                    <li>Handles Turnstile gracefully — just solve and it resumes</li>
+                                    <li>Persists state across page navigations automatically</li>
+                                    <li>Configurable without touching the code</li>
+                                    <li>Useful stats panel baked in</li>
+                                </ul>
+                            </div>
+                            <div class="cons">
+                                <h4>Limitations</h4>
+                                <ul>
+                                    <li>Cannot solve Turnstile challenges for you — still requires occasional manual interaction</li>
+                                    <li>Desktop browser only — does not work in the Android app</li>
+                                    <li>Hourly earning rate from video watching remains $0.05&ndash;$0.15 regardless of automation</li>
+                                    <li>Requires TamperMonkey installed in your browser</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <p>Bottom line: the script removes the most tedious parts of using RewardVid on desktop — manual video selection and navigation — without changing the fundamental earning rate. If you were going to run RewardVid in a browser anyway, the script makes it significantly less annoying to maintain.</p>
+                    </section>
+
+                    <!-- RELATED READING -->
+                    <section>
+                        <h2>Related Reading</h2>
+                        <ul>
+                            <li><a href="../reviews/rewardvid">RewardVid Full Review (2026)</a> &mdash; The complete platform breakdown: earning rates, withdrawal mechanics, and spare-device strategy</li>
+                            <li><a href="./automate-luckywatch-earnings">How To Automate LuckyWatch Earnings (2026 Guide)</a> &mdash; Similar approach for LuckyWatch using MacroDroid on Android</li>
+                            <li><a href="../reviews/faucetpay">FaucetPay Review</a> &mdash; The micro-wallet where your RewardVid withdrawals land</li>
+                            <li><a href="../guides/getting-started">Getting Started with Micro-Earning</a></li>
+                            <li><a href="./">More Blog Posts</a></li>
+                        </ul>
+                    </section>
+
+                    <!-- ENGAGEMENT -->
+                    <div class="engagement-prompt">
+                        <p>Was this article helpful?</p>
+                        <div class="engagement-buttons">
+                            <button class="engagement-btn" onclick="this.classList.add('selected')">Yes, helpful</button>
+                            <button class="engagement-btn" onclick="this.classList.add('selected')">Needs more info</button>
+                            <button class="engagement-btn" onclick="this.classList.add('selected')">Outdated</button>
+                        </div>
+                    </div>
+
+                    <!-- SOCIAL SHARING -->
+                    <div class="share-section">
+                        <span>Share this article:</span>
+                        <div class="share-buttons">
+                            <button class="share-btn share-twitter" onclick="shareOnTwitter()">Twitter</button>
+                            <button class="share-btn share-reddit" onclick="shareOnReddit()">Reddit</button>
+                            <button class="share-btn share-copy" onclick="copyToClipboard()">Copy Link</button>
+                        </div>
+                    </div>
+
+                </div>
+            </article>
+
+            <!-- SIDEBAR -->
+            <aside class="sidebar">
+                <div class="ad-placeholder sidebar"></div>
+
+                <div class="sidebar-widget">
+                    <h3>In This Article</h3>
+                    <ul>
+                        <!-- Auto-populated by JS from article headings -->
+                    </ul>
+                </div>
+
+                <div class="sidebar-widget">
+                    <h3>Sign Up First</h3>
+                    <a href="https://rewardvid.com?ref=neGoAYYa" target="_blank" rel="noopener nofollow" data-ref="rewardvid" style="display: block; text-align: center; padding: 0.75rem; background: var(--primary); color: white; border-radius: 4px; text-decoration: none; margin-bottom: 0.5rem;">Join RewardVid Free</a>
+                    <p class="text-small text-muted">Referral link</p>
+                </div>
+
+                <div class="sidebar-widget">
+                    <h3>Popular Reviews</h3>
+                    <ul>
+                        <li><a href="../reviews/rewardvid">RewardVid</a></li>
+                        <li><a href="../reviews/luckywatch">LuckyWatch</a></li>
+                        <li><a href="../reviews/makeyoutask">MakeYouTask</a></li>
+                        <li><a href="../reviews/faucetpay">FaucetPay</a></li>
+                        <li><a href="../reviews/freecash">Freecash</a></li>
+                    </ul>
+                </div>
+
+                <div class="sidebar-widget">
+                    <h3>Start Here</h3>
+                    <ul>
+                        <li><a href="../guides/getting-started">Getting Started</a></li>
+                        <li><a href="../guides/daily-guide">Daily Earning Routine</a></li>
+                        <li><a href="../guides/scam-alerts">Scam Alerts</a></li>
+                    </ul>
+                </div>
+
+                <div class="ad-placeholder sidebar"></div>
+            </aside>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-inner">
+                <nav class="footer-nav">
+                    <a href="../">Home</a>
+                    <a href="../pages/ptc">PTC</a>
+                    <a href="../pages/faucets">Faucets</a>
+                    <a href="../pages/offers">Offers</a>
+                    <a href="../reviews/">Reviews</a>
+                    <a href="../guides/">Guides</a>
+                    <a href="./">Blog</a>
+                    <span class="footer-separator">|</span>
+                    <a href="../pages/about">About</a>
+                    <a href="../pages/privacy">Privacy</a>
+                    <a href="../pages/disclaimer">Disclaimer</a>
+                    <a href="../pages/contact">Contact</a>
+                </nav>
+
+                <p class="footer-disclaimer">
+                    <strong>Disclaimer:</strong> This site provides information about micro-earning opportunities. Results vary. Some links are referral links - see our <a href="../pages/disclaimer">full disclaimer</a>.
+                </p>
+
+                <p class="text-small text-muted" style="margin-top: 1rem;">
+                    &copy; 2026 $1perday! For educational purposes only.
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../assets/js/main.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.umd.js"></script>
+    <script src="../assets/js/cookieconsent-config.js"></script>
+</body>
+</html>

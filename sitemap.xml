@@ -146,6 +146,12 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://1dollaperday.com/reviews/rewardvid</loc>
+        <lastmod>2026-05-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://1dollaperday.com/reviews/makeyoutask</loc>
         <lastmod>2026-02-08</lastmod>
         <changefreq>monthly</changefreq>
@@ -601,6 +607,12 @@
     <url>
         <loc>https://1dollaperday.com/blog/automate-luckywatch-earnings</loc>
         <lastmod>2026-02-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://1dollaperday.com/blog/automate-rewardvid-tampermonkey</loc>
+        <lastmod>2026-05-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
