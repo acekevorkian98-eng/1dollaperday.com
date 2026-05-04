@@ -3112,3 +3112,291 @@ tr:hover td {
     --cc-btn-secondary-hover-bg: var(--bg-alt, #1e2740);
     --cc-separator-border-color: var(--dark-border, #2a3350);
 }
+
+/* ============================================
+   NAV — MY STACK HIGHLIGHT
+   ============================================ */
+.nav-stack-link {
+    color: #12b886 !important;
+    font-weight: 600 !important;
+    position: relative;
+}
+
+.nav-stack-link::after {
+    content: '';
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: #12b886;
+    border-radius: 2px;
+    opacity: 0.7;
+}
+
+.nav-stack-link:hover {
+    color: #0fa778 !important;
+}
+
+/* ============================================
+   MY DAILY STACK
+   ============================================ */
+.daily-stack-section {
+    background: #0d1220;
+    border: 1px solid #1e2a42;
+    border-radius: var(--radius-xl);
+    padding: 2.5rem 2rem;
+    margin: 2.5rem 0;
+}
+
+.daily-stack-header {
+    margin-bottom: 1.75rem;
+}
+
+.daily-stack-title {
+    font-family: 'Syne', sans-serif;
+    font-size: 1.85rem;
+    font-weight: 800;
+    color: #e2e6ef;
+    margin-bottom: 0.4rem;
+    line-height: 1.1;
+}
+
+.daily-stack-title span {
+    color: #12b886;
+}
+
+.daily-stack-sub {
+    color: #6b7594;
+    font-size: 0.88rem;
+    margin: 0;
+}
+
+.daily-stack-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+    gap: 1.1rem;
+}
+
+.stack-card {
+    background: #121b2e;
+    border: 1px solid #1e2a42;
+    border-radius: 14px;
+    padding: 1.15rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+    transition: border-color var(--transition-base), transform var(--transition-base), box-shadow var(--transition-base);
+}
+
+.stack-card:hover {
+    border-color: #2a3f6e;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+}
+
+.stack-card-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.stack-platform-info {
+    display: flex;
+    align-items: center;
+    gap: 0.65rem;
+}
+
+.stack-logo {
+    width: 42px;
+    height: 42px;
+    border-radius: 10px;
+    background: #1e2a42;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.3rem;
+    flex-shrink: 0;
+    overflow: hidden;
+    border: 1px solid #2a3a56;
+}
+
+.stack-logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.stack-name {
+    font-weight: 700;
+    font-size: 0.95rem;
+    color: #e2e6ef;
+    line-height: 1.2;
+}
+
+.stack-category {
+    font-size: 0.6rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    color: #4a5a7a;
+    text-transform: uppercase;
+    margin-top: 3px;
+}
+
+.stack-number {
+    font-size: 0.7rem;
+    font-weight: 700;
+    color: #12b886;
+    opacity: 0.7;
+    font-family: 'Syne', monospace;
+    letter-spacing: 0.03em;
+    flex-shrink: 0;
+}
+
+.stack-top-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    background: rgba(212, 148, 42, 0.12);
+    color: #f0c773;
+    border: 1px solid rgba(212, 148, 42, 0.28);
+    border-radius: 20px;
+    padding: 3px 10px;
+    font-size: 0.67rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    width: fit-content;
+}
+
+.stack-highlight {
+    background: rgba(18, 184, 134, 0.07);
+    border: 1px solid rgba(18, 184, 134, 0.18);
+    border-radius: 8px;
+    padding: 0.6rem 0.7rem;
+    display: flex;
+    gap: 0.5rem;
+    align-items: flex-start;
+    font-size: 0.8rem;
+    color: #c8d0e0;
+    line-height: 1.5;
+}
+
+.stack-check {
+    color: #12b886;
+    font-weight: 700;
+    flex-shrink: 0;
+    font-size: 0.85rem;
+}
+
+.stack-features {
+    font-size: 0.76rem;
+    color: #5a6a8a;
+    line-height: 1.65;
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    flex: 1;
+}
+
+.stack-features div::before {
+    content: '· ';
+    color: #2a3f6e;
+}
+
+.stack-withdraw {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    padding-top: 0.6rem;
+    border-top: 1px solid #1a2438;
+}
+
+.stack-withdraw-label {
+    font-size: 0.58rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    color: #3a4a68;
+    text-transform: uppercase;
+    flex-shrink: 0;
+}
+
+.stack-withdraw-tag {
+    background: rgba(255,255,255,0.05);
+    border: 1px solid #1e2a42;
+    color: #8891a8;
+    border-radius: 4px;
+    padding: 2px 8px;
+    font-size: 0.68rem;
+    font-weight: 500;
+}
+
+.stack-actions {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 0.45rem;
+    margin-top: auto;
+}
+
+.stack-btn-review {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    padding: 0.48rem 0.9rem;
+    border-radius: 7px;
+    background: rgba(255,255,255,0.04);
+    color: #8891a8;
+    text-decoration: none;
+    font-size: 0.75rem;
+    font-weight: 500;
+    border: 1px solid #1e2a42;
+    transition: background var(--transition-fast), color var(--transition-fast);
+    white-space: nowrap;
+}
+
+.stack-btn-review::before {
+    content: '💬';
+    font-size: 0.7rem;
+}
+
+.stack-btn-review:hover {
+    background: rgba(255,255,255,0.08);
+    color: #c8d0e0;
+}
+
+.stack-btn-cta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.48rem 0.75rem;
+    border-radius: 7px;
+    background: #12b886;
+    color: #fff;
+    text-decoration: none;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    transition: background var(--transition-fast), transform var(--transition-fast);
+    white-space: nowrap;
+}
+
+.stack-btn-cta:hover {
+    background: #0fa778;
+    transform: translateY(-1px);
+    color: #fff;
+}
+
+@media (max-width: 600px) {
+    .daily-stack-section {
+        padding: 1.75rem 1.25rem;
+        border-radius: var(--radius-lg);
+    }
+    .daily-stack-grid {
+        grid-template-columns: 1fr;
+    }
+    .daily-stack-title {
+        font-size: 1.5rem;
+    }
+}
