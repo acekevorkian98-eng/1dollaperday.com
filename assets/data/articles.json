@@ -6,7 +6,7 @@
       "excerpt": "Nuggmi combines micro-tasks, offerwalls, and daily bonuses with FaucetPay crypto payouts. We break down what it pays, which earning methods are worth your time, and the non-negotiable daily bonus habit.",
       "category": "Review",
       "section": "reviews",
-      "url": "../reviews/nuggmi.html",
+      "url": "nuggmi.html",
       "date": "May 04, 2026",
       "readTime": "9 min read"
     },
@@ -16,7 +16,7 @@
       "excerpt": "StreamPayz pays crypto for watching video streams via FaucetPay. We cover the spare device setup, the promo cards page most users miss, and honest earnings data for the watch-to-earn category.",
       "category": "Review",
       "section": "reviews",
-      "url": "../reviews/streampayz.html",
+      "url": "streampayz.html",
       "date": "May 04, 2026",
       "readTime": "9 min read"
     },
@@ -26,7 +26,7 @@
       "excerpt": "FaucetPayz delivers hourly faucet claims, PTC ads, shortlinks, and offerwalls with instant FaucetPay multi-crypto settlement. We break down the daily routine that makes it useful as a stack component.",
       "category": "Review",
       "section": "reviews",
-      "url": "../reviews/faucetpayz.html",
+      "url": "faucetpayz.html",
       "date": "May 04, 2026",
       "readTime": "8 min read"
     },
@@ -36,7 +36,7 @@
       "excerpt": "2Captcha is legitimate and it pays — but at $0.50 to $1.00 per hour of active captcha solving, it is the lowest-yield method we cover. Here is the only scenario where it makes sense and why.",
       "category": "Review",
       "section": "reviews",
-      "url": "../reviews/2captcha.html",
+      "url": "2captcha.html",
       "date": "May 04, 2026",
       "readTime": "8 min read"
     },
@@ -46,9 +46,519 @@
       "excerpt": "RewardVid pays crypto for watching videos with a $1 FaucetPay withdrawal threshold. We tested it — here's the exact earning rate, the anti-cheat mechanics, and the strategy that makes it worth your time.",
       "category": "Review",
       "section": "reviews",
-      "url": "../reviews/rewardvid.html",
+      "url": "rewardvid.html",
       "date": "May 04, 2026",
       "readTime": "10 min read"
+    },
+    {
+      "id": "buxmoney-review",
+      "title": "BUX.money Review 2026 - Our New Favorite PTC Site",
+      "excerpt": "BUX.money review 2026 - One of the best PTC sites we've found. Ultra-low thresholds, fast payouts, and we verify it pays. Our rating: 8.0/10.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "buxmoney.html",
+      "date": "April 22, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "onlyfaucet-review",
+      "title": "OnlyFaucet Review 2026 - Instant Payouts, Super Easy Crypto Faucet",
+      "excerpt": "Honest OnlyFaucet review from real experience. Instant payouts, really easy to use, cool shortlinks and faucets. Highly recommend! Score: 10/10.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "onlyfaucet.html",
+      "date": "April 19, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "clickfight-review-2026",
+      "title": "ClickFight Review 2026: A Browser Game That Actually Pays Bitcoin",
+      "excerpt": "ClickFight is a browser RPG where you fight dungeon enemies, craft gear, and earn FightCoins paid instantly to FaucetPay. We played it. Here's what it actually pays and whether it's worth your time.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "games/clickfight-review-2026.html",
+      "date": "April 16, 2026",
+      "readTime": "10 min read"
+    },
+    {
+      "id": "firefaucet-review",
+      "title": "FireFaucet Review 2026 - Auto Faucet That Actually Stays Consistent",
+      "excerpt": "Honest FireFaucet review from real experience. Great consistency, solid auto faucet, shortlinks that work — but that payout threshold will test your patience. Score: 7.5/10.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "firefaucet.html",
+      "date": "February 25, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "makeyoutask-review",
+      "title": "MakeYouTask Review 2026 - Watch YouTube Videos & Earn Crypto",
+      "excerpt": "MakeYouTask review - Earn ~$0.10/hour watching YouTube videos with zero effort. Watch & Earn, Short Earn, plus a referral marketplace where you can buy referrals and compound earnings. Min withdrawal $0.10.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "makeyoutask.html",
+      "date": "February 17, 2026",
+      "readTime": "9 min read"
+    },
+    {
+      "id": "faucetpay-review",
+      "title": "FaucetPay Review - Essential Micro-Wallet for Faucets",
+      "excerpt": "Honest FaucetPay review. Is it legit? How does this micro-wallet work? Payment proof, features, and why every faucet user needs it. Updated 2026.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "faucetpay.html",
+      "date": "February 08, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "faucetcrypto-review",
+      "title": "FaucetCrypto Review - Easy Faucet with Level System",
+      "excerpt": "Honest FaucetCrypto review. Easy to use faucet with abundant tasks, level system rewards, and swift FaucetPay payouts. Highly recommended for beginners.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "faucetcrypto.html",
+      "date": "February 08, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "adbtc-review",
+      "title": "adBTC Review - Reliable Bitcoin PTC Since 2016",
+      "excerpt": "adBTC review - One of the most established Bitcoin PTC sites with auto-surf, low withdrawal minimum, and consistent payments since 2016. Rating: 8/10. Updated 2026.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "adbtc.html",
+      "date": "February 08, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "honeygain-review",
+      "title": "Honeygain Review - Passive Income from Bandwidth Sharing",
+      "excerpt": "Honeygain review - Earn passive income by sharing unused internet bandwidth. Legit since 2019, 10M+ users, PayPal & crypto payouts. Rating: 8/10. Updated 2026.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "honeygain.html",
+      "date": "February 08, 2026",
+      "readTime": "9 min read"
+    },
+    {
+      "id": "jumptask-review",
+      "title": "JumpTask Review - JMPT Token Earning Platform",
+      "excerpt": "JumpTask review: Earn JMPT tokens through surveys, games, bandwidth sharing, and microtasks. MetaMask payouts, Honeygain integration. Is it worth it?",
+      "category": "Review",
+      "section": "reviews",
+      "url": "jumptask.html",
+      "date": "February 08, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "luckywatch-review",
+      "title": "LuckyWatch Review - Get Paid to Watch Videos",
+      "excerpt": "LuckyWatch review - Earn real money watching short videos with instant crypto withdrawals. No investment needed, just watch and earn. Rating: 10/10. Updated 2026.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "luckywatch.html",
+      "date": "February 08, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "bytelixir-review",
+      "title": "ByteLixir Review - Bandwidth Sharing App Worth It?",
+      "excerpt": "ByteLixir review: Earn crypto passively by sharing bandwidth. Limited device support, crypto-only payouts, variable earnings. Is it worth your time?",
+      "category": "Review",
+      "section": "reviews",
+      "url": "bytelixir.html",
+      "date": "February 08, 2026",
+      "readTime": "7 min read"
+    },
+    {
+      "id": "coinpayu-review",
+      "title": "CoinPayU Review 2026 - Legit Crypto Earner or Waste of Time?",
+      "excerpt": "Honest CoinPayU review for 2026. We tested it ourselves - dashboard screenshots, real earnings data, and a breakdown of every feature. Is it still worth it?",
+      "category": "Review",
+      "section": "reviews",
+      "url": "coinpayu.html",
+      "date": "February 08, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "cointiply-review",
+      "title": "Cointiply Review - Decent Faucet with a Grind",
+      "excerpt": "Honest Cointiply review. Good looking crypto faucet with daily wheel and multiple earning methods, but reaching payout is a grind. Rating: 6/10. Updated 2026.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "cointiply.html",
+      "date": "February 08, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "viefaucet-review",
+      "title": "VieFaucet Review - Multi-Coin Faucet with Instant Payouts",
+      "excerpt": "VieFaucet review - Popular multi-coin faucet with 5-star Trustpilot rating, instant FaucetPay withdrawals, and multiple earning methods. Rating: 8/10. Updated 2026.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "viefaucet.html",
+      "date": "February 08, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "faucetoshi-review",
+      "title": "Faucetoshi Review - Clean Faucet with Instant Payouts",
+      "excerpt": "Faucetoshi review - A clean, user-friendly crypto faucet with 20+ coins, incredibly low $0.01 minimum withdrawal, and instant FaucetPay payouts. Rating: 8/10. Updated 2026.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "faucetoshi.html",
+      "date": "February 08, 2026",
+      "readTime": "7 min read"
+    },
+    {
+      "id": "freecash-review",
+      "title": "Freecash Review 2025 - Is It Legit? Honest GPT Site Review",
+      "excerpt": "Honest Freecash review 2025. Is Freecash legit? Payment proof, earning potential, pros and cons. Complete guide to one of the most popular GPT sites.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "freecash.html",
+      "date": "February 08, 2026",
+      "readTime": "9 min read"
+    },
+    {
+      "id": "swagbucks-review",
+      "title": "Swagbucks Review 2025 - The OG of GPT Sites",
+      "excerpt": "Honest Swagbucks review 2025. The most popular GPT site worldwide - but is it worth your time? Real earnings, payment proof, and whether you should join.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "swagbucks.html",
+      "date": "February 08, 2026",
+      "readTime": "9 min read"
+    },
+    {
+      "id": "prolific-review",
+      "title": "Prolific Review 2025 - The Best-Paying Survey Site",
+      "excerpt": "Honest Prolific review 2025. Why academics and researchers pay 5x more than typical survey sites. Real earnings, how to get studies, and whether you qualify.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "prolific.html",
+      "date": "February 08, 2026",
+      "readTime": "9 min read"
+    },
+    {
+      "id": "prizerebel-review",
+      "title": "PrizeRebel Review 2025 - The Underrated GPT Veteran",
+      "excerpt": "Honest PrizeRebel review 2025. 17+ years paying users, amazing loyalty system, and why it might be better than Swagbucks for serious earners.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "prizerebel.html",
+      "date": "February 08, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "brave-review",
+      "title": "Brave Browser Review 2025 - Get Paid to Browse",
+      "excerpt": "Honest Brave Browser review 2025. Get paid in crypto just for browsing the web. How much can you really earn with BAT rewards? Complete breakdown.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "brave.html",
+      "date": "February 08, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "rakuten-review",
+      "title": "Rakuten Review 2025 - Free Money on Every Purchase",
+      "excerpt": "Honest Rakuten review 2025. Get up to 15% cashback on online shopping. Plus a $30 signup bonus. How much can you really save? Complete breakdown.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "rakuten.html",
+      "date": "February 08, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "ysense-review",
+      "title": "ySense Review 2025 - Former ClixSense, Still a Top Earner?",
+      "excerpt": "Honest ySense review 2025. Formerly ClixSense with 15+ years of payments. Is it still worth your time? Real earnings, payment proof, and honest assessment.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "ysense.html",
+      "date": "February 08, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "pawns-review",
+      "title": "Pawns.app Review 2025 - Passive Income from Bandwidth Sharing",
+      "excerpt": "Honest Pawns.app review 2025. Earn passive income by sharing your internet bandwidth. How much can you really make? Complete breakdown and comparison with Honeygain.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "pawns.html",
+      "date": "February 08, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "mturk-review",
+      "title": "Amazon MTurk Review 2025 - The Original Micro-Task Platform",
+      "excerpt": "Honest Amazon Mechanical Turk review 2025. The original micro-task platform backed by Amazon. Real earnings potential, how to get started, and whether it's still worth your time.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "mturk.html",
+      "date": "February 08, 2026",
+      "readTime": "9 min read"
+    },
+    {
+      "id": "ibotta-review",
+      "title": "Ibotta Review 2025 - Get Paid for Grocery Shopping",
+      "excerpt": "Honest Ibotta review 2025. Turn your grocery receipts into cash back. How much can you really save? Complete breakdown of the #1 grocery cashback app.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "ibotta.html",
+      "date": "February 08, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "usertesting-review",
+      "title": "UserTesting Review 2025 - Get $10 for 20-Minute Tests",
+      "excerpt": "Honest UserTesting review 2025. Earn $10+ per test reviewing websites and apps. Is it legit? How to qualify for tests and maximize your earnings.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "usertesting.html",
+      "date": "February 08, 2026",
+      "readTime": "9 min read"
+    },
+    {
+      "id": "respondent-review",
+      "title": "Respondent Review 2025 - Get Paid $50-200 Per Study",
+      "excerpt": "Honest Respondent review 2025. Earn $50-200 per research study. Is it legit? How to qualify for high-paying studies and maximize your acceptance rate.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "respondent.html",
+      "date": "February 08, 2026",
+      "readTime": "9 min read"
+    },
+    {
+      "id": "topcashback-review",
+      "title": "TopCashback Review 2025 - Often Higher Rates Than Rakuten",
+      "excerpt": "Honest TopCashback review 2025. Get the highest cashback rates at thousands of retailers. Better than Rakuten? Real comparison and payment proof.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "topcashback.html",
+      "date": "February 08, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "honey-review",
+      "title": "Honey Review 2025 - Auto Coupon Finder + Cashback",
+      "excerpt": "Honest Honey review 2025. The PayPal-owned browser extension that finds coupons automatically. Does it actually save money? Real user experience.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "honey.html",
+      "date": "February 08, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "clickworker-review",
+      "title": "Clickworker Review 2025 - UHRS Access + Micro-Tasks",
+      "excerpt": "Honest Clickworker review 2025. Access to UHRS tasks, data entry, and AI training work. Is it worth your time? Real earnings and payment proof.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "clickworker.html",
+      "date": "February 08, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "mistplay-review",
+      "title": "Mistplay Review 2025 - Get Paid to Play Mobile Games",
+      "excerpt": "Honest Mistplay review 2025. Earn gift cards playing mobile games on Android. Is it legit? Real earnings expectations and tips.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "mistplay.html",
+      "date": "February 08, 2026",
+      "readTime": "7 min read"
+    },
+    {
+      "id": "earnapp-review",
+      "title": "EarnApp Review 2025 - Passive Income from Bright Data",
+      "excerpt": "Honest EarnApp review 2025. Share your internet bandwidth and earn passive income. By Bright Data - is it safe and legit? Real earnings.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "earnapp.html",
+      "date": "February 08, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "freebitcoin-review",
+      "title": "FreeBitcoin Review 2025 - The Original BTC Faucet Since 2013",
+      "excerpt": "Honest FreeBitcoin review 2025. The oldest Bitcoin faucet still paying since 2013. Is it still worth it? Hourly claims, interest, and lottery explained.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "freebitcoin.html",
+      "date": "February 08, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "gg2u-review",
+      "title": "GG2U Review 2025 - High-Paying GPT Site",
+      "excerpt": "Honest GG2U review 2025. Higher payouts than competitors on offers and surveys. Is it legit? Real earnings and payment proof.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "gg2u.html",
+      "date": "February 08, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "pinecone-review",
+      "title": "Pinecone Research Review 2025 - Elite Survey Panel",
+      "excerpt": "Honest Pinecone Research review 2025. Invite-only survey panel paying $3-5 per survey. Is it worth joining? How to get invited.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "pinecone.html",
+      "date": "February 08, 2026",
+      "readTime": "7 min read"
+    },
+    {
+      "id": "befrugal-review",
+      "title": "BeFrugal Review 2025 - Cashback Site with $1 Minimum",
+      "excerpt": "Honest BeFrugal review 2025. Cashback site with just $1 minimum payout and $10 signup bonus. Compare to Rakuten and TopCashback.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "befrugal.html",
+      "date": "February 08, 2026",
+      "readTime": "7 min read"
+    },
+    {
+      "id": "fetchrewards-review",
+      "title": "Fetch Rewards Review 2025 - Scan Any Receipt",
+      "excerpt": "Honest Fetch Rewards review 2025. Scan any receipt for points - no brand matching needed. How much can you earn? Is it worth it?",
+      "category": "Review",
+      "section": "reviews",
+      "url": "fetchrewards.html",
+      "date": "February 08, 2026",
+      "readTime": "7 min read"
+    },
+    {
+      "id": "rewardxp-review",
+      "title": "RewardXP Review 2025 - Clean GPT Site",
+      "excerpt": "Honest RewardXP review 2025. Clean GPT interface with surveys, offers, and multiple payout options. Is it worth using?",
+      "category": "Review",
+      "section": "reviews",
+      "url": "rewardxp.html",
+      "date": "February 08, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "surveytime-review",
+      "title": "Surveytime Review 2025 - Instant $1 Per Survey",
+      "excerpt": "Honest Surveytime review 2025. Get paid $1 instantly for every completed survey. No points, no waiting. Is it legit?",
+      "category": "Review",
+      "section": "reviews",
+      "url": "surveytime.html",
+      "date": "February 08, 2026",
+      "readTime": "7 min read"
+    },
+    {
+      "id": "userfeel-review",
+      "title": "Userfeel Review 2025 - $10 Per Website Test",
+      "excerpt": "Honest Userfeel review 2025. Get paid $10 per website usability test. Similar to UserTesting. Is it legit?",
+      "category": "Review",
+      "section": "reviews",
+      "url": "userfeel.html",
+      "date": "February 08, 2026",
+      "readTime": "7 min read"
+    },
+    {
+      "id": "dutchycorp-review",
+      "title": "Dutchy CORP Review 2025 - Multi-Method Faucet",
+      "excerpt": "Honest Dutchy CORP review 2025. Faucet with PTC, shortlinks, offerwalls and more. Instant FaucetPay withdrawals. Is it worth it?",
+      "category": "Review",
+      "section": "reviews",
+      "url": "dutchycorp.html",
+      "date": "February 08, 2026",
+      "readTime": "7 min read"
+    },
+    {
+      "id": "dscout-review",
+      "title": "Dscout Review 2025 - High-Paying Research Missions",
+      "excerpt": "Honest Dscout review 2025. Get paid $5-100+ per mission for sharing feedback via video diary entries. Is it worth it?",
+      "category": "Review",
+      "section": "reviews",
+      "url": "dscout.html",
+      "date": "February 08, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "attapoll-review",
+      "title": "Attapoll Review 2025 - Mobile Survey App",
+      "excerpt": "Honest Attapoll review 2025. Mobile survey app with $3 minimum PayPal payout. Quick surveys on your phone. Is it worth it?",
+      "category": "Review",
+      "section": "reviews",
+      "url": "attapoll.html",
+      "date": "February 08, 2026",
+      "readTime": "7 min read"
+    },
+    {
+      "id": "gaingg-review",
+      "title": "Gain.gg Review 2025 - GPT Site with $0.10 Minimum",
+      "excerpt": "Honest Gain.gg review 2025. GPT site with incredibly low $0.10 minimum payout. Crypto and PayPal options. Is it worth using?",
+      "category": "Review",
+      "section": "reviews",
+      "url": "gaingg.html",
+      "date": "February 08, 2026",
+      "readTime": "7 min read"
+    },
+    {
+      "id": "idleempire-review",
+      "title": "Idle-Empire Review 2025 - GPT Site for Gamers",
+      "excerpt": "Honest Idle-Empire review 2025. GPT site with Steam, gaming skins, and crypto payouts. Perfect for gamers. Is it legit?",
+      "category": "Review",
+      "section": "reviews",
+      "url": "idleempire.html",
+      "date": "February 08, 2026",
+      "readTime": "7 min read"
+    },
+    {
+      "id": "packetstream-review",
+      "title": "PacketStream Review 2025 - Simple Bandwidth Sharing",
+      "excerpt": "Honest PacketStream review 2025. Share bandwidth and earn passive income. $5 minimum PayPal payout. Is it worth it?",
+      "category": "Review",
+      "section": "reviews",
+      "url": "packetstream.html",
+      "date": "February 08, 2026",
+      "readTime": "7 min read"
+    },
+    {
+      "id": "qmee-review",
+      "title": "Qmee Review 2025 - No Minimum Payout Surveys",
+      "excerpt": "Honest Qmee review 2025. Survey site with NO minimum payout - cash out any amount instantly. Is it worth using?",
+      "category": "Review",
+      "section": "reviews",
+      "url": "qmee.html",
+      "date": "February 08, 2026",
+      "readTime": "7 min read"
+    },
+    {
+      "id": "toloka-review",
+      "title": "Toloka Review 2025 - AI Micro-Tasks by Yandex",
+      "excerpt": "Honest Toloka review 2025. Micro-task platform by Yandex for AI training data. Low $0.02 minimum payout. Is it worth it?",
+      "category": "Review",
+      "section": "reviews",
+      "url": "toloka.html",
+      "date": "February 08, 2026",
+      "readTime": "7 min read"
+    },
+    {
+      "id": "makeyoutask-overhaul-2026",
+      "title": "MakeYouTask Got a Makeover — Here's What Changed in 2026",
+      "excerpt": "MakeYouTask has had a full platform overhaul. New UI, new structure — and the biggest change: video earning is now mobile-only. If you were running videos on desktop, that no longer works. Here's what still works and what's coming.",
+      "category": "News",
+      "section": "blog",
+      "url": "makeyoutask-overhaul-2026.html",
+      "date": "May 14, 2026",
+      "readTime": "6 min read"
+    },
+    {
+      "id": "earnbitmoon-review-blog",
+      "title": "EarnBitMoon Review (2026): Can You Really Make Crypto Every 5 Minutes?",
+      "excerpt": "EarnBitMoon has 2 million monthly visitors and a 5-minute faucet. We break down every earning method — PTC, shortlinks, offerwalls — plus a daily strategy to hit $1 a day with zero investment.",
+      "category": "Review",
+      "section": "blog",
+      "url": "earnbitmoon-review.html",
+      "date": "May 04, 2026",
+      "readTime": "12 min read"
     },
     {
       "id": "automate-rewardvid-tampermonkey",
@@ -61,24 +571,44 @@
       "readTime": "8 min read"
     },
     {
-      "id": "earnbitmoon-review",
-      "title": "EarnBitMoon Review (2026): Can You Really Make Crypto Every 5 Minutes?",
-      "excerpt": "EarnBitMoon has 2 million monthly visitors and a 5-minute faucet. We break down every earning method — PTC, shortlinks, offerwalls — plus a daily strategy to hit $1 a day with zero investment.",
-      "category": "Review",
-      "section": "blog",
-      "url": "earnbitmoon-review.html",
-      "date": "May 04, 2026",
-      "readTime": "12 min read"
-    },
-    {
       "id": "satoshioffers-review-2026",
       "title": "SatoshiOffers Review 2026: Worth Your Time or Just Another PTC Trap?",
       "excerpt": "SatoshiOffers promises crypto for completing tasks, surveys, and offers. We signed up, tested, and dug into the trust data. Here's our honest verdict on whether it's legitimate or a scam.",
       "category": "Review",
-      "section": "reviews",
-      "url": "../blog/satoshioffers-review-2026.html",
+      "section": "blog",
+      "url": "satoshioffers-review-2026.html",
       "date": "April 23, 2026",
       "readTime": "8 min read"
+    },
+    {
+      "id": "payup-video-review-2026",
+      "title": "PayUp.video: A Solid LuckyWatch Alternative for Passive TRX Earnings",
+      "excerpt": "PayUp.video pays TRX for watching 10-20 second video ads and is fully automatable with MacroDroid. If LuckyWatch is your primary video earner, PayUp makes a smart backup that keeps earnings rolling when inventory dips.",
+      "category": "Guide",
+      "section": "blog",
+      "url": "payup-video-review-2026.html",
+      "date": "April 23, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "zenmine-review-2026",
+      "title": "ZenMine.io Review 2026: Live Test In Progress",
+      "excerpt": "Cloud mining platform. Currently testing — will update with payout verdict around Day 7. Proceed with caution based on current patterns.",
+      "category": "cloud-mining",
+      "section": "blog",
+      "url": "zenmine-review-2026.html",
+      "date": "April 23, 2026",
+      "readTime": "Live Test"
+    },
+    {
+      "id": "automate-onlyfaucet-tampermonkey",
+      "title": "How To Automate OnlyFaucet with Tampermonkey (2026 Guide)",
+      "excerpt": "Automate your OnlyFaucet claims with Tampermonkey. This script automatically clicks the Claim Now button on all faucet pages. Free script included - copy and paste!",
+      "category": "Guide",
+      "section": "blog",
+      "url": "automate-onlyfaucet-tampermonkey.html",
+      "date": "April 19, 2026",
+      "readTime": "4 min read"
     },
     {
       "id": "best-investing-books-2026",
@@ -86,7 +616,7 @@
       "excerpt": "10 investing books worth reading in 2026 — from Graham to Housel. No hype, no get-rich-quick. Just what actually holds up after I read them.",
       "category": "Finance",
       "section": "blog",
-      "url": "../blog/best-investing-books-2026.html",
+      "url": "best-investing-books-2026.html",
       "date": "April 02, 2026",
       "readTime": "12 min read"
     },
@@ -96,9 +626,19 @@
       "excerpt": "5 ethical investments that might actually make you money in 2026 — no greenwashing fluff, just what I actually looked at.",
       "category": "finance",
       "section": "blog",
-      "url": "../blog/top-5-ethical-investments-2026.html",
+      "url": "top-5-ethical-investments-2026.html",
       "date": "April 02, 2026",
       "readTime": "15 min read"
+    },
+    {
+      "id": "top-5-investment-choices-2026",
+      "title": "Top 5 Investment Choices for 2026",
+      "excerpt": "Five investment options worth your money in 2026 — stocks/ETFs, real estate crowdfunding, crypto, bonds, and robo-advisors. Honest pros, honest cons, no hype.",
+      "category": "Finance",
+      "section": "blog",
+      "url": "top-5-investment-choices-2026.html",
+      "date": "April 04, 2026",
+      "readTime": "9 min read"
     },
     {
       "id": "best-affiliate-networks-2026",
@@ -106,39 +646,19 @@
       "excerpt": "I've ground through dozens of GPT and referral networks so you don't have to. Here are the affiliate programs that actually pay in 2026 — ranked by real payout, not hype.",
       "category": "guide",
       "section": "blog",
-      "url": "../blog/best-affiliate-networks-2026.html",
+      "url": "best-affiliate-networks-2026.html",
       "date": "March 31, 2026",
       "readTime": "15 min read"
     },
     {
-      "id": "zenmine-review-2026",
-      "title": "ZenMine.io Review 2026: Live Test In Progress",
-      "excerpt": "Cloud mining platform. Currently testing — will update with payout verdict around Day 7. Proceed with caution based on current patterns.",
-      "category": "cloud-mining",
-      "section": "reviews",
-      "url": "../blog/zenmine-review-2026.html",
-      "date": "April 23, 2026",
-      "readTime": "Live Test"
-    },
-    {
-      "id": "clickfight-review-2026",
-      "title": "ClickFight Review 2026: A Browser Game That Actually Pays Bitcoin",
-      "excerpt": "ClickFight is a browser RPG where you fight dungeon enemies, craft gear, and earn FightCoins paid instantly to FaucetPay. We played it. Here's what it actually pays and whether it's worth your time.",
-      "category": "games",
-      "section": "reviews",
-      "url": "../reviews/games/clickfight-review-2026.html",
-      "date": "April 16, 2026",
-      "readTime": "10 min read"
-    },
-    {
-      "id": "best-browser-everyday-use-2026",
-      "title": "Best Browser for Everyday Use in 2026: Chrome vs Firefox vs Brave",
-      "excerpt": "Chrome is still the default, but it's not the best anymore. We break down speed, privacy, RAM usage, and Brave Rewards earnings to find which browser is actually worth using in 2026.",
-      "category": "Guide",
+      "id": "top-5-earn-apps-2026",
+      "title": "Top 5 Earn Apps to Make $ in 2026",
+      "excerpt": "Five earn apps that actually pay in 2026. No hype — real payout data, referral bonuses, and what each platform is actually worth per hour of your time.",
+      "category": "guide",
       "section": "blog",
-      "url": "best-browser-everyday-use-2026.html",
-      "date": "April 06, 2026",
-      "readTime": "8 min read"
+      "url": "top-5-earn-apps-2026.html",
+      "date": "March 31, 2026",
+      "readTime": "12 min read"
     },
     {
       "id": "makeyoutask-macro-v3",
@@ -149,6 +669,26 @@
       "url": "makeyoutask-macro-v3.html",
       "date": "March 28, 2026",
       "readTime": "5 min read"
+    },
+    {
+      "id": "best-cashback-apps-2026",
+      "title": "Best Cashback Apps That Actually Pay in 2026 (We Tested Them)",
+      "excerpt": "BeFrugal, Swagbucks, and cashback stacking — we tested the major cashback apps in 2026 and report actual rates, payout minimums, and which combinations produce the most money back.",
+      "category": "Guide",
+      "section": "blog",
+      "url": "best-cashback-apps-2026.html",
+      "date": "March 23, 2026",
+      "readTime": "8 min read"
+    },
+    {
+      "id": "best-micro-task-sites-2026",
+      "title": "Best Micro-Task Sites That Pay in 2026: Clickworker, Idle-Empire & More",
+      "excerpt": "Clickworker, Idle-Empire, GG2U, RewardXP, Gain.gg — we break down the real pay rates, payout minimums, and task types for every major micro-task platform in 2026.",
+      "category": "Guide",
+      "section": "blog",
+      "url": "best-micro-task-sites-2026.html",
+      "date": "March 23, 2026",
+      "readTime": "9 min read"
     },
     {
       "id": "makeyoutask-faucet-update",
@@ -322,8 +862,8 @@
     },
     {
       "id": "5-highest-paying-ptc-sites",
-      "title": "5 Highest Paying PTC Sites in 2025",
-      "excerpt": "The 5 best PTC (paid-to-click) sites that actually pay in 2025. MakeYouTask, LuckyWatch.Pro, CoinPayU, FireFaucet, and FaucetCrypto compared with real earnings data.",
+      "title": "5 Highest Paying PTC Sites in 2026",
+      "excerpt": "The 5 best PTC (paid-to-click) sites that actually pay in 2026. MakeYouTask, LuckyWatch.Pro, CoinPayU, FireFaucet, and FaucetCrypto compared with real earnings data.",
       "category": "Guide",
       "section": "blog",
       "url": "5-highest-paying-ptc-sites.html",
