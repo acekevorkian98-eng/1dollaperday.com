@@ -2885,6 +2885,42 @@ tr:hover td {
     color: var(--dark) !important;
 }
 
+/* SnazzyPTC promo popup variant */
+.promo-snazzy-popup {
+    border: 1px solid rgba(139, 92, 246, 0.3);
+}
+
+.promo-snazzy-header {
+    background: linear-gradient(135deg, #7c3aed 0%, #4f1dae 100%) !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.625rem;
+}
+
+.promo-snazzy-header h3 {
+    color: #fff !important;
+}
+
+.promo-snazzy-cta {
+    display: inline-block;
+    padding: 0.875rem 2rem;
+    background: linear-gradient(135deg, #7c3aed 0%, #5b21b6 100%);
+    color: #fff !important;
+    text-decoration: none;
+    border-radius: var(--radius-md);
+    font-weight: 700;
+    font-size: 0.9375rem;
+    transition: all var(--transition-base);
+    box-shadow: 0 4px 20px rgba(124, 58, 237, 0.35);
+}
+
+.promo-snazzy-cta:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 28px rgba(124, 58, 237, 0.5);
+    color: #fff !important;
+}
+
 /* ============================================
    SHIMMER ANIMATION — for loading states
    ============================================ */
@@ -3386,6 +3422,69 @@ tr:hover td {
     background: #0fa778;
     transform: translateY(-1px);
     color: #fff;
+}
+
+/* Filter tabs */
+.stack-filter-tabs {
+    display: flex;
+    gap: 0.45rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.4rem;
+}
+
+.stack-filter-btn {
+    background: rgba(255,255,255,0.03);
+    border: 1px solid #1e2a42;
+    color: #5a6a8a;
+    border-radius: 20px;
+    padding: 5px 14px;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    font-family: inherit;
+}
+
+.stack-filter-btn:hover {
+    border-color: #2a3f6e;
+    color: #c8d0e0;
+}
+
+.stack-filter-btn.active {
+    background: #12b886;
+    border-color: #12b886;
+    color: #fff;
+}
+
+/* Badge variants */
+.stack-badge-hot {
+    background: rgba(220, 80, 50, 0.12) !important;
+    color: #ff7b5a !important;
+    border-color: rgba(220, 80, 50, 0.3) !important;
+}
+
+.stack-badge-new {
+    background: rgba(64, 140, 255, 0.12) !important;
+    color: #74aeff !important;
+    border-color: rgba(64, 140, 255, 0.3) !important;
+}
+
+.stack-badge-bonus {
+    background: rgba(160, 80, 220, 0.12) !important;
+    color: #c590ff !important;
+    border-color: rgba(160, 80, 220, 0.3) !important;
+}
+
+.stack-badge-contest {
+    background: rgba(212, 148, 42, 0.12) !important;
+    color: #f0c773 !important;
+    border-color: rgba(212, 148, 42, 0.28) !important;
+}
+
+/* Hidden card state for filter */
+.stack-card.stack-hidden {
+    display: none;
 }
 
 @media (max-width: 600px) {
