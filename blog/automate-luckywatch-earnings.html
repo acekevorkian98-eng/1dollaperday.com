@@ -64,7 +64,7 @@
         "author": {"@type": "Organization", "name": "$1perday!"},
         "publisher": {"@type": "Organization", "name": "$1perday!"},
         "datePublished": "2026-02-18",
-        "dateModified": "2026-02-18",
+        "dateModified": "2026-05-14",
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https://1dollaperday.com/blog/automate-luckywatch-earnings"
@@ -118,6 +118,56 @@
         }
     }
     </script>
+
+    <!-- Structured Data - FAQPage (AEO) -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "Can you actually automate LuckyWatch earnings?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes. LuckyWatch officially supports automation via their own MacroDroid macro file (LWP_1.0.MACRO). You import it into MacroDroid on Android, toggle it on, and it makes API requests to register video views automatically. You do not need to build anything yourself."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How much does the LuckyWatch macro earn per day?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Based on real usage, the LWP_1.0 macro earns approximately $0.10–$0.15 per day, which works out to roughly $4.50 per month. LuckyWatch has hourly and daily visit limits that cap total earnings per session."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Does the LuckyWatch macro work on iPhone?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No. The LuckyWatch MacroDroid macro is Android-only. MacroDroid is not available on iOS. iPhone users can still earn manually by visiting the LuckyWatch site in a mobile browser, but automation is not possible."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Does running the LuckyWatch macro slow down your phone?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "It can. MacroDroid running in the background uses memory and can affect performance on older devices. The recommended workaround is to use a spare or secondary Android phone dedicated to running the macro, and to force-stop MacroDroid when you are done earning for the day."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What wallet does LuckyWatch pay out to?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "LuckyWatch sends earnings to a FaucetPay wallet. FaucetPay is a free micro-earnings wallet that supports BTC, ETH, LTC, and several other cryptocurrencies. You need a FaucetPay account before you can withdraw from LuckyWatch."
+                }
+            }
+        ]
+    }
+    </script>
 </head>
 <body>
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KK96XDSZ"
@@ -131,6 +181,7 @@
                 <nav class="main-nav">
                     <ul>
                         <li><a href="../">Home</a></li>
+                        <li><a href="../#daily-stack" class="nav-stack-link">My Stack</a></li>
                         <li><a href="../pages/ptc">PTC</a></li>
                         <li><a href="../pages/faucets">Faucets</a></li>
                         <li><a href="../pages/offers">Offers</a></li>
@@ -250,7 +301,7 @@
 
                     <!-- LUCKYWATCH BANNER -->
                     <div class="ad-banner" style="text-align: center; margin: 2rem 0;">
-                        <a href="https://luckywatch.pro/u/oolwg" target="_blank" rel="noopener">
+                        <a href="https://luckywatch.pro/u/oolwg" target="_blank" rel="noopener nofollow">
                             <img src="../assets/images/728px_en.jpg" loading="lazy" alt="LuckyWatch - Earn crypto watching videos" style="max-width: 100%; height: auto;">
                         </a>
                     </div>
@@ -404,9 +455,11 @@
                             <p>Phone earning + PC earning = double the passive income with roughly the same effort.</p>
                         </blockquote>
 
+                        <p>I ran LuckyWatch on a spare Android alongside MakeYouTask automation on my PC for 30 days straight. Total combined earnings came out to about $1.20/day — which sounds trivial until you consider zero active time was spent after setup. I documented the full breakdown in my <a href="./ptc-faucet-30-day-earnings-test">30-day PTC and faucet earnings test</a> if you want the exact numbers.</p>
+
                         <div class="link-block">
                             <p><strong>Running automation on your PC too?</strong></p>
-                            <a href="./automate-makeyoutask-earnings" class="referral-link" data-ref="internal-makeyoutask">
+                            <a href="./automate-makeyoutask-earnings" rel="noopener">
                                 How to Automate MakeYouTask on PC (Free Scripts)
                             </a>
                             <p class="text-small text-muted">My 2-script system for automating MakeYouTask MicroEarn — works while you sleep.</p>
@@ -415,7 +468,7 @@
 
                     <!-- LUCKYWATCH BANNER -->
                     <div class="ad-banner" style="text-align: center; margin: 2rem 0;">
-                        <a href="https://luckywatch.pro/u/oolwg" target="_blank" rel="noopener">
+                        <a href="https://luckywatch.pro/u/oolwg" target="_blank" rel="noopener nofollow">
                             <img src="../assets/images/468px_en.jpg" loading="lazy" alt="LuckyWatch - Earn crypto watching videos" style="max-width: 100%; height: auto;">
                         </a>
                     </div>
@@ -426,6 +479,26 @@
                         <div class="info-box success">
                             <p class="info-box-title">Bottom Line</p>
                             <p style="margin-bottom: 0;">LuckyWatch is one of the easiest wins in mobile passive earning. The setup takes under 10 minutes, the official macro does the heavy lifting, and you'll earn a small but consistent amount every day with minimal attention. Plug in, enable the macro, and forget about it. That's the whole strategy.</p>
+                        </div>
+
+                        <p>If you're ready to start, both accounts are free and take under 5 minutes to set up:</p>
+
+                        <div class="link-block">
+                            <p><strong>Create your LuckyWatch account:</strong></p>
+                            <a href="https://luckywatch.pro/u/oolwg" class="referral-link"
+                               data-ref="luckywatch" target="_blank" rel="noopener nofollow">
+                                Sign Up for LuckyWatch (Referral Link)
+                            </a>
+                            <p class="text-small text-muted">Free to join. No deposit. Download the macro from inside your account.</p>
+                        </div>
+
+                        <div class="link-block">
+                            <p><strong>Set up your FaucetPay wallet (needed for withdrawals):</strong></p>
+                            <a href="https://faucetpay.io/?r=9565544" class="referral-link"
+                               data-ref="faucetpay" target="_blank" rel="noopener nofollow">
+                                Join FaucetPay (Referral Link)
+                            </a>
+                            <p class="text-small text-muted">Free micro-earnings wallet. Supports BTC, ETH, LTC and more.</p>
                         </div>
                     </section>
 

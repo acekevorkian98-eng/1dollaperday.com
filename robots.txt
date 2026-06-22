@@ -1,11 +1,11 @@
 # robots.txt for $1perday!
-# https://1perday.com
+# https://1dollaperday.com
 
 User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://1perday.com/sitemap.xml
+Sitemap: https://1dollaperday.com/sitemap.xml
 
 # Disallow admin and template files
 Disallow: /admin/

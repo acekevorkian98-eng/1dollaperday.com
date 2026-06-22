@@ -82,10 +82,19 @@
                     <p class="daily-stack-sub">The exact platforms I run every day — tested, tracked, and worth the time.</p>
                 </div>
 
+                <div class="stack-filter-tabs">
+                    <button class="stack-filter-btn active" data-filter="all">All</button>
+                    <button class="stack-filter-btn" data-filter="ptc">PTC</button>
+                    <button class="stack-filter-btn" data-filter="faucet">Faucet</button>
+                    <button class="stack-filter-btn" data-filter="watch">Watch & Earn</button>
+                    <button class="stack-filter-btn" data-filter="passive">Passive</button>
+                    <button class="stack-filter-btn" data-filter="tasks">Tasks</button>
+                </div>
+
                 <div class="daily-stack-grid">
 
                     <!-- CoinPayU -->
-                    <div class="stack-card">
+                    <div class="stack-card" data-category="ptc">
                         <div class="stack-card-header">
                             <div class="stack-platform-info">
                                 <div class="stack-logo"><img src="https://www.google.com/s2/favicons?sz=64&amp;domain=coinpayu.com" alt="CoinPayU" loading="lazy"></div>
@@ -99,7 +108,7 @@
                         <div class="stack-top-badge">★ TOP</div>
                         <div class="stack-highlight">
                             <span class="stack-check">✓</span>
-                            <span>$1000 monthly contest — earn up to $0.05 per PTC ad view &amp; withdraw instantly via FaucetPay</span>
+                            <span>🏆 $1000 monthly contest — earn up to $0.05 per PTC ad view &amp; withdraw instantly via FaucetPay</span>
                         </div>
                         <div class="stack-features">
                             <div>PTC browsing + offer walls + surveys</div>
@@ -117,7 +126,7 @@
                     </div>
 
                     <!-- FaucetPay -->
-                    <div class="stack-card">
+                    <div class="stack-card" data-category="faucet">
                         <div class="stack-card-header">
                             <div class="stack-platform-info">
                                 <div class="stack-logo"><img src="https://www.google.com/s2/favicons?sz=64&amp;domain=faucetpay.io" alt="FaucetPay" loading="lazy"></div>
@@ -148,7 +157,7 @@
                     </div>
 
                     <!-- FaucetCrypto -->
-                    <div class="stack-card">
+                    <div class="stack-card" data-category="faucet">
                         <div class="stack-card-header">
                             <div class="stack-platform-info">
                                 <div class="stack-logo"><img src="https://www.google.com/s2/favicons?sz=64&amp;domain=faucetcrypto.com" alt="FaucetCrypto" loading="lazy"></div>
@@ -159,6 +168,7 @@
                             </div>
                             <div class="stack-number">#03</div>
                         </div>
+                        <div class="stack-top-badge stack-badge-hot">🔥 HOT</div>
                         <div class="stack-highlight">
                             <span class="stack-check">✓</span>
                             <span>Hourly faucet, PTC, shortlinks &amp; offerwalls — fast FaucetPay withdrawals from $0.01</span>
@@ -178,7 +188,7 @@
                     </div>
 
                     <!-- Cointiply -->
-                    <div class="stack-card">
+                    <div class="stack-card" data-category="faucet">
                         <div class="stack-card-header">
                             <div class="stack-platform-info">
                                 <div class="stack-logo"><img src="https://www.google.com/s2/favicons?sz=64&amp;domain=cointiply.com" alt="Cointiply" loading="lazy"></div>
@@ -189,9 +199,10 @@
                             </div>
                             <div class="stack-number">#04</div>
                         </div>
+                        <div class="stack-top-badge stack-badge-bonus">🎁 BONUS</div>
                         <div class="stack-highlight">
                             <span class="stack-check">✓</span>
-                            <span>Get 1000 free coins on signup — earn up to $596 per offer via hourly faucet &amp; streak bonuses</span>
+                            <span>🎁 Get 1000 free coins on signup — earn up to $596 per offer via hourly faucet &amp; streak bonuses</span>
                         </div>
                         <div class="stack-features">
                             <div>Hourly faucet + PTC + offers + shortlinks</div>
@@ -208,7 +219,7 @@
                     </div>
 
                     <!-- LuckyWatch -->
-                    <div class="stack-card">
+                    <div class="stack-card" data-category="watch">
                         <div class="stack-card-header">
                             <div class="stack-platform-info">
                                 <div class="stack-logo"><img src="https://www.google.com/s2/favicons?sz=64&amp;domain=luckywatch.pro" alt="LuckyWatch" loading="lazy"></div>
@@ -222,7 +233,7 @@
                         <div class="stack-top-badge">★ TOP</div>
                         <div class="stack-highlight">
                             <span class="stack-check">✓</span>
-                            <span>$1200 referral contest — earn +$0.40/day watching videos, boost income up to +50%</span>
+                            <span>🔥 $1200 referral contest — earn +$0.40/day watching videos, boost income up to +50%</span>
                         </div>
                         <div class="stack-features">
                             <div>Watch &amp; earn — fully automated income</div>
@@ -239,7 +250,7 @@
                     </div>
 
                     <!-- MakeYouTask -->
-                    <div class="stack-card">
+                    <div class="stack-card" data-category="tasks">
                         <div class="stack-card-header">
                             <div class="stack-platform-info">
                                 <div class="stack-logo"><img src="https://www.google.com/s2/favicons?sz=64&amp;domain=makeyoutask.com" alt="MakeYouTask" loading="lazy"></div>
@@ -250,9 +261,10 @@
                             </div>
                             <div class="stack-number">#06</div>
                         </div>
+                        <div class="stack-top-badge stack-badge-contest">🏆 CONTEST</div>
                         <div class="stack-highlight">
                             <span class="stack-check">✓</span>
-                            <span>$1000 prize pool contest — complete microtasks for real cash, paid to crypto or PayPal</span>
+                            <span>🏆 $1000 prize pool contest — complete microtasks for real cash, paid to crypto or PayPal</span>
                         </div>
                         <div class="stack-features">
                             <div>Microtasks + offer wall + bonus contests</div>
@@ -270,7 +282,7 @@
                     </div>
 
                     <!-- Honeygain -->
-                    <div class="stack-card">
+                    <div class="stack-card" data-category="passive">
                         <div class="stack-card-header">
                             <div class="stack-platform-info">
                                 <div class="stack-logo"><img src="https://www.google.com/s2/favicons?sz=64&amp;domain=honeygain.com" alt="Honeygain" loading="lazy"></div>
@@ -281,6 +293,7 @@
                             </div>
                             <div class="stack-number">#07</div>
                         </div>
+                        <div class="stack-top-badge stack-badge-new">✦ PASSIVE</div>
                         <div class="stack-highlight">
                             <span class="stack-check">✓</span>
                             <span>Set-and-forget passive income — share bandwidth, earn daily with no effort required</span>
@@ -301,7 +314,7 @@
                     </div>
 
                     <!-- FireFaucet -->
-                    <div class="stack-card">
+                    <div class="stack-card" data-category="faucet">
                         <div class="stack-card-header">
                             <div class="stack-platform-info">
                                 <div class="stack-logo"><img src="https://www.google.com/s2/favicons?sz=64&amp;domain=firefaucet.win" alt="FireFaucet" loading="lazy"></div>
@@ -312,9 +325,10 @@
                             </div>
                             <div class="stack-number">#08</div>
                         </div>
+                        <div class="stack-top-badge stack-badge-hot">🔥 HOT</div>
                         <div class="stack-highlight">
                             <span class="stack-check">✓</span>
-                            <span>Fully automated faucet — claim 20+ cryptos on autopilot while you focus on other tasks</span>
+                            <span>🔥 Fully automated faucet — claim 20+ cryptos on autopilot while you focus on other tasks</span>
                         </div>
                         <div class="stack-features">
                             <div>Auto faucet + PTC + shortlinks</div>
@@ -332,7 +346,7 @@
                     </div>
 
                     <!-- AdBTC -->
-                    <div class="stack-card">
+                    <div class="stack-card" data-category="ptc">
                         <div class="stack-card-header">
                             <div class="stack-platform-info">
                                 <div class="stack-logo"><img src="https://www.google.com/s2/favicons?sz=64&amp;domain=adbtc.top" alt="AdBTC" loading="lazy"></div>
@@ -362,7 +376,7 @@
                     </div>
 
                     <!-- VieFaucet -->
-                    <div class="stack-card">
+                    <div class="stack-card" data-category="faucet">
                         <div class="stack-card-header">
                             <div class="stack-platform-info">
                                 <div class="stack-logo"><img src="https://www.google.com/s2/favicons?sz=64&amp;domain=viefaucet.com" alt="VieFaucet" loading="lazy"></div>
@@ -392,7 +406,7 @@
                     </div>
 
                     <!-- EarnBitmoon -->
-                    <div class="stack-card">
+                    <div class="stack-card" data-category="faucet">
                         <div class="stack-card-header">
                             <div class="stack-platform-info">
                                 <div class="stack-logo"><img src="https://www.google.com/s2/favicons?sz=64&amp;domain=earnbitmoon.club" alt="EarnBitmoon" loading="lazy"></div>
@@ -422,7 +436,7 @@
                     </div>
 
                     <!-- 2Captcha -->
-                    <div class="stack-card">
+                    <div class="stack-card" data-category="tasks">
                         <div class="stack-card-header">
                             <div class="stack-platform-info">
                                 <div class="stack-logo"><img src="https://www.google.com/s2/favicons?sz=64&amp;domain=2captcha.com" alt="2Captcha" loading="lazy"></div>
@@ -453,7 +467,7 @@
                     </div>
 
                     <!-- FaucetPayz -->
-                    <div class="stack-card">
+                    <div class="stack-card" data-category="faucet">
                         <div class="stack-card-header">
                             <div class="stack-platform-info">
                                 <div class="stack-logo"><img src="https://www.google.com/s2/favicons?sz=64&amp;domain=faucetpayz.com" alt="FaucetPayz" loading="lazy"></div>
@@ -483,7 +497,7 @@
                     </div>
 
                     <!-- StreamPayz -->
-                    <div class="stack-card">
+                    <div class="stack-card" data-category="watch">
                         <div class="stack-card-header">
                             <div class="stack-platform-info">
                                 <div class="stack-logo"><img src="https://www.google.com/s2/favicons?sz=64&amp;domain=streampayz.com" alt="StreamPayz" loading="lazy"></div>
@@ -513,7 +527,7 @@
                     </div>
 
                     <!-- Nuggmi -->
-                    <div class="stack-card">
+                    <div class="stack-card" data-category="tasks">
                         <div class="stack-card-header">
                             <div class="stack-platform-info">
                                 <div class="stack-logo"><img src="https://www.google.com/s2/favicons?sz=64&amp;domain=nuggmi.com" alt="Nuggmi" loading="lazy"></div>
@@ -543,7 +557,7 @@
                     </div>
 
                     <!-- RewardVid -->
-                    <div class="stack-card">
+                    <div class="stack-card" data-category="watch">
                         <div class="stack-card-header">
                             <div class="stack-platform-info">
                                 <div class="stack-logo"><img src="https://www.google.com/s2/favicons?sz=64&amp;domain=rewardvid.com" alt="RewardVid" loading="lazy"></div>
@@ -573,7 +587,7 @@
                     </div>
 
                     <!-- PayUp.video -->
-                    <div class="stack-card">
+                    <div class="stack-card" data-category="watch">
                         <div class="stack-card-header">
                             <div class="stack-platform-info">
                                 <div class="stack-logo"><img src="https://www.google.com/s2/favicons?sz=64&amp;domain=payup.video" alt="PayUp.video" loading="lazy"></div>
@@ -641,5 +655,25 @@
     <script src="../assets/js/main.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.umd.js"></script>
     <script src="../assets/js/cookieconsent-config.js"></script>
+    <script>
+        (function () {
+            var btns = document.querySelectorAll('.stack-filter-btn');
+            var cards = document.querySelectorAll('.stack-card');
+            btns.forEach(function (btn) {
+                btn.addEventListener('click', function () {
+                    var filter = btn.dataset.filter;
+                    btns.forEach(function (b) { b.classList.remove('active'); });
+                    btn.classList.add('active');
+                    cards.forEach(function (card) {
+                        if (filter === 'all' || card.dataset.category === filter) {
+                            card.classList.remove('stack-hidden');
+                        } else {
+                            card.classList.add('stack-hidden');
+                        }
+                    });
+                });
+            });
+        })();
+    </script>
 </body>
 </html>
