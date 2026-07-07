@@ -10,4 +10,5 @@ Thumbs.db
 *.swo
 *~
 .claude/
+review_loop_progress.json
 
