@@ -442,6 +442,18 @@
     <!-- Blog (auto-maintained by build_blog.py) -->
     <!-- BLOG_SITEMAP_START -->
     <url>
+        <loc>https://1dollaperday.com/blog/daily-micro-earning-stack-routine-2026</loc>
+        <lastmod>2026-07-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://1dollaperday.com/blog/watch-to-earn-comparison-2026</loc>
+        <lastmod>2026-07-07</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://1dollaperday.com/blog/luckywatch-reliability-report-2026</loc>
         <lastmod>2026-07-03</lastmod>
         <changefreq>monthly</changefreq>
@@ -684,6 +696,12 @@
     <url>
         <loc>https://1dollaperday.com/blog/how-many-people-make-money-online-every-day</loc>
         <lastmod>2026-02-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://1dollaperday.com/blog/snazzyptc-review-2026</loc>
+        <lastmod>2026-06-05</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
