@@ -60,6 +60,11 @@ We use real data from our own experience — no fake income screenshots.
 - No sponsored reviews — ratings reflect genuine experience
 - Scam alerts documented at https://1dollaperday.com/guides/scam-alerts
 
+## Active Warnings
+
+- **FreeBitco.in**: Exit scam confirmed. Withdrawals frozen since August 2025. Treat as dead site. See: https://1dollaperday.com/blog/freebitco-in-exit-scam-warning-2026
+- **Nuggmi.com**: Payout delays since June 2026. See: https://1dollaperday.com/blog/nuggmi-payout-warning-2026
+
 ## Contact
 
 Site: https://1dollaperday.com
