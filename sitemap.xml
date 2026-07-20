@@ -87,7 +87,13 @@
     </url>
     <url>
         <loc>https://1dollaperday.com/reviews/firefaucet</loc>
-        <lastmod>2026-02-08</lastmod>
+        <lastmod>2026-07-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://1dollaperday.com/blog/firefaucet-v5-redesign-2026</loc>
+        <lastmod>2026-07-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>

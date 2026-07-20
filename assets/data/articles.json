@@ -103,7 +103,7 @@
     {
       "id": "firefaucet-review",
       "title": "FireFaucet Review 2026 - Auto Faucet That Actually Stays Consistent",
-      "excerpt": "Honest FireFaucet review from real experience. Great consistency, solid auto faucet, shortlinks that work — but that payout threshold will test your patience. Score: 7.5/10.",
+      "excerpt": "Honest FireFaucet review from real experience. Great consistency, solid auto faucet, shortlinks that work, and a v5 redesign that fixed the biggest complaints. Score: 8.0/10.",
       "category": "Review",
       "section": "reviews",
       "url": "firefaucet.html",
@@ -969,6 +969,16 @@
       "url": "watch-to-earn-comparison-2026.html",
       "date": "July 7, 2026",
       "readTime": "10 min read"
+    },
+    {
+      "id": "firefaucet-v5-redesign-2026",
+      "title": "FireFaucet v5: Cloud Auto-Faucet, Full Redesign & What Changed",
+      "excerpt": "FireFaucet v5 launched with a cloud-based auto faucet, full site redesign, new Fuel system, and rebuilt Daily Tasks. Here's what changed and whether it's worth your time.",
+      "category": "News",
+      "section": "blog",
+      "url": "firefaucet-v5-redesign-2026.html",
+      "date": "July 20, 2026",
+      "readTime": "6 min read"
     }
   ]
 }
