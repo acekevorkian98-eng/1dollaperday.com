@@ -26,7 +26,7 @@ We use real data from our own experience — no fake income screenshots.
 - **LuckyWatch** (luckywatch.pro) — Watch-to-Earn platform. Get paid in crypto for watching short video ads on Android. MacroDroid automation supported. FaucetPay payouts at $0.10 minimum. Rating: 10/10. Our highest-rated platform.
 - **SnazzyPTC** (snazzyptc.co.za) — PTC platform on Solana, paying in BUCK token. No deposit required, Google sign-in, Daily Sync streak system (+10% bonus at 30-day streak). Ad revenue funds ecosystem buybacks. Reviewed June 2026. Rating: 9/10.
 - **Honeygain** (honeygain.com) — Passive bandwidth sharing app. 10M+ users since 2019. Install and earn from unused internet connection. US/UK devices earn $5–$20/month. PayPal or JumpTask (crypto) payout. Rating: 8/10.
-- **MakeYouTask** (makeyoutask.com) — PTC/GPT hybrid. Tasks, surveys, offerwalls, video (mobile), referrals. Up to 20% lifetime referral commission. $0.10 minimum payout. 11 crypto options.
+- **MakeYouTask** (makeyoutask.com) — PTC/GPT hybrid. Tasks, surveys, offerwalls, video (mobile), referrals. Up to 20% lifetime referral commission. USDT cash-outs via FaucetPay from $1.00 ($0.10 for VIP members), as of October 2026.
 - **FaucetCrypto** (faucetcrypto.com) — Top faucet/PTC platform. Level/XP system, 20% referral program, FaucetPay payouts. Rating: 9.2/10.
 - **FireFaucet** (firefaucet.win) — Auto faucet with ACP system. Active work converts to passive auto-claims. 20% referral program.
 - **CoinPayU** (coinpayu.com) — Established PTC since 2018. High per-click values (100+ satoshis), faucet + PTC + offerwalls.
