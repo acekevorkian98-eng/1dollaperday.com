@@ -454,6 +454,12 @@
     <!-- Blog (auto-maintained by build_blog.py) -->
     <!-- BLOG_SITEMAP_START -->
     <url>
+        <loc>https://1dollaperday.com/blog/firefaucet-setup-guide-2026</loc>
+        <lastmod>2026-10-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://1dollaperday.com/blog/cash-out-minimums-and-fees-2026</loc>
         <lastmod>2026-10-23</lastmod>
         <changefreq>monthly</changefreq>

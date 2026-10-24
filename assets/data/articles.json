@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "firefaucet-setup-guide-2026",
+      "title": "FireFaucet Setup Guide 2026: Get the Cloud Auto Faucet Running in One Session",
+      "excerpt": "Step-by-step FireFaucet setup for 2026: connect FaucetPay, pick your coins, run the daily routine that earns ACP and Bonus Fuel, then switch on the v5 cloud auto faucet.",
+      "category": "Guide",
+      "section": "blog",
+      "url": "firefaucet-setup-guide-2026.html",
+      "date": "October 24, 2026",
+      "readTime": "7 min read"
+    },
+    {
       "id": "cash-out-minimums-and-fees-2026",
       "title": "Cash-Out Minimums and Fees: What You Actually Keep on 10 Earning Sites (2026)",
       "excerpt": "Minimum cash-outs, payout fees and wait times for Honeygain, Pawns, PacketStream, Prolific, Respondent, UserTesting, Userlytics, Userfeel, dscout and MakeYouTask, checked October 2026.",
