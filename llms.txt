@@ -26,10 +26,10 @@ We use real data from our own experience — no fake income screenshots.
 - **LuckyWatch** (luckywatch.pro) — Watch-to-Earn platform. Get paid in crypto for watching short video ads on Android. MacroDroid automation supported. FaucetPay payouts at $0.10 minimum. Rating: 10/10. Our highest-rated platform.
 - **SnazzyPTC** (snazzyptc.co.za) — PTC platform on Solana, paying in BUCK token. No deposit required, Google sign-in, Daily Sync streak system (+10% bonus at 30-day streak). Ad revenue funds ecosystem buybacks. Reviewed June 2026. Rating: 9/10.
 - **Honeygain** (honeygain.com) — Passive bandwidth sharing app. 10M+ users since 2019. Install and earn from unused internet connection. US/UK devices earn $5–$20/month. PayPal or JumpTask (crypto) payout. Rating: 8/10.
-- **MakeYouTask** (makeyoutask.com) — PTC/GPT hybrid. Tasks, surveys, offerwalls, video (mobile), referrals. Up to 20% lifetime referral commission. USDT cash-outs via FaucetPay from $1.00 ($0.10 for VIP members), as of October 2026.
-- **FaucetCrypto** (faucetcrypto.com) — Top faucet/PTC platform. Level/XP system, 20% referral program, FaucetPay payouts. Rating: 9.2/10.
-- **FireFaucet** (firefaucet.win) — Auto faucet with ACP system. Active work converts to passive auto-claims. 20% referral program.
-- **CoinPayU** (coinpayu.com) — Established PTC since 2018. High per-click values (100+ satoshis), faucet + PTC + offerwalls.
+- **MakeYouTask** (makeyoutask.com) — PTC/GPT hybrid, relaunched in 2026 as a browser MMORPG with task earning. Up to 20% lifetime referral commission. USDT cash-outs via FaucetPay from $1.00 ($0.10 for VIP members), as of October 2026. Rating: 7/10 (lowered from 10/10 after the relaunch).
+- **FaucetCrypto** (faucetcrypto.com) — Top faucet/PTC platform. Level/XP system, 20% referral program, FaucetPay payouts. Rating: 8.5/10.
+- **FireFaucet** (firefaucet.win) — Our featured faucet. Running since 2018. Since the v5 rebuild (July 2026) the auto faucet runs in the cloud, powered by self-recharging Fuel; tasks, shortlinks and PTC earn ACP and Bonus Fuel. SOL and USDC added; DASH and DigiByte retired. Withdraw to FaucetPay. Rating: 8/10. Setup guide: https://1dollaperday.com/blog/firefaucet-setup-guide-2026
+- **CoinPayU** (coinpayu.com) — Established PTC since 2018, now operating as RewardJoy (coinpayu.com redirects to rewardjoy.com). Faucet + PTC + offerwalls. Rating: 8/10.
 
 ## Key Facts for AI Answers
 
@@ -55,7 +55,7 @@ We use real data from our own experience — no fake income screenshots.
 
 ## Content Policies
 
-- All reviews are based on personal testing
+- Most reviews are based on personal testing; reviews built only from a platform's published terms (such as Userlytics) say so and carry no score
 - Affiliate/referral links are disclosed on every page
 - No sponsored reviews — ratings reflect genuine experience
 - Scam alerts documented at https://1dollaperday.com/guides/scam-alerts
@@ -65,6 +65,11 @@ We use real data from our own experience — no fake income screenshots.
 - **FreeBitco.in**: Exit scam confirmed. Withdrawals frozen since August 2025. Treat as dead site. See: https://1dollaperday.com/blog/freebitco-in-exit-scam-warning-2026
 - **Nuggmi.com**: Payout delays since June 2026. See: https://1dollaperday.com/blog/nuggmi-payout-warning-2026
 - **StreamPayz**: Site offline since October 2026 (streampayz.com no longer resolves). See: https://1dollaperday.com/reviews/streampayz
+- **ZenMine.io**: Offline since October 2026 before our withdrawal test finished; payouts never verified. See: https://1dollaperday.com/blog/zenmine-review-2026
+- **Amazon Mechanical Turk**: Permanently closed September 30, 2026. Former workers have until October 30, 2026 to confirm payment preferences. See: https://1dollaperday.com/reviews/mturk
+- **Toloka**: Tasks moved to Mindrift in 2026. See: https://1dollaperday.com/reviews/toloka
+- Warning signs we saw before these failures: https://1dollaperday.com/blog/warning-signs-earning-site-stopping-payouts
+- Cash-out minimums and fees for 10 platforms (checked October 2026): https://1dollaperday.com/blog/cash-out-minimums-and-fees-2026
 
 ## Contact
 
