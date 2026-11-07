@@ -1,5 +1,5 @@
 /**
- * $1perday! Manual Ads System
+ * 1DollarPerDay Manual Ads System
  * ===========================
  * Central configuration for rotating affiliate banners across the site.
  *

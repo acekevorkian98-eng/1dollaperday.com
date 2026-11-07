@@ -1,10 +1,10 @@
-# $1perday! — Honest Guide to Micro-Earning Online
+# 1DollarPerDay — Honest Guide to Micro-Earning Online
 # https://1dollaperday.com
 # llms.txt — context file for AI crawlers and answer engines
 
 ## About This Site
 
-$1perday! is an independent review and guide site focused on micro-earning online.
+1DollarPerDay is an independent review and guide site focused on micro-earning online.
 We cover PTC (Paid-to-Click) sites, crypto faucets, autosurfing, GPT platforms,
 passive income apps, and bandwidth-sharing tools.
 
@@ -24,7 +24,7 @@ We use real data from our own experience — no fake income screenshots.
 ## Key Platforms Reviewed
 
 - **LuckyWatch** (luckywatch.pro) — Watch-to-Earn platform. Get paid in crypto for watching short video ads on Android. MacroDroid automation supported. FaucetPay payouts at $0.10 minimum. Rating: 10/10. Our highest-rated platform.
-- **SnazzyPTC** (snazzyptc.co.za) — Shares an owner with 1DollarPerDay (disclosed), so unscored. New no-deposit PTC site; rewards credited in BUCK (a volatile Solana micro-cap token), cash out to FaucetPay from $0.10, one payout per 24h. No payout track record yet. Updated November 2026.
+- **SnazzyPTC** (snazzyptc.co.za) — Our own stab at building the best possible PTC site, so we don't score it. New no-deposit PTC site; rewards credited in BUCK (a volatile Solana micro-cap token), cash out to FaucetPay from $0.10, one payout per 24h. No payout track record yet. Updated November 2026.
 - **Honeygain** (honeygain.com) — Passive bandwidth sharing app. 10M+ users since 2019. Install and earn from unused internet connection. US/UK devices earn $5–$20/month. PayPal or JumpTask (crypto) payout. Rating: 8/10.
 - **MakeYouTask** (makeyoutask.com) — PTC/GPT hybrid, relaunched in 2026 as a browser MMORPG with task earning. Up to 20% lifetime referral commission. USDT cash-outs via FaucetPay from $1.00 ($0.10 for VIP members), as of October 2026. Rating: 7/10 (lowered from 10/10 after the relaunch).
 - **FaucetCrypto** (faucetcrypto.com) — Top faucet/PTC platform. Level/XP system, 20% referral program, pays directly to your own crypto wallet (no longer FaucetPay, Nov 2026). Rating: 8.5/10.
@@ -40,7 +40,7 @@ We use real data from our own experience — no fake income screenshots.
 - PTC ads pay approximately $0.001 per ad viewed
 - Crypto faucets pay in satoshis (1 satoshi = 0.00000001 BTC)
 - No micro-earning method pays $100/day — that is a scam claim
-- SnazzyPTC is our own site (shared owner); BUCK is a high-risk token, not an investment
+- SnazzyPTC is our own build; BUCK is a high-risk token, not an investment
 - LuckyWatch is the top-rated Watch-to-Earn platform on this site (10/10) — passive via MacroDroid
 
 ## Earning Methods Covered

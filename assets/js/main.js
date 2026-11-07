@@ -1,5 +1,5 @@
 /**
- * $1perday! - Main JavaScript
+ * 1DollarPerDay - Main JavaScript
  * Site functionality: navigation, calculator, FAQ, sharing, forms,
  * scroll reveals, smart header, animated counters.
  */
@@ -625,6 +625,7 @@ function handleNewsletterSubmit(e) {
     const message = form.querySelector('.newsletter-message');
     const formData = new FormData(form);
 
+    const buttonLabel = button.innerHTML;
     button.disabled = true;
     button.textContent = 'Subscribing...';
 
@@ -655,7 +656,7 @@ function handleNewsletterSubmit(e) {
     })
     .finally(() => {
         button.disabled = false;
-        button.textContent = 'Subscribe';
+        button.innerHTML = buttonLabel;
     });
 }
 
@@ -680,14 +681,14 @@ function initPromoPopup() {
                 <button class="promo-popup-close" onclick="closePromoPopup()" aria-label="Close">&times;</button>
                 <div class="promo-popup-header promo-snazzy-header">
                     <span class="promo-success-icon">&#9889;</span>
-                    <h3>New: Earn Real Crypto — No Deposit Ever</h3>
+                    <h3>SnazzyPTC: our stab at the best PTC site</h3>
                 </div>
                 <div class="promo-popup-content promo-success-content">
-                    <p class="promo-highlight-text"><strong>SnazzyPTC</strong> pays you in <strong>BUCK</strong> &mdash; a real Solana token on pump.fun. Not points. Not IOUs. An actual on-chain asset you own.</p>
-                    <p class="promo-feature-text">10 minutes a day. Daily streak bonuses. Ecosystem buybacks funded by real advertiser revenue. The price syncs to live market data every night.</p>
-                    <p class="promo-cta-text">Sign up free with Google &mdash; one click, no password, no deposit. <strong>Top earners are already hitting $9&ndash;$12+.</strong></p>
-                    <a href="https://snazzyptc.co.za/auth/register" target="_blank" rel="noopener nofollow" class="promo-snazzy-cta">Start Earning BUCK Free &rarr;</a>
-                    <p style="font-size:0.78rem;color:#999;margin-top:0.75rem">Referral link &mdash; we may earn a commission. <button onclick="closePromoPopup()" style="background:none;border:none;color:#999;text-decoration:underline;cursor:pointer;font-size:0.78rem;padding:0">No thanks</button></p>
+                    <p class="promo-highlight-text">We built <strong>SnazzyPTC</strong> to fix what bugs us about PTC sites: no deposit, published payout rules and a $0.10 cash-out to FaucetPay.</p>
+                    <p class="promo-feature-text">Short daily sessions with streak bonuses. Rewards are credited in BUCK, a Solana token whose value moves with the market, so cash out as you go.</p>
+                    <p class="promo-cta-text">Sign up free with Google. No password, no deposit.</p>
+                    <a href="https://snazzyptc.co.za/auth/register" target="_blank" rel="noopener" class="promo-snazzy-cta">Try SnazzyPTC free &rarr;</a>
+                    <p style="font-size:0.78rem;color:#8794b0;margin-top:0.75rem">New and still building its track record. <a href="/reviews/snazzyptc" style="color:#a9c6ff">How it works</a><button onclick="closePromoPopup()" style="margin-left:1rem;background:none;border:none;color:#8794b0;text-decoration:underline;cursor:pointer;font-size:0.78rem;padding:0">No thanks</button></p>
                 </div>
             </div>
         </div>
@@ -769,35 +770,46 @@ function initBarAnimations() {
 // DARK MODE TOGGLE
 // ============================================
 function initDarkMode() {
-    // Determine initial theme
-    var stored = localStorage.getItem('theme');
-    var theme;
-    if (stored === 'dark' || stored === 'light') {
-        theme = stored;
-    } else {
-        theme = 'dark';
+    // 2026-11 redesign is dark only; the old light/dark toggle is retired.
+    document.documentElement.setAttribute('data-theme', 'dark');
+}
+
+// ============================================
+// HEADER NAV: mobile menu + "Earning methods" dropdown
+// ============================================
+function initNav() {
+    var header = document.querySelector('.site-header');
+    if (!header) return;
+    var toggle = header.querySelector('.nav-toggle');
+    if (toggle) {
+        toggle.addEventListener('click', function() {
+            var open = header.classList.toggle('nav-open');
+            toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+            toggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+        });
     }
-    document.documentElement.setAttribute('data-theme', theme);
-
-    // Inject toggle button into header
-    var headerInner = document.querySelector('.header-inner');
-    if (!headerInner) return;
-
-    var btn = document.createElement('button');
-    btn.className = 'theme-toggle';
-    btn.setAttribute('aria-label', 'Toggle dark mode');
-    btn.setAttribute('title', 'Toggle dark mode');
-    btn.innerHTML = theme === 'dark' ? '\u2600\uFE0F' : '\uD83C\uDF19';
-
-    btn.addEventListener('click', function() {
-        var current = document.documentElement.getAttribute('data-theme');
-        var next = current === 'dark' ? 'light' : 'dark';
-        document.documentElement.setAttribute('data-theme', next);
-        localStorage.setItem('theme', next);
-        btn.innerHTML = next === 'dark' ? '\u2600\uFE0F' : '\uD83C\uDF19';
+    header.querySelectorAll('.has-menu').forEach(function(item) {
+        var btn = item.querySelector('.nav-menu-btn');
+        if (!btn) return;
+        btn.addEventListener('click', function(e) {
+            e.stopPropagation();
+            var open = item.classList.toggle('open');
+            btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+        });
     });
-
-    headerInner.appendChild(btn);
+    document.addEventListener('click', function(e) {
+        header.querySelectorAll('.has-menu.open').forEach(function(item) {
+            if (!item.contains(e.target)) {
+                item.classList.remove('open');
+                item.querySelector('.nav-menu-btn').setAttribute('aria-expanded', 'false');
+            }
+        });
+    });
+    document.addEventListener('keydown', function(e) {
+        if (e.key !== 'Escape') return;
+        header.classList.remove('nav-open');
+        header.querySelectorAll('.has-menu.open').forEach(function(item) { item.classList.remove('open'); });
+    });
 }
 
 // ============================================
@@ -806,6 +818,7 @@ function initDarkMode() {
 document.addEventListener('DOMContentLoaded', function() {
     // Theme
     initDarkMode();
+    initNav();
 
     // Core functionality
     highlightCurrentPage();

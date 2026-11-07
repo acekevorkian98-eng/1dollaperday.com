@@ -1,4 +1,4 @@
-# robots.txt for $1perday!
+# robots.txt for 1DollarPerDay
 # https://1dollaperday.com
 
 User-agent: *

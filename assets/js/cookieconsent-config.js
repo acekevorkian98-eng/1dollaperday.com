@@ -1,5 +1,5 @@
 /**
- * CookieConsent v3 Configuration — $1perday!
+ * CookieConsent v3 Configuration — 1DollarPerDay
  * https://cookieconsent.orestbida.com/
  *
  * Categories:
