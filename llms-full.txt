@@ -1,0 +1,1404 @@
+# 1DollarPerDay: full platform reference
+
+One block per reviewed platform, generated 2026-11-07 from the review pages at https://1dollaperday.com/reviews/. Short index: https://1dollaperday.com/llms.txt
+
+## 2Captcha
+
+- Review: https://1dollaperday.com/reviews/2captcha
+- Verdict: Gap-Filler Only, 5/10
+- Category: Micro-tasks
+- Status: Active, scored
+- Site Type: Captcha Solving
+- Min Payout: $0.50
+- Payment Methods: PayPal, WebMoney, Payeer, Bitcoin, Crypto
+- Hourly Rate: $0.50 to $1.00
+- Earning Type: 100% Active
+- Our Verdict: Legit, but use sparingly
+
+2Captcha is legitimate and it pays. That is the good news. The bad news is that it pays $0.50 to $1.00 per hour, making it the lowest-yield method we have ever tested. It is 100% active work staring at image puzzles, nothing passive about it. Use it strictly as a gap-filler when you have dead screen time and nothing better queued. Rating: 5/10.
+
+## 9Chain Community
+
+- Review: https://1dollaperday.com/reviews/9chain
+- Verdict: No Payout Yet
+- Category: Other
+- Status: Unscored or unproven
+- Site Type: Points farm for a blockchain project
+- Cost: Free, no hardware or deposit
+- Cash-Out: None described
+- Referral Pay: 20% direct, 10% indirect (in points)
+- Not Available In: EEA, UK, Switzerland, US
+- Operator: Not named
+
+9Chain Community is not a way to earn money today. It's a points game attached to a blockchain project: you start a "simulated" node in your browser, run quests and invite friends to collect LOVE9 Points. The site says plainly that the points are not assets, can't be transferred and can't be converted inside the app, and that any future use would need a formal proposal and community vote. It is free and asks for no deposit, but it names no operator and its points have no defined value. Spend ten minutes a day at most, and only if you're happy to farm points for a possible token that may never arrive.
+
+## Acashly
+
+- Review: https://1dollaperday.com/reviews/acashly
+- Verdict: Offline
+- Category: Crypto faucets
+- Status: Offline, closed or avoid
+- Site Type: GPT, PTC, offerwalls, shortlinks, faucet
+- Minimum Withdrawal: $1.00 (claimed)
+- Payment Methods: FaucetPay, Litecoin, Cwallet, USDT (ERC20)
+- Last Archived Stats: 3,452 members, $718.64 paid
+- Referral Pay: Up to 30%
+- Status: Domain does not resolve
+- Notice: Verdict: offline, a status record. Acashly was a small, script-based GPT and PTC site that appears to have disappeared, with no announcement. We can't review a site that doesn't resolve, so this page records what it said and when. If it returns with verifiable payouts, we'll review it properly.
+
+Acashly (acashly.com) was a get-paid-to and PTC platform: offerwalls and surveys, PTC ads, shortlinks, a faucet, daily tasks and contests, paid out through FaucetPay, Litecoin, Cwallet and USDT with a $1 minimum. The Internet Archive's last copy, from 28 April 2026, showed 3,452 members, 11,636 offers done and $718.64 paid in total, about 21 cents per member. On 2 November 2026 the domain no longer resolves at all. We found no closure notice. If you had a balance there, you can't withdraw it now, so keep your records.
+
+## adBTC
+
+- Review: https://1dollaperday.com/reviews/adbtc
+- Verdict: Recommended, 8/10
+- Category: PTC (paid to click)
+- Status: Active, scored
+- Site Type: Bitcoin PTC / Surf
+- Min Payout: 500 Satoshis (~$0.50)
+- Payment Methods: FaucetPay, Payeer, BTC
+- Available: Worldwide
+- Established: 2016
+- Our Verdict: Reliable & Established
+- Last updated: February 2026
+
+adBTC is a legitimate Bitcoin PTC (Paid-to-Click) site running since 2016. It pays in BTC for viewing ads and auto-surfing, with a low minimum withdrawal. Expect small but reliable earnings, it's one of the more trustworthy PTC sites available. Rating: 8/10.
+
+## ADS by UAP
+
+- Review: https://1dollaperday.com/reviews/ads-by-uap
+- Verdict: Unproven
+- Category: PTC (paid to click)
+- Status: Unscored or unproven
+- Site Type: PTC and traffic network
+- Minimum Withdrawal: $0.05
+- Payout Channels: FaucetPay, crypto, USD
+- Claimed Members: 100,000+
+- Claimed Paid Out: $402,000+
+- Operator: PassiveTools (no legal entity)
+
+ADS by UAP calls itself 'the premier crypto advertising network'. Members earn by viewing campaigns, advertisers buy traffic, and payouts start at $0.05 through FaucetPay, crypto or USD. It claims 100,000+ active members and over $402,000 paid, and it sits inside PassiveTools, a hub of faucets, virtual-mining games and a rewards comparison page. None of those figures can be checked, no earning rate or advertiser price is shown, and the operator is not named. We found no independent reviews, and ads.uap.company itself didn't load for us. Unproven.
+
+## AiBio.Store
+
+- Review: https://1dollaperday.com/reviews/aibio
+- Verdict: Do Not Deposit
+- Category: Offerwalls and GPT sites
+- Status: Offline, closed or avoid
+- Site Type: Deposit-based "mining game"
+- Entry Price: From $1
+- Claimed Return: Up to 12% a day
+- Deposit Coins: About ten, incl. USDT and BTC
+- Referral Levels: 10 levels deep
+- Operator: Not named
+
+AiBio.Store is a crypto 'mining game' where you buy virtual machines with a deposit, from $1, and a robot 'mines 24/7'. Its page says a $1 machine earns an estimated up to $0.12 a day and a $100 machine up to $12 a day. That is 12% a day, which pays your money back in about eight days and compounds to over 4,000% a year. Real mining and real ad-funded rewards can't pay that. It also pays referral commissions ten levels deep, doesn't name its operator, and says in the small print that it is 'a game, not an investment'. We recommend you don't deposit. The free robot and free bonuses are the only part worth even looking at.
+
+## Amazon MTurk
+
+- Review: https://1dollaperday.com/reviews/mturk
+- Verdict: Closed, 8.5/10
+- Category: Micro-tasks
+- Status: Offline, closed or avoid
+- Site Type: Micro-Tasks
+- Min Payout: $1 (Amazon) / $10 (Bank)
+- Payment Methods: Amazon Balance, Bank Transfer (US)
+- Available: Primarily US (Limited International)
+- Founded: 2005
+- Our Verdict: Best Micro-Task Platform
+- Notice: MTurk closed on September 30, 2026. Amazon permanently closed Mechanical Turk on September 30, 2026. If you were a worker: you have until October 30, 2026 to confirm your payment method and transfer schedule in the MTurk Worker Portal (Account Settings, then Manage Payment Preferences). Approved HITs are paid on your normal schedule, and HITs still pending approval are auto-approved after 30 days. After October 30, contact MTurk Customer Service for payment changes. Source: MTurk closure FAQs .
+
+Amazon Mechanical Turk (MTurk) is the original micro-task platform, backed by Amazon and running since 2005. It offers the widest variety of HITs (tasks) of any platform, with experienced Turkers earning $6 to $10/hour. The learning curve is steep but the earning ceiling is higher than most micro-earning options. Rating: 8.5/10.
+
+## ARUBLE.NET
+
+- Review: https://1dollaperday.com/reviews/aruble
+- Verdict: Unproven
+- Category: Crypto faucets
+- Status: Unscored or unproven
+- Site Type: Faucet, tasks and ad network
+- Faucet Timer: Every 5 minutes
+- Reward Unit: "COINS" (value not stated)
+- Claimed Users: 1,075,740
+- Claimed Paid Out: $500,000+
+- Operator: Not named
+
+ARUBLE.NET is a faucet (a claim every five minutes), offers and tasks site that doubles as an ad network: advertisers run PTC, video, banner, popup and shortlink campaigns, and publishers place its ads for a stated 70% revenue share on banners and 50% on popups. Its homepage claims 1,075,740 users and $500,000+ paid out, which is about 46 cents a user. Rewards are in 'COINS' with no stated value, and the page names no payout method, minimum, fee, referral rate or operator. The bookmarked faucet page also returned a 404. Unproven.
+
+## Attapoll
+
+- Review: https://1dollaperday.com/reviews/attapoll
+- Verdict: Recommended, 7.5/10
+- Category: Surveys and research
+- Status: Active, scored
+- App Type: Mobile Surveys
+- Min Payout: $3
+- Payment Methods: PayPal, Crypto, Charity
+- Platforms: iOS & Android
+- Available: Worldwide
+- Our Verdict: Recommended
+
+Attapoll is a legitimate mobile survey app with a low $3 minimum PayPal payout. Surveys are short and arrive regularly on your phone. Expect $2 to $5/month with occasional higher-paying studies. Rating: 7.5/10, good for a quick passive survey supplement, not a primary earner.
+
+## AutoFaucet.org
+
+- Review: https://1dollaperday.com/reviews/autofaucet
+- Verdict: Unproven
+- Category: Offerwalls and GPT sites
+- Status: Unscored or unproven
+- Site Type: Offerwall and games GPT
+- Tasks Claimed: 500+
+- Minimum Cashout: "No minimum limit" (claimed)
+- Payout Methods: "Various instant" (not named)
+- Sign-In: Email, Google or Discord
+- Operator: Not named
+
+AutoFaucet.org (not the Dutchycorp site of a similar name) is a get-paid-to site that pays crypto for offers, surveys, games, shortlinks, missions and a faucet section, and says it has 500+ tasks. Its headline promises are 'instant cashout', 'various payment methods' and no minimum limit. It doesn't name the payment methods, the coins, the rates, the fees or the operator, and its user and task counters showed only dashes when we looked. Its copyright runs from 2018, but we found no independent reviews. A site to test, not trust.
+
+## BeFrugal
+
+- Review: https://1dollaperday.com/reviews/befrugal
+- Verdict: Highly Recommended, 8.5/10
+- Category: Cashback and shopping
+- Status: Active, scored
+- Site Type: Cashback Portal
+- Min Payout: No minimum
+- Payment Methods: PayPal, Check, Gift Cards
+- Stores: 5,000+
+- Signup Bonus: $10
+- Our Verdict: Highly Recommended
+
+BeFrugal is a legitimate cashback site with no minimum payout and a $10 signup bonus, the lowest cashback threshold we've seen. It works alongside Rakuten and TopCashback and is worth installing as a backup cashback extension. Rating: 8.5/10.
+
+## BeMine
+
+- Review: https://1dollaperday.com/reviews/bemine
+- Verdict: Not a Free Earner
+- Category: Mining and deposit schemes
+- Status: Unscored or unproven
+- Site Type: Cloud mining and GPU rental
+- Cost to Start: From $300 (GPU Start)
+- Free Option: 3 to 11 day mining trial
+- Operator: ART. Research & Development Ltd., Seychelles
+- Not Available To: US citizens and companies, Russian citizens and companies
+- Referral Pay: 7% level 1, 3% level 2
+
+BeMine is a cloud mining and GPU-rental service, not a micro-earning site. You pay first, from $300 for its GPU contracts, and it credits you a daily return. On its own advertised figures a contract takes between about 1.2 and 3.2 years to pay back, before the electricity fees it doesn't quantify. It is operated by a Seychelles company that names no people, and its Trustpilot page holds only 39 reviews, with withdrawal and payback complaints among them. If you are here to build $1 a day for free, skip it.
+
+## Binance Wallet
+
+- Review: https://1dollaperday.com/reviews/binance-wallet
+- Verdict: Not an Earner
+- Category: Wallets, browsers and exchanges
+- Status: Unscored or unproven
+- Site Type: Web3 wallet (extension, app, web)
+- Extension Users: 200,000 (Chrome Web Store)
+- Rating: 4.3 from 101 ratings
+- Custody Claim: Self-custodial, MPC "keyless"
+- Networks: EVM, Solana and TRON in the extension
+- Fees: Not stated on the pages we read
+
+Binance Wallet is Binance's Web3 wallet, available as a browser extension, an app and on the web. It's a place to hold and move crypto, not a way to earn: nothing in it pays you for time. Its Chrome Web Store listing describes a self-custodial wallet using MPC (multi-party computation) 'keyless' technology, with 200,000 users, a 4.3 rating from 101 ratings and an update dated 30 October 2026. Binance's own page claims 30M+ wallet users, 30+ networks and $20B+ in monthly volume, but states no fees, and never explains the custody model itself. Several faucet and PTC sites let you cash out to Binance, so you may meet it that way. It's a reasonable, mainstream tool, with the usual cautions about what you approve and where your recovery backup lives.
+
+## Brave Browser
+
+- Review: https://1dollaperday.com/reviews/brave
+- Verdict: Highly Recommended, 8.8/10
+- Category: Wallets, browsers and exchanges
+- Status: Active, scored
+- Type: Web Browser
+- Min Payout: Varies by exchange
+- Payment Currency: BAT (Basic Attention Token)
+- Available: Worldwide
+- Founded: 2016
+- Our Verdict: Best Passive Browser
+
+Brave Browser is a legitimate privacy browser that pays you in BAT (Basic Attention Token) just for browsing the web. Earnings are small ($1 to $5/month) but entirely passive, you earn while doing what you'd do anyway. It replaces Chrome or Firefox with no change to your workflow. Rating: 8.8/10.
+
+## BTCClicks
+
+- Review: https://1dollaperday.com/reviews/btcclicks
+- Verdict: Offline
+- Category: PTC (paid to click)
+- Status: Offline, closed or avoid
+- Site Type: Bitcoin PTC (paid to click)
+- Status: Offline (Cloudflare 522)
+- Last Working Archive Copy: 2 February 2026
+- First Error Archive Copy: 17 February 2026
+- Announcement: None found
+- Operator: Not named
+- Notice: Verdict: offline, don't rely on it. BTCClicks has not loaded since mid-February and nothing from the operator explains why. We can't review a site that isn't there, so this page is a status record. If it returns with a verifiable payout, we'll review it properly.
+
+BTCClicks was a Bitcoin paid-to-click site. As of 2 November 2026, btcclicks.com doesn't load: Cloudflare returns error 522, meaning the origin server is timing out. The Internet Archive's records show the site returning normal pages as late as 2 February 2026 and returning that same 522 from 17 February 2026 onward, so it has been down for about nine months. Nothing on the web that we could find announces a shutdown, a payout plan or a return. If you had a balance there, treat it as lost unless the operator reappears, and don't pay for anything claiming to recover it.
+
+## BUX.money
+
+- Review: https://1dollaperday.com/reviews/buxmoney
+- Verdict: Highly Recommended, 8.0/10
+- Category: PTC (paid to click)
+- Status: Active, with a status warning
+- Site Type: PTC / Advertising
+- Min Payout: 1-5₽ (~$0.01)
+- Payment Methods: Payeer, Advcash
+- Available: Worldwide
+- Currency: Russian Rubles (₽)
+- Our Verdict: 8.0/10 - Highly Recommended
+- Notice: Status update, November 2026: site not loading. bux.money returned a "504 Gateway Time-out" error every time we checked on 5 and 6 November 2026. We don't know yet whether this is a temporary outage. Don't sign up or put more time into it until the site loads normally again, and if you have a balance there, withdraw it as soon as you can. The score below is from before the outage.
+
+BUX.money is one of our new favorite PTC sites. Ultra-low withdrawal thresholds (1-5₽), fast verified payouts, and a modern interface make this a standout platform. We've tested it extensively and can confirm it pays. This should be in everyone's earning rotation. Rating: 8.0/10.
+
+## ByteLixir
+
+- Review: https://1dollaperday.com/reviews/bytelixir
+- Verdict: 5/10 - Use Caution
+- Category: Other
+- Status: Unscored or unproven
+
+ByteLixir is a legitimate bandwidth-sharing app that pays crypto for sharing your idle internet. It supports fewer devices than competitors like Honeygain and offers crypto-only payouts with variable earnings. Worth running alongside other bandwidth apps but not as a standalone earner.
+
+## CashMonster
+
+- Review: https://1dollaperday.com/reviews/cashmonster
+- Verdict: Unproven
+- Category: PTC (paid to click)
+- Status: Unscored or unproven
+- Site Type: GPT: surveys, offers, PTC
+- Sign-Up Bonus: $0.50
+- First Withdrawal: $5, one-time review
+- Payout Coins: BTC, ETH, LTC, DOGE, USDT, SOL, BNB, TRX
+- Referral Pay: 10% of referrals' earnings
+- Operator: Not named
+
+CashMonster is a new-looking rewards site that pays in crypto for surveys, offerwalls, PTC ads, daily quests and a lottery-style spin called MonsterDrop. It offers a $0.50 sign-up bonus, a $5 first withdrawal that gets a one-time review, and a 10% lifetime referral share. It publishes no earning rates, no payout totals and no operator name, and we found no independent reviews or payment proofs. Treat it as unproven: free to try, but cash out the first $5 before putting in any real time.
+
+## Cheddar.tv
+
+- Review: https://1dollaperday.com/reviews/cheddartv
+- Verdict: No Earnings Shown
+- Category: Watch to earn
+- Status: Offline, closed or avoid
+- Site Type: User-video platform
+- Earning Model Shown: None
+- Last Archived Copy: 6 June 2026
+- Sign-Up: Login and sign-up links, SMS verification page
+- Legal Pages: Terms, Privacy, DMCA
+- Status: Domain does not resolve
+- Notice: Verdict: not an earning site on the evidence, and now offline. Cheddar.tv's own pages show a video site with no way to earn, and the domain no longer resolves. If someone told you it pays, we found nothing to support that. Skip the SMS verification and put your time where the terms are published.
+
+Cheddar.tv is not an earning site as far as its public pages show. The Internet Archive's last copy, from 6 June 2026, is a user-video platform ('Say cheese! Create, upload, and share your cheesiest videos') with Home, Bites, Trending and Featured sections, login and sign-up links, and Terms, Privacy and DMCA pages. We found no mention of earnings, rewards, points or payouts anywhere in it. On 2 November 2026 the domain doesn't resolve at all. If you reached an SMS verification page on this domain while looking for paid work, treat it with suspicion: a video site has no reason to pay you, and phone-number checks are a common first step in data-harvesting and fake-reward schemes.
+
+## ClaimClicks
+
+- Review: https://1dollaperday.com/reviews/claimclicks
+- Verdict: Unproven
+- Category: Crypto faucets
+- Status: Unscored or unproven
+- Site Type: Faucet, shortlinks, offerwalls, PTC
+- Payout: FaucetPay and Cwallet
+- Coins: BTC, ETH, BNB, LTC, SOL, ADA, TRX, DOGE
+- Referral Pay: "Up to 25%"
+- Minimum Withdrawal: Not stated
+- Operator: Not named
+
+ClaimClicks is a crypto rewards site that pays in an internal 'Coins' balance from faucet claims, shortlinks, offerwalls, PTC and microtasks, withdrawn through FaucetPay and Cwallet in eight coins. It advertises up to 25% referral commission and a levels and XP system. What it doesn't publish is just as important: no minimum withdrawal, no fees, no operator, no user or payout counts, no rules on VPNs or multiple accounts, and we found no independent reviews. It is free to try, but there is nothing public to judge it by yet.
+
+## Clickworker
+
+- Review: https://1dollaperday.com/reviews/clickworker
+- Verdict: Recommended, 8.0/10
+- Category: Micro-tasks
+- Status: Active, scored
+- Site Type: Micro-Tasks
+- Min Payout: €10/$10 (PayPal, SEPA, ACH) / €20 (Payoneer)
+- Payment Methods: PayPal, SEPA, ACH, Payoneer, bank transfer
+- Available: Worldwide
+- Founded: 2005
+- Our Verdict: Recommended
+
+Clickworker is a legitimate micro-task platform with access to UHRS tasks, data entry, and AI training work. Pay rates are higher than most survey sites ($8 to $15/hour on good tasks), but task availability varies by country and skill set. Rating: 8.0/10, recommended for patient earners.
+
+## CloudResearch Connect
+
+- Review: https://1dollaperday.com/reviews/cloudresearch-connect
+- Verdict: Worth Joining
+- Category: Surveys and research
+- Status: Unscored or unproven
+- Site Type: Paid research studies and surveys
+- Minimum Pay Rate: $7.50/hour (from Jan 2025)
+- Recommended Rate: $10/hour
+- Cash Out: PayPal from $5, bank from $25
+- Verification: Stripe Identity (ID check)
+- Cost to Join: Free
+
+Connect, run by research-technology company CloudResearch, pays people to join academic and market research studies. Its own figures are good for the category: a $7.50 an hour minimum and a $10 an hour recommended rate for researchers, cash-out by PayPal from $5 or by bank transfer from $25, and a payout center that tracks your balance. The catches are an identity check through Stripe, a quality score that decides how often you're invited, partial-complete studies that can end early with partial pay, and a supply of studies that you can't control. It's a solid second panel next to Prolific, not a daily income.
+
+## CoinAdster
+
+- Review: https://1dollaperday.com/reviews/coinadster
+- Verdict: Use Caution
+- Category: Crypto faucets
+- Status: Unscored or unproven
+- Site Type: Shortlinks, faucet, PTC
+- Running Since: 2019 (claimed)
+- Payout: FaucetPay or Bitcoin wallet
+- Faucet Timer: Every 5 minutes
+- Trustpilot: 2.4 from 108 reviews
+- Operator: Not named
+
+CoinAdster has paid in Bitcoin for shortlinks, a faucet and PTC ads since 2019, according to its own footer, with withdrawals to FaucetPay or your own Bitcoin wallet. Its Trustpilot profile is the most useful evidence: 2.4 out of 5 from 108 reviews, split between 49% five-star and 36% one-star. Happy reviewers report instant withdrawals as recently as September 2026. Unhappy ones report failed withdrawals, rejected FaucetPay addresses, a hacked account without two-factor authentication, and unanswered support. A long-running site that clearly pays some people, and clearly fails others. Keep balances tiny and withdraw often.
+
+## Cointiply
+
+- Review: https://1dollaperday.com/reviews/cointiply
+- Verdict: Decent, 6/10
+- Category: Crypto faucets
+- Status: Active, scored
+- Site Type: Crypto Faucet + GPT
+- Min Payout: 50,000 coins (~$5)
+- Payment Methods: BTC, DOGE, LTC, Dash
+- Available: Worldwide
+- Established: 2018
+- Our Verdict: Decent - Grindy
+- Last updated: February 2026
+
+Cointiply is a legitimate crypto faucet and GPT platform but requires patience to reach payout, the minimum threshold is higher than most competitors. It offers daily wheel spins, offerwalls, and surveys alongside the faucet. Best for users who don't mind a slow accumulation phase. Rating: 6/10.
+
+## Crypto Box (@earncryptobox_bot)
+
+- Review: https://1dollaperday.com/reviews/cryptobox-bot
+- Verdict: Unproven
+- Category: Other
+- Status: Unscored or unproven
+- Site Type: Telegram bot ("earn crypto")
+- Public Description: One sentence
+- Rates / Minimum: Not published
+- Payout Methods: Not published
+- Independent Reviews: None found
+- Operator: Not named
+
+Crypto Box is a Telegram bot, @earncryptobox_bot, whose public profile says: 'CryptoBox is your gateway to earning cryptocurrency through fun and engaging activities'. That single sentence is all the public information there is. We found no rates, no minimum withdrawal, no payout methods, no operator, no website and no independent reviews or payment proofs, and web searches for the bot name returned nothing about it. We haven't started the bot: it can only be used from a Telegram account, and the link we were given carries a referral code that we would be using on someone's behalf. So this page is a status record plus a checklist, not a verdict on whether it pays.
+
+## Cwallet
+
+- Review: https://1dollaperday.com/reviews/cwallet
+- Verdict: Use Caution
+- Category: Wallets, browsers and exchanges
+- Status: Unscored or unproven
+- Site Type: Crypto wallet, exchange and card app
+- Company: WEBSEA GLOBAL HOLDING LIMITED (Ontario, Canada address)
+- Trustpilot: 2.4 from 108 reviews (62% one-star)
+- Highest Leverage: "1001x" perpetual futures
+- Claimed Users: 68,547,537 (homepage) vs 37 million (Trustpilot profile)
+- Role for Earners: Payout route used by some faucets and PTC sites
+
+Cwallet is a crypto app that mixes a wallet, spot trading, perpetual futures (with '1001x' leverage), a card, earn products and giveaway tools. Many faucet and PTC sites list it as a payout route, which is why readers meet it. It isn't an earning site: you receive coins there, and anything you hold on it is in an account the company controls. Its Trustpilot score is 2.4 from 108 reviews, 62% of them one-star, with the main complaints being frozen accounts, repeated KYC rejections and templated support. Its homepage claims 68,547,537 users, while its Trustpilot description says 37 million, so the figure is unreliable. Use it as a pass-through at most, and don't leave balances on it.
+
+## Dscout
+
+- Review: https://1dollaperday.com/reviews/dscout
+- Verdict: Recommended, 8.0/10
+- Category: Surveys and research
+- Status: Active, scored
+- App Type: Research Missions
+- Pay Per Mission: $2 - $150+
+- Payment Methods: PayPal
+- Available: US, UK, Canada
+- Mission Type: Video Diaries
+- Our Verdict: Recommended
+
+Dscout is a legitimate research platform: quick single-session studies pay $2 to $25, and most selective diary and interview studies pay $25 to $150. It involves recording short video diary entries about your daily life and habits. Pay is well above average but missions are selective, not everyone qualifies. Best for users willing to invest time in quality responses. Rating: 8.0/10.
+
+## Dutchy CORP
+
+- Review: https://1dollaperday.com/reviews/dutchycorp
+- Verdict: Recommended, 8.2/10
+- Category: Crypto faucets
+- Status: Active, scored
+- Site Type: Multi-Faucet
+- Min Payout: Very Low
+- Payment Methods: FaucetPay (10+ coins)
+- Available: Worldwide
+- Key Feature: Auto Faucet
+- Our Verdict: Recommended
+
+Dutchy CORP is a legitimate multi-feature faucet platform combining PTC ads, shortlinks, offerwalls, and a faucet with instant FaucetPay withdrawals. It's one of the better all-in-one faucet sites with a solid track record of payments. Rating: 8.2/10, recommended as part of a faucet stack.
+
+## EarnApp
+
+- Review: https://1dollaperday.com/reviews/earnapp
+- Verdict: Recommended, 7.8/10
+- Category: Passive bandwidth apps
+- Status: Active, scored
+- Site Type: Bandwidth Sharing
+- Min Payout: $2.50
+- Payment Methods: PayPal, Amazon GC
+- Available: Worldwide
+- Parent Company: Bright Data
+- Our Verdict: Recommended
+
+EarnApp is a legitimate passive income app by Bright Data (a reputable data company) that pays for sharing unused bandwidth. It consistently earns more per GB than most competitors in US/UK/AU markets. Minimum $2.50 PayPal payout. Safe to use and one of our top picks for passive income. Rating: 7.8/10.
+
+## EarnBitMoon
+
+- Review: https://1dollaperday.com/reviews/earnbitmoon
+- Verdict: Recommended, 8/10
+- Category: Crypto faucets
+- Status: Active, scored
+- Site Type: Crypto Faucet / GPT
+- Faucet Timer: Every 5 minutes
+- Min Payout: ~$0.20 (FaucetPay)
+- Payment Methods: FaucetPay, Payeer, Direct Wallet
+- Investment Required: None, 100% Free
+- Our Verdict: Recommended
+- Last updated: May 2026
+
+EarnBitMoon is a legitimate crypto faucet and GPT platform with over 2 million monthly visitors. Its 5-minute faucet, PTC ads, and offerwalls (CPX Research, BitLabs, TimeWall) form a solid active-earning stack. Withdrawals via FaucetPay are instant and start at ~$0.20. It won't make you rich, but with daily offerwall sessions a $1/day target is achievable. Rating: 8/10.
+
+## EarnFreeCoin
+
+- Review: https://1dollaperday.com/reviews/earnfreecoin
+- Verdict: Unproven
+- Category: Crypto faucets
+- Status: Unscored or unproven
+- Site Type: Faucet, PTC, tasks, offerwalls, surveys
+- Payout: FaucetPay or direct wallet
+- Minimum Withdrawal: Not stated ("low minimum")
+- Total Earnings Shown: $3,751.46
+- Users Shown: 26,879
+- Operator: Not named
+
+EarnFreeCoin is a free site that pays crypto for faucet claims, PTC ads, tasks, surveys, offerwalls and daily bonuses, with withdrawals to FaucetPay or your own wallet. It says so itself: "real activity, small rewards, no investment required". Its homepage stats are $3,751.46 total earnings, 26,879 users and 790,961 jobs done, which works out to roughly half a cent per job and 14 cents per user. It doesn't publish its withdrawal minimum, its operator or a founding date, and its partner ads are casino offers. A modest extra to try, nothing more.
+
+## EarnFrenzy
+
+- Review: https://1dollaperday.com/reviews/earnfrenzy
+- Verdict: Use Caution
+- Category: Crypto faucets
+- Status: Offline, closed or avoid
+- Site Type: PTC and faucet with paid memberships
+- Free Plan: 10 ads a day, "0 token" daily potential
+- Paid Plans: 0.17, 0.33 and 50 tokens (undefined unit)
+- Daily Potential, All Paid Plans: About 0.0057 token
+- Recent Withdrawals: "Awaiting data"
+- Status: 503 error, 2 Nov 2026
+- Notice: Verdict: unproven, and the plans don't make sense. EarnFrenzy's free plan paid nothing, its paid plans offered almost the same daily potential at wildly different prices, and it showed no evidence of payouts before it went offline. We can't recommend a plan, and we can't review a site that returns an error. If it comes back with verifiable payouts, we'll look again.
+
+EarnFrenzy (earnfrenzy.com) called itself a 'premium crypto faucet and paid-to-click platform'. Its archived page, from 17 April 2026, offered a free plan of 10 ad views a day with no earnings at all ('daily potential 0 token') and three paid plans priced in an undefined 'token'. The plans' stated daily potential barely moves, from 0.0057 token on the 0.17-token plan to 0.0057 token on the 50-token plan, so the biggest plan would take decades to pay back. The Recent Withdrawals panel said 'awaiting data'. On 2 November 2026 the site returns a 503 error. Treat it as unproven and don't buy a plan.
+
+## Everve
+
+- Review: https://1dollaperday.com/reviews/everve
+- Verdict: Moving to TaskPulse
+- Category: Micro-tasks
+- Status: Unscored or unproven
+- Site Type: Task platform for performers and advertisers
+- Status: Consolidating into TaskPulse
+- Sign-In: Google account used before
+- Migration Dates: None given
+- Balances / Payouts: Not mentioned
+- Referral Links: "Supported during the transition"
+
+Everve, a task platform for performers and advertisers, no longer shows a normal site. Its home page is a single notice, 'Everve is moving to TaskPulse', saying it is consolidating into TaskPulse and that you should sign in with the Google account you used before. It gives no migration dates, no word on balances, withdrawals or payouts, and no support contact. TaskPulse's own site was in maintenance mode when we first looked and returned an access-forbidden error on our last check. So there's nothing here to review as an earner. If you have an Everve balance, withdraw before you do anything else, if you still can.
+
+## FaucetCrypto
+
+- Review: https://1dollaperday.com/reviews/faucetcrypto
+- Verdict: Highly Recommended, 8.5/10
+- Category: Crypto faucets
+- Status: Active, scored
+- Site Type: Faucet + PTC + Tasks
+- Min Payout: Set per coin (shown in Coins)
+- Payment Methods: Direct to your own wallet
+- Available: Most countries (not Iran, China, Venezuela, Cuba)
+- Special Feature: Level System
+- Our Verdict: Highly Recommended
+- Last updated: November 2026
+
+FaucetCrypto is one of the best beginner crypto faucets: it's easy to use, has a rewarding level system and plenty of daily tasks. Withdrawals now go directly to your own crypto wallet rather than FaucetPay. It's our top recommendation for anyone starting with crypto faucets.
+
+## Faucetoshi
+
+- Review: https://1dollaperday.com/reviews/faucetoshi
+- Verdict: Recommended, 8/10
+- Category: Crypto faucets
+- Status: Active, scored
+- Site Type: Crypto Faucet
+- Min Payout: $0.01 (1 Faucetoshi)
+- Payment Methods: FaucetPay (20+ coins)
+- Available: Worldwide
+- Established: 2021
+- Our Verdict: Clean & Reliable
+- Last updated: February 2026
+
+Faucetoshi is a legitimate multi-coin faucet with an unusually low $0.01 minimum withdrawal and instant FaucetPay payouts across 20+ cryptocurrencies. It's clean, fast, and reliable, a solid addition to any faucet rotation. Rating: 8/10.
+
+## FaucetPay
+
+- Review: https://1dollaperday.com/reviews/faucetpay
+- Verdict: Recommended, 8.5/10
+- Category: Crypto faucets
+- Status: Active, scored
+- Site Type: Micro-Wallet + Faucet
+- Min Payout: Very Low (varies by coin)
+- Payment Methods: Crypto Only
+- Available: Worldwide
+- Founded: 2019
+- Our Verdict: Essential for Faucet Users
+
+FaucetPay is not optional, it's the essential micro-wallet required by virtually every crypto faucet. It aggregates tiny faucet payouts (too small for blockchain fees) and lets you withdraw to a real wallet once you hit the threshold. Every faucet user needs a FaucetPay account. Rating: 8.5/10.
+
+## FaucetPayz
+
+- Review: https://1dollaperday.com/reviews/faucetpayz
+- Verdict: Recommended, 7/10
+- Category: Crypto faucets
+- Status: Active, scored
+- Site Type: Faucet & PTC
+- Min Payout: 500 tokens
+- Payment Methods: FaucetPay (BTC, LTC, DOGE, TRX & more)
+- Earning Methods: Faucet, PTC, Shortlinks, Offerwalls
+- Payout Time: 24 to 48 hours
+- Our Verdict: Reliable daily rotation earner
+
+FaucetPayz is a faucet and PTC hybrid that does what it says on the tin: hourly claims, PTC ads, shortlinks and offerwalls, paying out to FaucetPay in your choice of crypto. The minimum withdrawal is 500 tokens, and withdrawals are processed within 24 to 48 hours. Nothing flashy, just a mid-tier earner for the daily routine. Rating: 7/10.
+
+## Fetch Rewards
+
+- Review: https://1dollaperday.com/reviews/fetchrewards
+- Verdict: Recommended, 8.0/10
+- Category: Cashback and shopping
+- Status: Active, scored
+- App Type: Receipt Scanning
+- Min Redemption: $3 (3,000 pts)
+- Payment Methods: Gift Cards, Visa
+- Available: US Only
+- Users: 17M+ active
+- Our Verdict: Recommended
+
+Fetch Rewards is a legitimate receipt-scanning app that rewards any receipt, no brand matching required. Earnings accumulate slowly ($1 to $3/month realistically) but the app requires minimal effort: just photograph your receipts. Rating: 8.0/10, a good frictionless add-on earner.
+
+## Feyorra
+
+- Review: https://1dollaperday.com/reviews/feyorra
+- Verdict: Unproven
+- Category: Crypto faucets
+- Status: Unscored or unproven
+- Site Type: Faucet, PTC, video tasks, shortlinks
+- Faucet Timer: Every 1 minute
+- Payout: Automatic, to FaucetPay
+- Coins: 9 supported
+- Referral Pay: 30% lifetime commission
+- Operator: Not named
+
+Feyorra is a free faucet, PTC and task site that pays automatically to FaucetPay in nine coins. It claims 116.9K members, $63,547 paid out and 115.5K completed payouts, which is about 55 cents a payout. Its own live-withdrawals feed tells a smaller story: the eight rows we captured ranged from about $0.002 to $0.08. It doesn't publish its minimum withdrawals or name an operator, and we found no independent reviews. A reasonable free add-on to a FaucetPay routine, with small expectations.
+
+## FireFaucet
+
+- Review: https://1dollaperday.com/reviews/firefaucet
+- Verdict: Recommended, 8.0/10
+- Category: Crypto faucets
+- Status: Active, scored
+- Site Type: Auto Faucet + PTC + Shortlinks
+- Payout Threshold: High (be aware)
+- Payment Methods: FaucetPay, Direct
+- Available: Worldwide
+- Standout Feature: Auto Faucet + Rock-Solid Uptime
+- Last updated: July 2026
+
+FireFaucet is a legitimate crypto auto-faucet with consistent payouts and working shortlinks. The v5 update added a cloud auto faucet, a full redesign, and a self-recharging Fuel system, addressing our two biggest complaints. Its main drawback is a higher-than-average withdrawal threshold that tests your patience. Rating: 8.0/10, recommended for committed faucet users.
+
+## FlexCard
+
+- Review: https://1dollaperday.com/reviews/flexcard
+- Verdict: Not an Earning Site
+- Category: Other
+- Status: Unscored or unproven
+- Site Type: Virtual cards for ad buyers
+- Top-Up Fee: From 3.5%
+- Card Issuance: From $2.50
+- Funding: USDT, USDC, EUR or USD bank transfer
+- Referral Pay: 30% of service income per referral
+- Operator: No legal entity named
+
+FlexCard is not a place to earn. It sells virtual Visa and Mastercard cards that media buyers top up with crypto to pay for Facebook, TikTok and Google ads and for services like ChatGPT. The only earning angle is its referral program, which says it pays 30% of the service's income from each person you bring. Fees start at 3.5% per top-up plus $2.50 per card, and the company names no legal entity. Its Trustpilot score is a polarised 4.2 from 41 reviews, with several users saying their accounts were blocked or frozen. Skip it unless you already buy ads and understand the risk of leaving money with a card provider.
+
+## FomoEarn
+
+- Review: https://1dollaperday.com/reviews/fomoearn
+- Verdict: Unproven
+- Category: Watch to earn
+- Status: Unscored or unproven
+- Site Type: Watch-to-earn Android app
+- Minimum Withdrawal: $0.01 (USDT BEP-20)
+- Other Minimums: USDC Solana $0.50, USDC Polygon $1.00
+- Withdrawal Fee: None stated
+- Referral Pay: 50% / 10% / 1% by level
+- Operator: Not named
+
+FomoEarn pays you in USDT for watching listed short videos to the end in its official Android app. Withdrawals start at $0.01 on BEP-20 USDT with no fee, so you can test a payout on the first day. It doesn't publish what a video pays, and its own counters (102,424 users, $11,025 paid out) work out to about 11 cents per registered user. There's no named operator, withdrawals can be manually reviewed for up to 72 hours, and watch-to-earn sites are a category where platforms have tended to vanish. Test with the free account and withdraw early.
+
+## FreeBitcoin
+
+- Review: https://1dollaperday.com/reviews/freebitcoin
+- Verdict: Avoid, 1/10
+- Category: Crypto faucets
+- Status: Offline, closed or avoid
+- Site Type: Bitcoin Faucet
+- Min Payout: 30,000 satoshis
+- Payment Methods: BTC Direct
+- Available: Worldwide
+- Founded: 2013
+- Our Verdict: Avoid
+- Notice: Withdrawals frozen since August 2025. Users report withdrawals stuck in "Pending" since August 2025, a domain lapse in October 2025, and a shutdown notice that later disappeared. Treat any balance on FreeBitco.in as lost. The rest of this page is our original review, kept for the record. Read the full exit scam warning for the timeline and safer alternatives.
+- Notice: Verdict: Avoid. FreeBitcoin was the original Bitcoin faucet and paid reliably for more than a decade. That ended in August 2025, when withdrawals stopped. Until the payout backlog is cleared with a credible explanation, do not use it. If you want a faucet that still pays, start with the alternatives in our best faucets guide .
+
+FreeBitcoin (freebitco.in) paid users from 2013 until 2025, but withdrawals have been frozen since August 2025 and the site has shown every sign of an exit scam. Do not deposit, claim or refer anyone. We have withdrawn our original 8.5/10 rating. Rating: 1/10.
+
+## Freecash
+
+- Review: https://1dollaperday.com/reviews/freecash
+- Verdict: Highly Recommended, 9.0/10
+- Category: Offerwalls and GPT sites
+- Status: Active, scored
+- Site Type: GPT / Offerwall
+- Min Payout: $5 (PayPal)
+- Payment Methods: PayPal, Crypto, Gift Cards
+- Available: Worldwide
+- Founded: 2020
+- Our Verdict: Top-Tier GPT Site
+
+Freecash is one of the highest-paying GPT sites available, with strong offerwall rates, low $5 minimum PayPal payout, and a proven payment track record. In our tests it outperformed Swagbucks and PrizeRebel for hourly earnings. Our top GPT recommendation for serious micro-earners. Rating: 9.0/10.
+
+## FreeTrump
+
+- Review: https://1dollaperday.com/reviews/freetrump
+- Verdict: Use Caution
+- Category: Crypto faucets
+- Status: Unscored or unproven
+- Site Type: Crypto faucet with games and surveys
+- Claim Timer: Every hour, with captcha
+- Minimum Withdrawal: 0.5 TRUMP (fee 0.05 TRUMP)
+- Payout Network: Solana, direct to your wallet
+- Referral Pay: 50% of faucet claims
+- Operator: FaucetMatrix Team
+
+FreeTrump is a crypto faucet that lets you claim TRUMP, a Solana meme token, once an hour after solving a captcha. The headline is "up to 1.512 TRUMP" per claim, about $2.50 at the latest price we found, but its own FAQ gives a normal base-level claim as 0.00015 TRUMP, and the bigger rewards depend on how much you wager in its games. The minimum withdrawal is 0.5 TRUMP, so a casual claimer takes months to reach it. Its payouts page links every withdrawal to a public transaction, which is a real plus. Treat it as a low-effort extra, and stay away from the gambling side.
+
+## Gain.gg
+
+- Review: https://1dollaperday.com/reviews/gaingg
+- Verdict: Recommended, 7.8/10
+- Category: Offerwalls and GPT sites
+- Status: Active, scored
+- Site Type: GPT / Offerwall
+- Min Payout: $0.10 (!)
+- Payment Methods: PayPal, Crypto, CS:GO Skins
+- Available: Worldwide
+- Founded: 2017
+- Our Verdict: Recommended
+
+Gain.gg is a legitimate GPT site with an exceptionally low $0.10 minimum payout, the lowest of any platform we've tested. It offers surveys, offerwalls, and crypto/PayPal cashout. Earnings are modest but the instant low-threshold payout makes it uniquely accessible. Rating: 7.8/10.
+
+## GG2U
+
+- Review: https://1dollaperday.com/reviews/gg2u
+- Verdict: Highly Recommended, 8.5/10
+- Category: Offerwalls and GPT sites
+- Status: Active, scored
+- Site Type: GPT / Offerwall
+- Min Payout: $7
+- Payment Methods: PayPal, BTC, Gift Cards
+- Available: Worldwide (US best)
+- Founded: 2018
+- Our Verdict: Highly Recommended
+
+GG2U is a legitimate GPT site with higher-than-average payouts on offers and surveys compared to some competitors. It has a solid track record and multiple payment options. Rating: 8.5/10, a good secondary GPT platform for diversifying offerwall earnings.
+
+## Honey
+
+- Review: https://1dollaperday.com/reviews/honey
+- Verdict: Highly Recommended, 8.5/10
+- Category: Cashback and shopping
+- Status: Active, scored
+- Site Type: Coupon Extension
+- Min Payout: $10 (1000 Gold)
+- Payment Methods: PayPal, Gift Cards
+- Available: Worldwide
+- Acquired By: PayPal ($4B, 2020)
+- Our Verdict: Highly Recommended
+
+Honey (PayPal-owned) is a legitimate browser extension that automatically finds and applies coupon codes at checkout. It's passive savings rather than active earning, you don't earn cash but reduce spending. Honey Gold points convert to PayPal cash at low rates. Rating: 8.5/10 for shoppers.
+
+## Honeygain
+
+- Review: https://1dollaperday.com/reviews/honeygain
+- Verdict: Recommended, 8/10
+- Category: Passive bandwidth apps
+- Status: Active, scored
+- Site Type: Bandwidth Sharing
+- Min Payout: $20 PayPal / Lower for Crypto
+- Payment Methods: PayPal, JumpToken (Crypto)
+- Platforms: Windows, Mac, Linux, Android
+- Established: 2019 (10M+ users)
+- Our Verdict: True Passive Income
+- Last updated: February 2026
+
+Honeygain is a legitimate passive income app with 10M+ users since 2019. It pays for sharing unused internet bandwidth via PayPal or crypto. US/UK/AU earn $10 to $20/month per device; lower-demand countries earn less. One of the most established bandwidth apps, safe and reliable. Rating: 8/10.
+
+## Ibotta
+
+- Review: https://1dollaperday.com/reviews/ibotta
+- Verdict: Highly Recommended, 8.8/10
+- Category: Cashback and shopping
+- Status: Active, scored
+- Type: Grocery Cashback
+- Min Payout: $20
+- Payment Methods: PayPal, Venmo, Gift Cards
+- Available: US Only
+- Founded: 2012
+- Our Verdict: Essential Grocery App
+
+Ibotta is a legitimate grocery cashback app, the most popular in the US with $100M+ paid out to users. It offers cashback on grocery purchases by scanning receipts or linking loyalty cards. Expect $5 to $20/month in savings depending on shopping habits. Rating: 8.8/10, essential for US grocery shoppers.
+
+## Idle-Empire
+
+- Review: https://1dollaperday.com/reviews/idleempire
+- Verdict: Recommended, 8.0/10
+- Category: Offerwalls and GPT sites
+- Status: Active, scored
+- Site Type: GPT / Gaming
+- Min Payout: $0.10 - $5
+- Payment Methods: Steam, Skins, Crypto, PayPal
+- Available: Worldwide
+- Users: 2M+ registered
+- Our Verdict: Recommended
+
+Idle-Empire is a legitimate GPT site tailored for gamers, it pays out in Steam games, gaming skins, crypto, and PayPal. It offers surveys, offers, and PTC tasks. Rating: 8.0/10, our top recommendation for gamers who want to earn gaming rewards from their spare time.
+
+## JumpTask
+
+- Review: https://1dollaperday.com/reviews/jumptask
+- Verdict: 6/10 - Decent
+- Category: Micro-tasks
+- Status: Unscored or unproven
+
+JumpTask is a legitimate multi-earning platform that pays in JMPT tokens (convertible to crypto) through surveys, games, bandwidth sharing, and microtasks. It integrates with Honeygain for passive income. Best for crypto-comfortable users willing to hold JMPT. Worth using if you're already in the Honeygain ecosystem.
+
+## LiteTap
+
+- Review: https://1dollaperday.com/reviews/litetap
+- Verdict: Use Caution
+- Category: Crypto faucets
+- Status: Unscored or unproven
+- Site Type: Faucet with games and surveys
+- Claim Timer: Every hour
+- Claim Size: Not stated
+- Payout: LTC to your own wallet
+- Referral Pay: 50% of faucet claims
+- Operator: Not named
+
+LiteTap offers a free Litecoin claim every hour, plus surveys, 'provably fair' slot-style games and referral commissions. It doesn't state the claim size or the minimum withdrawal on its public page, says faucet payouts 'follow the level system', and asks you to wager to rank up. The referral structure (50% of faucet claims, a percentage of game wagers, 5% of surveys, from Bronze level) matches the one on FreeTrump, which we reviewed, so it looks like the same style of site, though we can't confirm a shared operator. Its payouts and FAQ pages wouldn't load for us. Keep away from the games.
+
+## Lovele
+
+- Review: https://1dollaperday.com/reviews/lovele
+- Verdict: Unproven
+- Category: Other
+- Status: Unscored or unproven
+- Site Type: Chat app with a points program
+- Earn From: Games, apps, surveys, paid views, daily spin
+- Minimum Withdrawal: From 2 USD in points
+- Payout Options: PayPal, gift cards, mobile top-up, crypto
+- Platforms: Android and web (iOS coming soon)
+- Operator: ANDIAMO SOFTWARE SRL
+
+Lovele is two products in one app: a private, end-to-end encrypted chat, and a points program paid for by advertising. You earn points from its own games, partner apps, surveys, 10 to 30 second "Paid Views" and a daily spin, and can withdraw from "2 USD in points" to PayPal, gift cards, mobile top-up or crypto. What it doesn't publish is what a point is worth, so we can't tell you an hourly rate. The operator is a named company, but its payout rules sit behind pages we couldn't read. Worth a free look, with an eye on the in-app exchange rate.
+
+## LTCMiner
+
+- Review: https://1dollaperday.com/reviews/ltcminer
+- Verdict: Unproven
+- Category: Mining and deposit schemes
+- Status: Unscored or unproven
+- Site Type: Litecoin cloud mining (claimed)
+- Plans / Prices: None visible to us
+- Regulation Claim: "Regulated" in page metadata, no regulator named
+- Live Site: Cloudflare block page (403)
+- Archive Copy: 31 Oct 2026: empty shell, "page could not be found"
+- Operator: Not named
+
+LTCMiner (ltcminer.com) describes itself, in its page metadata, as a 'professional Litecoin cloud mining platform' with 'secure, transparent, and regulated infrastructure for institutional and individual mining'. That is all we could verify. The live site shows a Cloudflare 'you have been blocked' page, and the Internet Archive's copy from 31 October 2026 is an empty page that reads 'This page could not be found', with no plans, prices, terms, company or regulator. A platform that says 'regulated' and names no regulator, plans or people is exactly the kind we ask you not to deposit with. We haven't seen its real pages, so this is a status record, not a verdict on its payouts.
+
+## LuckyWatch
+
+- Review: https://1dollaperday.com/reviews/luckywatch
+- Verdict: Highly Recommended, 10/10
+- Category: Watch to earn
+- Status: Active, with a status warning
+- Site Type: Video Rewards
+- Min Payout: $0.10
+- Payment Methods: FaucetPay (Crypto)
+- Available: Worldwide
+- Investment Required: None - 100% Free
+- Our Verdict: Outstanding
+- Last updated: March 2026
+- Notice: Status update, November 2026: temporary hosting outage. LuckyWatch has not shut down. The operators report that their hosting was damaged and a temporary copy of the site is running while they recover. They say funds earned on the temporary copy can be transferred to the main site, and that the copy will move to a subdomain. Check the site notice before withdrawing or making plans around it, and expect some disruption until the move is done.
+
+LuckyWatch is a legitimate video-watching platform with instant crypto withdrawals and no investment required. It pays real money for watching short video ads, with an optional MacroDroid macro to automate earnings passively. One of our highest-rated passive earning tools. Rating: 10/10.
+
+## MakeYouTask
+
+- Review: https://1dollaperday.com/reviews/makeyoutask
+- Verdict: Recommended, 7/10
+- Category: Watch to earn
+- Status: Active, scored
+- Site Type: Watch-to-Earn / GPT
+- Main Earning: YouTube videos (~$0.10/hr)
+- Min. Withdrawal: $1.00 USDT ($0.10 VIP)
+- Payout Methods: FaucetPay (USDT)
+- Available: Worldwide
+- Our Verdict: Good, but re-check after the relaunch
+
+MakeYouTask is a legitimate earn-by-watching platform with a $1.00 USDT minimum cash-out ($0.10 for VIP members) and ~$0.10/hour Watch & Earn rate. Its referral marketplace lets you buy referrals to compound earnings passively. Combined with a MacroDroid automation macro, it has been one of the better set-and-forget earners. Rating: 7/10, lowered from 10/10 in October 2026 after the site's relaunch.
+
+## MineVO
+
+- Review: https://1dollaperday.com/reviews/minevo
+- Verdict: Unproven
+- Category: Mining and deposit schemes
+- Status: Unscored or unproven
+- Site Type: Browser mining simulator
+- Start: Free
+- Reward Unit: EVO (in the payouts ticker)
+- Self-Reported Stats: $13.15k paid, 241 days online
+- Minimum / Fees: Not stated
+- Operator: Not named
+
+MineVO calls itself 'the most advanced browser-based blockchain simulator' where you manage virtual mining hardware and 'earn real rewards in a server-authoritative economy'. Its own stats strip says 2.1 EH/s net hashrate, $13.15k total paid and 241 days online, and a payouts ticker shows withdrawals of 28, 50 and 155 'EVO'. It's free to start and shows casino and FaucetPay adverts. What we couldn't find is what EVO is, how it converts to money, the minimum, or who runs it. A simulator whose rewards are in a site token is an experiment, not an income.
+
+## Mistplay
+
+- Review: https://1dollaperday.com/reviews/mistplay
+- Verdict: Recommended, 8.0/10
+- Category: Offerwalls and GPT sites
+- Status: Active, scored
+- Site Type: Gaming Rewards
+- Min Payout: $5 (1,500 points)
+- Payment Methods: Gift Cards Only
+- Available: Android and iOS (US, UK, CA+)
+- Founded: 2016
+- Our Verdict: Recommended
+
+Mistplay is a legitimate mobile app (Android and, since its iOS launch, iPhone) that rewards you with gift cards for playing mobile games. Earnings are slow ($2 to $5/month realistically) and the app now runs on both Android and iOS (we tested Android). It works best for people who would play mobile games anyway and want to earn something from the habit. Rating: 8.0/10.
+
+## NextFaucet
+
+- Review: https://1dollaperday.com/reviews/nextfaucet
+- Verdict: Offline
+- Category: Crypto faucets
+- Status: Offline, closed or avoid
+- Site Type: Bitcoin Cash faucet (formerly a Lightning faucet)
+- Last Archived Stats: 23,543 users, 0.76 BCH paid
+- Value at Today's Price: About $211 in total
+- Referral Pay: 50% of referrals' claims, plus "RefActive"
+- Login: Magic link, no password
+- Status: Domain now an unrelated blog
+- Notice: Verdict: offline, a status record. NextFaucet paid in tiny amounts and has now turned into an unrelated blog. We can't review a faucet that no longer exists, so this page records what it was and what its own numbers said.
+
+NextFaucet (nextfaucet.com) was a free faucet with magic-link login and no passwords. The Internet Archive's copy from 2025 shows a Bitcoin Lightning faucet with 458 users and 703 sats paid. By its last working capture, on 9 May 2026, it had become a Bitcoin Cash faucet with 23,543 users, 5,439,386 claims and 0.76023327 BCH paid in total. At today's CoinGecko price of $277.55 per BCH, that is about $211 across all users: roughly 0.9 cents per user and about four thousandths of a cent per claim. Its recent withdrawals ranged from 0.0001 to 0.0003 BCH, about 3 to 9 cents. Today nextfaucet.com serves an unrelated blog called Blocknote, and we found no closure notice.
+
+## Nuggmi
+
+- Review: https://1dollaperday.com/reviews/nuggmi
+- Verdict: Caution, 7/10
+- Category: Micro-tasks
+- Status: Active, with a status warning
+- Site Type: Tasks & Offers
+- Min Payout: Low (FaucetPay)
+- Payment Methods: FaucetPay (Crypto)
+- Earning Methods: Tasks, Offerwalls, Daily Bonuses, Contests
+- Earning Type: Active
+- Our Verdict: Solid active earner for daily sessions
+- Notice: Payout warning (June 16, 2026). After this review was published, Nuggmi withdrawals were stuck in "Pending" for over a week and we advised readers to stop depositing. Read our Nuggmi payout warning before you put any time or money into the platform.
+
+Nuggmi is a tasks and offers platform with daily bonuses and FaucetPay crypto withdrawals. The task variety helps avoid the monotony that kills most platforms in this category, and the daily bonus structure rewards consistency rather than punishing absence. Offerwalls carry the heavier earnings. Not passive, requires active participation. Rating: 7/10.
+
+## OnlyFaucet
+
+- Review: https://1dollaperday.com/reviews/onlyfaucet
+- Verdict: Reviewed
+- Category: Crypto faucets
+- Status: Unscored or unproven
+
+TL;DR: Pretty cool site with instant payouts. Really easy to use with shortlinks that work and cool faucets. Highly recommend!
+
+## PacketStream
+
+- Review: https://1dollaperday.com/reviews/packetstream
+- Verdict: Recommended, 7.5/10
+- Category: Passive bandwidth apps
+- Status: Active, scored
+- App Type: Bandwidth Sharing
+- Min Payout: $5
+- Payment Methods: PayPal
+- Rate: $0.10/GB
+- Platforms: Windows, Mac, Linux
+- Our Verdict: Recommended
+
+PacketStream is a legitimate bandwidth-sharing app with a $5 minimum PayPal payout. It pays slightly less than EarnApp and Honeygain but is easy to set up and works as a supplementary earner alongside other bandwidth apps. Rating: 7.5/10, worth running alongside Honeygain or EarnApp.
+
+## Pawns.app
+
+- Review: https://1dollaperday.com/reviews/pawns
+- Verdict: Recommended, 8.0/10
+- Category: Passive bandwidth apps
+- Status: Active, scored
+- Type: Bandwidth Sharing
+- Min Payout: $5
+- Payment Methods: PayPal, Bitcoin, Gift Cards
+- Available: Worldwide (Best: US/EU)
+- Previously Known As: IPRoyal Pawns
+- Our Verdict: Solid Passive Earner
+
+Pawns.app is a top-tier passive income app combining bandwidth sharing with paid surveys. It typically outperforms Honeygain per GB in high-demand markets and adds survey earnings on top. Low $5 minimum payout with PayPal and crypto options. Rating: 8.0/10, one of our top bandwidth app recommendations.
+
+## PayUp.video
+
+- Review: https://1dollaperday.com/reviews/payup-video
+- Verdict: Editor Recommended, 9.9/10
+- Category: Crypto faucets
+- Status: Active, with a status warning
+- Platform Type: Video Ads / PTC
+- Payout Method: FaucetPay
+- Min Payout: Very Low
+- Video Length: 10-20 seconds
+- Automation: Fully passive (MacroDroid)
+- Our Verdict: Editor Recommended
+- Notice: Status update, November 2026: temporary hosting outage. PayUp.video has not shut down. At the time of writing the site shows a maintenance page ("The site is temporarily unavailable") while the operators deal with a hosting problem. Balances and payouts may be delayed until it is back, so avoid starting new deposits or withdrawals while it is offline, and check the site before relying on it. We will update this page once service is confirmed restored.
+
+PayUp.video is a video ad platform that pays out via FaucetPay for watching short advertisements. Videos are typically 10-20 seconds, the interface is clean, payouts are fast, and there is a solid referral program. Crucially, it is fully automatable with a MacroDroid macro, making it one of the most genuinely passive earners in the stack. Rating: 9.9/10.
+
+## PepeCore
+
+- Review: https://1dollaperday.com/reviews/pepecore
+- Verdict: Do Not Deposit
+- Category: Mining and deposit schemes
+- Status: Offline, closed or avoid
+- Site Type: "Mining platform" (deposit-based)
+- Claimed Return: 200% in 24 hours, up to 50% daily
+- Free Bonus: 50 GH/s power
+- Payouts: Via FaucetPay (claimed)
+- Status: Host error (Cloudflare 525), 2 Nov 2026
+- Operator: Not named
+
+PepeCore (pepecore.one) called itself the 'number one crypto mining platform' and promised to 'earn 200% profits in just 24 hrs' and 'up to 50% daily returns', with 'instant payouts via FaucetPay'. We could not load it on 2 November 2026: the host returns an SSL handshake error (Cloudflare 525). The review below is from the copy the Internet Archive saved on 9 July 2026. A 200% return in a day, or 50% every day, can't come from mining PEPE or anything else, and returns like that are the classic sign of a scheme that pays old users from new deposits. We have not tested it. We recommend you never deposit in anything that advertises returns like these.
+
+## Pinecone Research
+
+- Review: https://1dollaperday.com/reviews/pinecone
+- Verdict: Highly Recommended, 8.5/10
+- Category: Surveys and research
+- Status: Active, scored
+- Site Type: Survey Panel
+- Pay Per Survey: $3 - $5
+- Payment Methods: PayPal, Check
+- Available: US, UK, Germany
+- Access: Invite Only
+- Our Verdict: Highly Recommended
+
+Pinecone Research is an invite-only survey panel paying $3 to $5 per survey, higher than average. Access is selective (by invitation or referral only), but once in, surveys are consistent and always completed. Rating: 8.5/10, one of the best survey sites if you can get in.
+
+## Pionex
+
+- Review: https://1dollaperday.com/reviews/pionex
+- Verdict: Not an Earner
+- Category: Wallets, browsers and exchanges
+- Status: Unscored or unproven
+- Site Type: Crypto exchange with trading bots
+- Cost to Start: Deposit and trade (no free earning)
+- Consent Order: NE, NC, OH and SD, $20,000 total penalty
+- Admission: None (order says no wrongdoing admitted)
+- Trustpilot: 2.5 from 637 reviews
+- Its Own Site: Not viewed (security screen)
+
+Pionex is a crypto exchange known for built-in trading bots (grid, DCA and similar). It isn't a micro-earning site: you must deposit and trade, and you can lose money. We couldn't view its own site (it sits behind a Cloudflare security screen), so this review rests on two public records. First, a consent order published by South Dakota's banking regulator, signed by four US states, says an examination found Pionex failed to collect required sender and beneficiary details on transfers over $3,000, and that it had operated in North Carolina and Ohio before it was licensed there. It carries a $20,000 penalty and Pionex admits no wrongdoing. Second, Trustpilot shows a 2.5 score from 637 reviews, split 48% five-star and 40% one-star, with complaints about withdrawals, KYC restrictions and support. Treat it as a trading venue, not an earner.
+
+## PiTasks
+
+- Review: https://1dollaperday.com/reviews/pitasks
+- Verdict: Unproven
+- Category: Crypto faucets
+- Status: Unscored or unproven
+- Site Type: Faucet, PTC, micro-tasks, offers
+- Minimum Payout: $0.01 (claimed)
+- Payout Methods: FaucetPay, Binance, Cwallet, PayPal, BTC, SOL, USDT
+- Referral Levels: 3 levels: 5%, 7%, 10%
+- Site Shows: 10K+ users, $9K+ paid, 7 months+
+- Operator: Not named
+
+PiTasks combines a faucet, PTC, micro-tasks, offers, surveys, games and timed site surfing, with a $0.01 minimum payout and a long list of ways to cash out: FaucetPay, Binance, Cwallet, PayPal, BTC, SOL and USDT. Its own counters say 10K+ users, $9K+ paid and 7 months online, which is under a dollar paid per user. Trustpilot has a positive but thin profile (4.4 from 18 recent reviews, none reporting a missing payout), though one reviewer says it was down for months and Trustpilot warns of possible association with high-risk investments. Worth a small test, with a tiny first withdrawal.
+
+## PixelPointTV Network
+
+- Review: https://1dollaperday.com/reviews/pixelpointtv
+- Verdict: Unproven
+- Category: Watch to earn
+- Status: Unscored or unproven
+- Site Type: Watch-to-earn video sites
+- Points Rate: 900 points = $1.00
+- Points per Video: Not stated
+- Minimum Payout: Not stated
+- Payout Methods: Not stated
+- Operator: Not named
+
+PixelPointTV runs a family of near-identical video sites (Lolvault.tv, Cozycrafts.tv, Gamersden.tv, Nestmade.tv, Recipe Ninja, Puppy Bear and others) that promise to pay points for watching. The one hard number is on the home page: 900 points = $1.00. What it doesn't say is how many points a video is worth, what the minimum payout is, or how you get paid, and no company is named. Several pages show a Facebook sign-in that is 'temporarily unavailable' and a note that rewards are 'active on this account elsewhere'. With no payout terms, treat it as unproven.
+
+## Pocket Farm
+
+- Review: https://1dollaperday.com/reviews/pocketfarm
+- Verdict: Unproven
+- Category: Offerwalls and GPT sites
+- Status: Unscored or unproven
+- Site Type: Android farming game
+- Reward: Tokens, redeemable via FaucetPay
+- Redemption Rules: Shown in the app only
+- Sign-In: Google account, in the Android app
+- Minimum / Fees: Not published
+- Operator: Not named
+
+Pocket Farm is a casual Android farming game: plant crops, raise animals, craft goods and mine resources in short sessions. It says players earn tokens that can be redeemed as crypto through FaucetPay, 'under platform rules'. The catch is that those rules live inside the app: the website publishes no minimum, no conversion rate, no fees and no operator. It describes tokens as reward units, not legal tender, and says it is not a bank or investment product. We couldn't verify any payout, so it is a game to try, not an income source.
+
+## PrizeRebel
+
+- Review: https://1dollaperday.com/reviews/prizerebel
+- Verdict: Highly Recommended, 8.8/10
+- Category: Surveys and research
+- Status: Active, scored
+- Site Type: GPT / Surveys
+- Min Payout: $2 (Gift Cards)
+- Payment Methods: PayPal, Gift Cards, Bitcoin
+- Available: Worldwide (Best: US/UK/CA)
+- Founded: 2007
+- Our Verdict: Loyalty Rewards King
+
+PrizeRebel is a legitimate GPT site with 17+ years of paying users and a loyalty system that rewards regular earners with higher rates. For consistent users, it often outperforms Swagbucks in effective hourly earnings. Rating: 8.8/10, excellent for loyal users who earn regularly.
+
+## Prolific
+
+- Review: https://1dollaperday.com/reviews/prolific
+- Verdict: Highly Recommended, 9.5/10
+- Category: Surveys and research
+- Status: Active, scored
+- Site Type: Academic Surveys
+- Min Payout: £6 or $6
+- Payment Methods: PayPal
+- Available: 38 Countries (OECD)
+- Founded: 2014
+- Our Verdict: Best Survey Platform
+
+Prolific is the highest-paying legitimate survey site, it connects users with academic and market researchers who pay significantly more than typical survey sites ($6 to $12/hour). Studies are well-described before you accept them and rejection rates are low. Rating: 9.5/10, our top survey site recommendation.
+
+## Qmee
+
+- Review: https://1dollaperday.com/reviews/qmee
+- Verdict: Recommended, 7.5/10
+- Category: Surveys and research
+- Status: Active, scored
+- Site Type: Survey / Search
+- Min Payout: $0 (None!)
+- Payment Methods: PayPal, Gift Cards
+- Available: US, UK, CA, AU
+- Founded: 2012
+- Our Verdict: Recommended
+
+Qmee is a legitimate survey site with no minimum payout, you can cash out any amount instantly to PayPal. Surveys pay $0.20 to $2.00 each. Earnings are modest but the zero-threshold payout makes it uniquely low-risk. Rating: 7.5/10, best for users who want instant small payouts.
+
+## Rakuten
+
+- Review: https://1dollaperday.com/reviews/rakuten
+- Verdict: Highly Recommended, 9.0/10
+- Category: Cashback and shopping
+- Status: Active, scored
+- Type: Cashback / Shopping
+- Min Payout: $5 (auto-paid quarterly)
+- Payment Methods: PayPal, Check, Amex Points
+- Available: US, CA, UK, DE, FR, JP + more
+- Founded: 1998 (as Ebates)
+- Our Verdict: Essential for Shoppers
+
+Rakuten is a legitimate cashback site offering up to 15% cashback at thousands of online retailers, plus a $30 signup bonus. It's one of the most established cashback platforms (formerly Ebates). Install the browser extension and it activates automatically when you shop. Rating: 9.0/10, essential for online shoppers.
+
+## Respondent
+
+- Review: https://1dollaperday.com/reviews/respondent
+- Verdict: Highly Recommended, 9.2/10
+- Category: Surveys and research
+- Status: Active, scored
+- Site Type: Research Studies
+- Avg Payout: $50-200/study
+- Payment Methods: Tremendous (gift card or PayPal)
+- Available: Worldwide
+- Founded: 2016
+- Our Verdict: Highly Recommended
+
+Respondent is a legitimate research platform paying $50 to $200 per study for professionals and consumers. It connects you with high-budget companies doing user research. Studies are selective and availability varies by profile, but when you qualify, the pay is exceptional. Rating: 9.2/10, our top pick for high-value studies.
+
+## Rewarded.TV
+
+- Review: https://1dollaperday.com/reviews/rewardedtv
+- Verdict: Unproven
+- Category: Other
+- Status: Unscored or unproven
+- Site Type: Blockchain streaming platform
+- Viewer Pitch: "Watch and earn"
+- Claimed Users: 1M+
+- Technology: Replay protocol
+- Payout / Token: Not described
+- Operator: Not named on the page
+
+Rewarded.TV is a corporate site for a blockchain-based streaming platform that promises 'watch and earn' for viewers, 'instant rev share' for creators and 'on-chain targeting' for advertisers. It claims to be 'already validated by over 1M users', built on the Replay protocol, and names partners including Camp Network and MultiTV+. What the site doesn't publish is anything a viewer needs: how rewards are earned, what the token is, how to cash out, or the minimum. The bookmarked watch page we tried returned a 404. As a way to earn, it's unproven.
+
+## RewardJoy (formerly CoinPayU)
+
+- Review: https://1dollaperday.com/reviews/coinpayu
+- Verdict: Recommended, 8.0/10
+- Category: PTC (paid to click)
+- Status: Active, scored
+- Site Type: Crypto Multi-Earner (PTC, Offers, Surveys, Tasks)
+- Min Payout: $5 (5,000 coins)
+- Payment Methods: Cash or gift cards (paid in 2 days)
+- Verification: Selfie or ID for some users
+- Established: 2018 (8 years running)
+- Our Verdict: One of the best crypto earners out there
+- Last updated: November 2026
+
+CoinPayU, now renamed RewardJoy, is a long-running rewards platform that started as a crypto PTC site. It now centres on games, apps, surveys and offers, with ad browsing alongside. The minimum cash-out is $5, paid as cash or gift cards within 2 days. Earnings are small, and the platform has a long track record of paying users.
+
+## RewardVid
+
+- Review: https://1dollaperday.com/reviews/rewardvid
+- Verdict: Recommended, 7/10
+- Category: Watch to earn
+- Status: Active, scored
+- Site Type: Watch & Earn / GPT
+- Min Payout: $1.00 (FaucetPay)
+- Payment Methods: FaucetPay (LTC, TRX, DOGE), PayPal, Gift Cards
+- Earning Type: Semi-passive
+- Recommended Device: Spare Android / secondary tablet
+- Our Verdict: Recommended (spare device only)
+
+RewardVid is a legitimate Watch & Earn GPT platform that pays out to FaucetPay with a $1 minimum withdrawal. Hourly earnings top out at $0.05 to $0.15 depending on your region, this is not a replacement income stream. It earns its place in the stack when run on a spare device alongside higher-value work. Rating: 7/10.
+
+## RewardXP
+
+- Review: https://1dollaperday.com/reviews/rewardxp
+- Verdict: Highly Recommended, 8.3/10
+- Category: Offerwalls and GPT sites
+- Status: Active, scored
+- Site Type: GPT / Offerwall
+- Min Payout: $5
+- Payment Methods: PayPal, Crypto, Gift Cards
+- Available: Worldwide
+- Founded: 2019
+- Our Verdict: Highly Recommended
+
+RewardXP is a legitimate GPT site with a clean interface and an XP multiplier system that increases payouts as you level up. Surveys, offers, and multiple payout options are available. Solid but not the highest earner, best for users who value a polished interface over maximum rates. Rating: 8.3/10.
+
+## SnazzyPTC
+
+- Review: https://1dollaperday.com/reviews/snazzyptc
+- Verdict: Our Own Build (Unscored)
+- Category: PTC (paid to click)
+- Status: Unscored or unproven
+- Site Type: PTC (ads, surveys, offers)
+- Min Payout: $0.10 to FaucetPay
+- Payout Limit: 1 FaucetPay payout per 24 hours
+- Deposit Required: No
+- Track Record: New, 489 members (6 Nov 2026)
+- Who built it: Built by the 1DollarPerDay team
+- Last updated: November 2026
+
+SnazzyPTC is a new, no-deposit PTC site and our own stab at building the best possible one. You earn BUCK for ads, surveys and offers, convert BUCK to dollars and cash out to FaucetPay from $0.10, one FaucetPay payout per 24 hours. BUCK is also a small, volatile Solana token on pump.fun. The site had 489 members on 6 November 2026 and doesn't have a public payout track record yet, so treat it as unproven.
+
+## StreamPayz
+
+- Review: https://1dollaperday.com/reviews/streampayz
+- Verdict: Site offline, 7/10
+- Category: Watch to earn
+- Status: Offline, closed or avoid
+- Site Type: Watch & Earn
+- Min Payout: Low (FaucetPay)
+- Payment Methods: FaucetPay (Crypto)
+- Earning Methods: Video Streams, Faucet Claims
+- Earning Type: Semi-passive
+- Our Verdict: Best run on spare device
+- Notice: StreamPayz is offline (October 23, 2026). The streampayz.com domain no longer resolves, so the site cannot be reached and any balance on it cannot be withdrawn. We have removed our sign-up links. The review below is kept for the record. For a watch-to-earn platform that still works, see our watch-to-earn comparison .
+
+StreamPayz pays you in crypto for watching video streams, with instant FaucetPay withdrawals at a low threshold. Run it on a spare device plugged into the wall and it becomes the closest thing to genuine background income the watch-to-earn category offers. The promo cards page adds extra value most users miss. Rating: 7/10.
+
+## Surveytime
+
+- Review: https://1dollaperday.com/reviews/surveytime
+- Verdict: Recommended, 8.0/10
+- Category: Surveys and research
+- Status: Active, scored
+- Site Type: Survey Site
+- Pay Per Survey: $1 (instant)
+- Payment Methods: PayPal, Gift Cards
+- Min Payout: None ($1)
+- Available: Worldwide
+- Our Verdict: Recommended
+
+Surveytime is a legitimate survey site that pays $1 per completed survey instantly, no points system, no waiting. Survey availability varies by country and demographic, but when surveys are available, the $1 instant payout is one of the best rates in the survey space. Rating: 8.0/10.
+
+## Swagbucks
+
+- Review: https://1dollaperday.com/reviews/swagbucks
+- Verdict: Highly Recommended, 9.0/10
+- Category: Cashback and shopping
+- Status: Active, scored
+- Site Type: GPT / Cashback
+- Min Payout: $3 (Gift Cards)
+- Payment Methods: PayPal, Gift Cards
+- Available: US, UK, CA, AU, DE, FR, IE
+- Founded: 2008
+- Our Verdict: The Industry Standard
+
+Swagbucks is the most popular GPT site worldwide and is fully legitimate. It offers surveys, cashback, videos, and offers with PayPal or gift card payouts. Its $5 activation bonus helps beginners. Earning rates are slightly below Freecash but the platform's reliability and variety make it a solid foundation. Rating: 9.0/10.
+
+## TetherMine
+
+- Review: https://1dollaperday.com/reviews/tethermine
+- Verdict: Do Not Deposit
+- Category: Mining and deposit schemes
+- Status: Offline, closed or avoid
+- Site Type: USDT "cloud mining" (deposit-based)
+- Claimed Daily Return: 50% to 100% of the plan price
+- Contract: 30 days
+- Minimum Deposit: $1 USDT
+- Referral Pay: 25% of referrals' deposits
+- Status: Host error (Cloudflare 525), 2 Nov 2026
+
+TetherMine (tethermine.online) described itself as a 'new USDT cloud mining platform' with '150% profits just 24 hour'. Its plan table, as saved by the Internet Archive on 22 July 2026, pays 50% a day on a $1 plan, 60% a day on $50, 90% a day on $1,000 and 100% a day on $2,000, for 30 days. The top plan turns $2,000 into a claimed $60,000. No real mining pays that. Its login also asked you to 'enter your FaucetPay credentials' with an email and password. On 2 November 2026 the site returns a host error. We haven't tested it and we recommend you don't deposit, and never type a FaucetPay password into any other site.
+
+## Toloka
+
+- Review: https://1dollaperday.com/reviews/toloka
+- Verdict: Recommended, 7.5/10
+- Category: Micro-tasks
+- Status: Active, scored
+- Site Type: Micro-Tasks / AI
+- Min Payout: $0.02 (!)
+- Payment Methods: PayPal, Payoneer, Papara
+- Parent Company: Independent (Nebius majority stake)
+- Available: Worldwide
+- Our Verdict: Recommended
+
+Toloka is a legitimate micro-task platform specializing in AI training data, image labeling, text classification, and data verification. It has a very low $0.02 minimum payout but tasks require attention to detail to maintain quality scores. Rating: 7.5/10, good for methodical earners comfortable with repetitive tasks.
+
+## TopCashback
+
+- Review: https://1dollaperday.com/reviews/topcashback
+- Verdict: Highly Recommended, 8.8/10
+- Category: Cashback and shopping
+- Status: Active, scored
+- Site Type: Cashback Portal
+- Min Payout: $10
+- Payment Methods: PayPal, ACH, Gift Cards
+- Available: US, UK, Canada
+- Founded: 2005
+- Our Verdict: Highly Recommended
+
+TopCashback consistently offers the highest cashback rates of any cashback site, often beating Rakuten and BeFrugal by 1 to 3%. It has thousands of retailers and a strong track record. If you're choosing one cashback extension, TopCashback is usually the best choice for maximum savings. Rating: 8.8/10.
+
+## Userfeel
+
+- Review: https://1dollaperday.com/reviews/userfeel
+- Verdict: Recommended, 8.0/10
+- Category: Surveys and research
+- Status: Active, scored
+- Site Type: Website Testing
+- Pay Per Test: $3 to $30 (by length)
+- Payment Methods: PayPal, bank transfer (some countries)
+- Test Length: 5 to 60 minutes
+- Available: Worldwide
+- Our Verdict: Recommended
+
+Userfeel is a legitimate usability testing platform that pays you to record yourself using websites and apps while thinking aloud. Pay depends on test length: $3 for 5 minutes, $10 for 20 minutes (the most common), $20 for 40 minutes and $30 for 60 minutes. You must first pass an unpaid qualification test, and Userfeel itself says there is no guaranteed number of tests. Rating: 8.0/10 as a supplement to other testing panels.
+
+## Userlytics
+
+- Review: https://1dollaperday.com/reviews/userlytics
+- Verdict: Occasional Extra
+- Category: Surveys and research
+- Status: Unscored or unproven
+- Site Type: Website Testing
+- Advertised Pay: $10 to $50 per study
+- Payment Method: PayPal only
+- Test Length: 20 to 40 minutes
+- Available: Wherever PayPal works
+- Minimum Age: 16
+
+Userlytics is a real user-experience research company that pays panel testers to try websites, apps and prototypes while thinking aloud on camera. Its tester page advertises $10 to $50 per study, paid only through PayPal, and typical tests take 20 to 40 minutes. The catch: invitations are random and can't be requested, and the terms list several situations in which a completed test is not paid. Treat it as an occasional bonus next to other testing panels, not a daily income.
+
+## UserTesting
+
+- Review: https://1dollaperday.com/reviews/usertesting
+- Verdict: Highly Recommended, 9.0/10
+- Category: Surveys and research
+- Status: Active, scored
+- Type: Website/App Testing
+- Pay Per Test: Varies by test (about $10 for 20 min)
+- Payment Method: PayPal
+- Available: Worldwide (Best: US/UK/CA)
+- Founded: 2007
+- Our Verdict: Best Hourly Rate
+
+UserTesting is a legitimate platform paying $10+ per 20-minute usability test. It requires passing a sample test to join. Once approved, tests arrive irregularly and are paid via PayPal, usually 14 days after completion. At $30+/hour for active testing sessions, it's one of the highest-value platforms in the micro-earning space. Rating: 9.0/10.
+
+## VieFaucet
+
+- Review: https://1dollaperday.com/reviews/viefaucet
+- Verdict: Recommended, 8/10
+- Category: Crypto faucets
+- Status: Active, scored
+- Site Type: Multi-Coin Faucet
+- Min Payout: Very Low
+- Payment Methods: FaucetPay, Cwallet
+- Available: Worldwide
+- Trustpilot: 5 Stars (8,000+ reviews)
+- Our Verdict: Trusted & Reliable
+- Last updated: February 2026
+
+VieFaucet is a legitimate multi-coin faucet with a 5-star Trustpilot rating, instant FaucetPay withdrawals, and multiple earning methods beyond the basic faucet. It supports 20+ coins with a $0.01 effective minimum. Reliable and clean, a recommended addition to any faucet rotation. Rating: 8/10.
+
+## VimeoViews
+
+- Review: https://1dollaperday.com/reviews/vimeoviews
+- Verdict: Use Caution
+- Category: Watch to earn
+- Status: Unscored or unproven
+- Site Type: Sponsored-video watch-to-earn
+- Listed Per Video: $0.00 to $120+ (one at $833,333.48)
+- Payout Methods: PayPal, crypto, bank, mobile money (claimed)
+- Minimum / Fees: Not stated
+- Extras: "Borrow Referrals", "Sponsor my YouTube channel"
+- Operator: Not named
+
+VimeoViews (branded 'StreamLabs' on the page) says you can 'watch sponsored videos' and 'earn withdrawable money', with PayPal, crypto, bank transfer and mobile money payouts. Its video list shows dollar amounts of $71 to $121 for a single film, and at least one listing at $833,333.48. No ad-funded video view pays anything near that, so those figures can't be what you'd receive. The menu also offers 'Borrow Referrals' for 'postpaid marketers', with no explanation. It names no company, minimum or fees, shares nothing with Vimeo, and we found no independent reviews. Do not put money in.
+
+## ySense
+
+- Review: https://1dollaperday.com/reviews/ysense
+- Verdict: Highly Recommended, 8.5/10
+- Category: Surveys and research
+- Status: Active, scored
+- Site Type: GPT / Surveys
+- Min Payout: $5 (PayPal/Payoneer)
+- Payment Methods: PayPal, Payoneer, Gift Cards
+- Available: Worldwide
+- Founded: 2007 (as ClixSense)
+- Our Verdict: Reliable Global Earner
+
+ySense (formerly ClixSense) is a legitimate GPT platform with 15+ years of continuous payouts. It offers surveys, tasks, and offers with PayPal and gift card withdrawal. Earning rates are modest but the platform's longevity and reliability are proven. Rating: 8.5/10, a safe, established choice.
+

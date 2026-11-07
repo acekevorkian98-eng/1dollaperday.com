@@ -58,6 +58,35 @@ Allow: /
 User-agent: Bytespider
 Allow: /
 
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# LLM context files: https://1dollaperday.com/llms.txt and https://1dollaperday.com/llms-full.txt
+
 # Block SEO scraper bots
 User-agent: AhrefsBot
 Disallow: /

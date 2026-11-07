@@ -4447,3 +4447,18 @@ a[style*="background: var(--primary)"]:hover { background: var(--sky-hi) !import
 .feature-strip p a { color: var(--sky-hi); }
 .feature-strip .btn { padding: 0.6rem 1rem; font-size: 0.88rem; }
 .feature-strip small { display: block; color: var(--text-muted); font-size: 0.74rem; margin-top: 0.15rem; }
+
+/* Quick answers hub */
+.answers-page { max-width: 860px; padding-top: 2rem; padding-bottom: 2rem; }
+.answers-head { margin: 1.5rem 0 2.25rem; }
+.answers-head h1 { font-size: clamp(2rem, 4.4vw, 3rem); font-weight: 650; line-height: 1.05; letter-spacing: -0.03em; margin-bottom: 1rem; }
+.answers-list { display: grid; gap: 0.85rem; }
+.answer {
+    padding: 1.35rem 1.5rem;
+    background: linear-gradient(180deg, rgba(20, 31, 54, 0.7), rgba(11, 18, 33, 0.7));
+    border: 1px solid var(--line);
+    border-radius: 12px;
+}
+.answer h2 { font-size: 1.2rem; margin: 0 0 0.55rem; padding: 0; border: 0; }
+.answer p { margin: 0; line-height: 1.65; }
+.answer a { color: var(--sky-hi); }
