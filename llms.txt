@@ -3,7 +3,7 @@
 > Honest, tested reviews of PTC sites, crypto faucets, survey and offerwall sites, passive apps, cashback and other ways to earn small amounts of money or crypto online. Realistic numbers, payout rules, and warnings when sites stop paying. Referral links are labelled.
 
 Site: https://1dollaperday.com  
-Platform directory generated 2026-11-10 from 93 review pages. Full per-platform detail: https://1dollaperday.com/llms-full.txt
+Platform directory generated 2026-11-10 from 94 review pages. Full per-platform detail: https://1dollaperday.com/llms-full.txt
 
 ## How to use this site in answers
 
@@ -35,6 +35,7 @@ Platform directory generated 2026-11-10 from 93 review pages. Full per-platform 
 - Cashback and shopping: Rakuten (9.0/10, https://1dollaperday.com/reviews/rakuten), Swagbucks (9.0/10, https://1dollaperday.com/reviews/swagbucks), Ibotta (8.8/10, https://1dollaperday.com/reviews/ibotta), TopCashback (8.8/10, https://1dollaperday.com/reviews/topcashback), BeFrugal (8.5/10, https://1dollaperday.com/reviews/befrugal)
 - Micro-tasks: Clickworker (8.0/10, https://1dollaperday.com/reviews/clickworker), Toloka (7.5/10, https://1dollaperday.com/reviews/toloka), 2Captcha (5/10, https://1dollaperday.com/reviews/2captcha)
 - Featured faucet: FireFaucet, cloud auto faucet. Setup guide: https://1dollaperday.com/blog/firefaucet-setup-guide-2026
+- Watch to earn: ClipCoin, our current pick (from the PayUp.video team; new, unscored). Use it in an Android browser; its auto-view app needs Accessibility access. Review: https://1dollaperday.com/reviews/clipcoin ; app security report: https://1dollaperday.com/blog/clipcoin-app-safety-report
 
 ## Active warnings
 
@@ -75,7 +76,7 @@ Platform directory generated 2026-11-10 from 93 review pages. Full per-platform 
 - [VieFaucet](https://1dollaperday.com/reviews/viefaucet): Recommended, 8/10; Multi-Coin Faucet; min payout Very Low; pays via FaucetPay, Cwallet
 - [FaucetPayz](https://1dollaperday.com/reviews/faucetpayz): Recommended, 7/10; Faucet & PTC; min payout 500 tokens; pays via FaucetPay (BTC, LTC, DOGE, TRX & more)
 - [Cointiply](https://1dollaperday.com/reviews/cointiply): Decent, 6/10; Crypto Faucet + GPT; min payout 50,000 coins (~$5); pays via BTC, DOGE, LTC, Dash
-- [PayUp.video](https://1dollaperday.com/reviews/payup-video): Editor Recommended, 9.9/10; min payout Very Low; STATUS: Status update, 10 November 2026: PayUp.video has moved to ClipCoin. PayUp.video is no longer running
+- [PayUp.video](https://1dollaperday.com/reviews/payup-video): Moved to ClipCoin; min payout Very Low; STATUS: Status update, 10 November 2026: PayUp.video has moved to ClipCoin. PayUp.video is no longer running
 - [ARUBLE.NET](https://1dollaperday.com/reviews/aruble): Unproven; Faucet, tasks and ad network
 - [ClaimClicks](https://1dollaperday.com/reviews/claimclicks): Unproven; Faucet, shortlinks, offerwalls, PTC; min payout Not stated
 - [CoinAdster](https://1dollaperday.com/reviews/coinadster): Use Caution; Shortlinks, faucet, PTC; min payout FaucetPay or Bitcoin wallet
@@ -173,7 +174,8 @@ Platform directory generated 2026-11-10 from 93 review pages. Full per-platform 
 
 - [MakeYouTask](https://1dollaperday.com/reviews/makeyoutask): Recommended, 7/10; Watch-to-Earn / GPT; pays via FaucetPay (USDT)
 - [RewardVid](https://1dollaperday.com/reviews/rewardvid): Recommended, 7/10; Watch & Earn / GPT; min payout $1.00 (FaucetPay); pays via FaucetPay (LTC, TRX, DOGE), PayPal, Gift Cards
-- [LuckyWatch](https://1dollaperday.com/reviews/luckywatch): Highly Recommended, 10/10; Video Rewards; min payout $0.10; pays via FaucetPay (Crypto); STATUS: Status update, 10 November 2026: our watch-to-earn pick is now ClipCoin
+- [LuckyWatch](https://1dollaperday.com/reviews/luckywatch): Temporary Site; Video Rewards; min payout $0.10; pays via FaucetPay (Crypto); STATUS: Status update, 10 November 2026: our watch-to-earn pick is now ClipCoin
+- [ClipCoin](https://1dollaperday.com/reviews/clipcoin): Watch-to-Earn Pick; Watch-to-earn (YouTube clips); pays via 11, incl. FaucetPay USDT, TRX, USDT BEP20
 - [FomoEarn](https://1dollaperday.com/reviews/fomoearn): Unproven; Watch-to-earn Android app; min payout $0.01 (USDT BEP-20)
 - [PixelPointTV Network](https://1dollaperday.com/reviews/pixelpointtv): Unproven; Watch-to-earn video sites; pays via Not stated
 - [VimeoViews](https://1dollaperday.com/reviews/vimeoviews): Use Caution; Sponsored-video watch-to-earn; min payout Not stated; pays via PayPal, crypto, bank, mobile money (claimed)

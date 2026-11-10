@@ -317,6 +317,23 @@ ClaimClicks is a crypto rewards site that pays in an internal 'Coins' balance fr
 
 Clickworker is a legitimate micro-task platform with access to UHRS tasks, data entry, and AI training work. Pay rates are higher than most survey sites ($8 to $15/hour on good tasks), but task availability varies by country and skill set. Rating: 8.0/10, recommended for patient earners.
 
+## ClipCoin
+
+- Review: https://1dollaperday.com/reviews/clipcoin
+- Verdict: Watch-to-Earn Pick
+- Category: Watch to earn
+- Status: Unscored or unproven
+- Site Type: Watch-to-earn (YouTube clips)
+- Launched: November 2026, by the PayUp.video team
+- Devices: Android only: browser or app
+- Daily Limit: 540 views on the site, 820 in the app
+- Payment Methods: 11, incl. FaucetPay USDT, TRX, USDT BEP20
+- Minimum Payout: Varies by method, shown before you request
+- Referrals: 3 levels, plus tickets per sign-up
+- Our Verdict: Watch-to-earn pick, unscored for now
+
+ClipCoin (clipcoin.pro) is a watch-to-earn site launched in November 2026 by the team behind PayUp.video. You watch YouTube clips of 12 seconds or more on an Android phone and cash out to FaucetPay, TRX, USDT and 8 other methods. It is our current watch-to-earn pick, but it is new and unscored. Use it in your phone's browser, or run the optional auto-view app only on a spare phone.
+
 ## CloudResearch Connect
 
 - Review: https://1dollaperday.com/reviews/cloudresearch-connect
@@ -832,7 +849,7 @@ LTCMiner (ltcminer.com) describes itself, in its page metadata, as a 'profession
 ## LuckyWatch
 
 - Review: https://1dollaperday.com/reviews/luckywatch
-- Verdict: Highly Recommended, 10/10
+- Verdict: Temporary Site
 - Category: Watch to earn
 - Status: Active, with a status warning
 - Site Type: Video Rewards
@@ -840,11 +857,11 @@ LTCMiner (ltcminer.com) describes itself, in its page metadata, as a 'profession
 - Payment Methods: FaucetPay (Crypto)
 - Available: Worldwide
 - Investment Required: None - 100% Free
-- Our Verdict: Outstanding
+- Our Verdict: Paused (temporary site)
 - Last updated: March 2026
 - Notice: Status update, 10 November 2026: our watch-to-earn pick is now ClipCoin. LuckyWatch is still on a stripped-down temporary site after its hosting problems (its homepage currently shows 0 registered users and $0 paid out), so we are no longer sending new sign-ups there.
 
-LuckyWatch is a legitimate video-watching platform with instant crypto withdrawals and no investment required. It pays real money for watching short video ads, with an optional MacroDroid macro to automate earnings passively. One of our highest-rated passive earning tools. Rating: 10/10.
+LuckyWatch is a legitimate video-watching platform with instant crypto withdrawals and no investment required. It pays real money for watching short video ads, with an optional MacroDroid macro to automate earnings passively. One of our highest-rated passive earning tools. Score paused while LuckyWatch runs on a temporary site; for watch-to-earn we now point new users to ClipCoin.
 
 ## MakeYouTask
 
@@ -965,7 +982,7 @@ Pawns.app is a top-tier passive income app combining bandwidth sharing with paid
 ## PayUp.video
 
 - Review: https://1dollaperday.com/reviews/payup-video
-- Verdict: Editor Recommended, 9.9/10
+- Verdict: Moved to ClipCoin
 - Category: Crypto faucets
 - Status: Active, with a status warning
 - Platform Type: Video Ads / PTC
@@ -973,10 +990,10 @@ Pawns.app is a top-tier passive income app combining bandwidth sharing with paid
 - Min Payout: Very Low
 - Video Length: 10-20 seconds
 - Automation: Fully passive (MacroDroid)
-- Our Verdict: Editor Recommended
+- Our Verdict: Closed, moved to ClipCoin
 - Notice: Status update, 10 November 2026: PayUp.video has moved to ClipCoin. PayUp.video is no longer running. Its operators say their hosting provider was hacked and the servers, site backups and databases were damaged, so they have launched a new watch-to-earn project, ClipCoin (clipcoin.pro). If they recover a backup, old PayUp balances are meant to move across to ClipCoin; if not, everyone who signs up to ClipCoin through their link gets a sign-up bonus. No balances have been restored as of today.
 
-PayUp.video is a video ad platform that pays out via FaucetPay for watching short advertisements. Videos are typically 10-20 seconds, the interface is clean, payouts are fast, and there is a solid referral program. Crucially, it is fully automatable with a MacroDroid macro, making it one of the most genuinely passive earners in the stack. Rating: 9.9/10.
+PayUp.video is a video ad platform that pays out via FaucetPay for watching short advertisements. Videos are typically 10-20 seconds, the interface is clean, payouts are fast, and there is a solid referral program. Crucially, it is fully automatable with a MacroDroid macro, making it one of the most genuinely passive earners in the stack. PayUp.video is no longer running; its team now runs ClipCoin.
 
 ## PepeCore
 

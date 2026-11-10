@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": "clipcoin-app-safety-report",
+      "title": "Is the ClipCoin App Safe? Our Full APK Security Report (v1.0.1)",
+      "excerpt": "We decompiled the ClipCoin Android app. No malware found, but it uses Accessibility to run YouTube for you. Permissions, data, YouTube account risk and how to use it safely.",
+      "category": "Review",
+      "section": "blog",
+      "url": "clipcoin-app-safety-report.html",
+      "date": "November 10, 2026",
+      "readTime": "12 min read"
+    },
+    {
+      "id": "clipcoin-review",
+      "title": "ClipCoin Review 2026: Is It Legit, How Much It Pays and Is the App Safe?",
+      "excerpt": "ClipCoin, the PayUp.video team's new watch-to-earn site: YouTube clips from 12 seconds, an Android auto-view app and 11 payout methods. Our current watch-to-earn pick.",
+      "category": "Review",
+      "section": "reviews",
+      "url": "clipcoin.html",
+      "date": "November 10, 2026",
+      "readTime": "8 min read"
+    },
+    {
       "id": "firefaucet-vs-faucetcrypto-2026",
       "title": "FireFaucet vs FaucetCrypto (2026): Which Faucet Should You Use?",
       "excerpt": "FireFaucet vs FaucetCrypto compared: cloud auto faucet vs level system, payouts, daily time and realistic monthly earnings, from our reviews of both.",
