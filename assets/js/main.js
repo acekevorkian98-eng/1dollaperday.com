@@ -681,14 +681,14 @@ function initPromoPopup() {
                 <button class="promo-popup-close" onclick="closePromoPopup()" aria-label="Close">&times;</button>
                 <div class="promo-popup-header promo-snazzy-header">
                     <span class="promo-success-icon">&#9654;</span>
-                    <h3>PayUp.video is now ClipCoin</h3>
+                    <h3>Our watch-to-earn pick: ClipCoin</h3>
                 </div>
                 <div class="promo-popup-content promo-success-content">
                     <a href="https://clipcoin.pro/u/lqyxx" target="_blank" rel="noopener sponsored" data-ref="clipcoin-popup" style="display:block;text-align:center;margin-bottom:0.75rem"><img src="/assets/ads/clipcoin-200.gif" width="200" height="300" alt="ClipCoin - Watch clips, get money and tickets" style="max-height:38vh;width:auto;border-radius:10px"></a>
-                    <p class="promo-highlight-text">PayUp.video's team launched <strong>ClipCoin</strong> after their old hosting was hacked. Watch YouTube clips from 12 seconds, or let the Android app auto-view.</p>
+                    <p class="promo-highlight-text">PayUp.video's team launched <strong>ClipCoin</strong> after a hosting hack, and LuckyWatch is still on a temporary site. Watch YouTube clips from 12 seconds, or let the Android app auto-view.</p>
                     <p class="promo-feature-text">Cash out to FaucetPay USDT, TRX, USDT BEP20 and more. Old PayUp balances only move across if a backup is recovered.</p>
                     <a href="https://clipcoin.pro/u/lqyxx" target="_blank" rel="noopener sponsored" data-ref="clipcoin-popup" class="promo-snazzy-cta">Join ClipCoin free &rarr;</a>
-                    <p style="font-size:0.78rem;color:#8794b0;margin-top:0.75rem">New, no payout record with us yet. Referral link. <a href="/reviews/payup-video" style="color:#a9c6ff">What happened to PayUp</a><button onclick="closePromoPopup()" style="margin-left:1rem;background:none;border:none;color:#8794b0;text-decoration:underline;cursor:pointer;font-size:0.78rem;padding:0">No thanks</button></p>
+                    <p style="font-size:0.78rem;color:#8794b0;margin-top:0.75rem">New, no payout record with us yet. Referral link. <a href="/reviews/payup-video" style="color:#a9c6ff">What happened to PayUp and LuckyWatch</a><button onclick="closePromoPopup()" style="margin-left:1rem;background:none;border:none;color:#8794b0;text-decoration:underline;cursor:pointer;font-size:0.78rem;padding:0">No thanks</button></p>
                 </div>
             </div>
         </div>

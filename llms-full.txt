@@ -842,7 +842,7 @@ LTCMiner (ltcminer.com) describes itself, in its page metadata, as a 'profession
 - Investment Required: None - 100% Free
 - Our Verdict: Outstanding
 - Last updated: March 2026
-- Notice: Status update, November 2026: temporary hosting outage. LuckyWatch has not shut down. The operators report that their hosting was damaged and a temporary copy of the site is running while they recover. They say funds earned on the temporary copy can be transferred to the main site, and that the copy will move to a subdomain. Check the site notice before withdrawing or making plans around it, and expect some disruption until the move is done.
+- Notice: Status update, 10 November 2026: our watch-to-earn pick is now ClipCoin. LuckyWatch is still on a stripped-down temporary site after its hosting problems (its homepage currently shows 0 registered users and $0 paid out), so we are no longer sending new sign-ups there.
 
 LuckyWatch is a legitimate video-watching platform with instant crypto withdrawals and no investment required. It pays real money for watching short video ads, with an optional MacroDroid macro to automate earnings passively. One of our highest-rated passive earning tools. Rating: 10/10.
 

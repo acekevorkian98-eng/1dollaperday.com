@@ -44,7 +44,7 @@ Platform directory generated 2026-11-10 from 93 review pages. Full per-platform 
 - Cheddar.tv: Verdict: not an earning site on the evidence, and now offline. Cheddar.tv's own pages show a video site with no way to earn, and the domain no longer resolves. If someone told you it pays, we found nothing to support that. https://1dollaperday.com/reviews/cheddartv
 - EarnFrenzy: Verdict: unproven, and the plans don't make sense. EarnFrenzy's free plan paid nothing, its paid plans offered almost the same daily potential at wildly different prices, and it showed no evidence of payouts before it went offline. https://1dollaperday.com/reviews/earnfrenzy
 - FreeBitcoin: Withdrawals frozen since August 2025. Users report withdrawals stuck in "Pending" since August 2025, a domain lapse in October 2025, and a shutdown notice that later disappeared. Treat any balance on FreeBitco.in as lost. https://1dollaperday.com/reviews/freebitcoin
-- LuckyWatch: Status update, November 2026: temporary hosting outage. LuckyWatch has not shut down. The operators report that their hosting was damaged and a temporary copy of the site is running while they recover. https://1dollaperday.com/reviews/luckywatch
+- LuckyWatch: Status update, 10 November 2026: our watch-to-earn pick is now ClipCoin. https://1dollaperday.com/reviews/luckywatch
 - Amazon MTurk: MTurk closed on September 30, 2026. Amazon permanently closed Mechanical Turk on September 30, 2026. https://1dollaperday.com/reviews/mturk
 - NextFaucet: Verdict: offline, a status record. NextFaucet paid in tiny amounts and has now turned into an unrelated blog. We can't review a faucet that no longer exists, so this page records what it was and what its own numbers said. https://1dollaperday.com/reviews/nextfaucet
 - Nuggmi: Payout warning (June 16, 2026). After this review was published, Nuggmi withdrawals were stuck in "Pending" for over a week and we advised readers to stop depositing. https://1dollaperday.com/reviews/nuggmi
@@ -173,7 +173,7 @@ Platform directory generated 2026-11-10 from 93 review pages. Full per-platform 
 
 - [MakeYouTask](https://1dollaperday.com/reviews/makeyoutask): Recommended, 7/10; Watch-to-Earn / GPT; pays via FaucetPay (USDT)
 - [RewardVid](https://1dollaperday.com/reviews/rewardvid): Recommended, 7/10; Watch & Earn / GPT; min payout $1.00 (FaucetPay); pays via FaucetPay (LTC, TRX, DOGE), PayPal, Gift Cards
-- [LuckyWatch](https://1dollaperday.com/reviews/luckywatch): Highly Recommended, 10/10; Video Rewards; min payout $0.10; pays via FaucetPay (Crypto); STATUS: Status update, November 2026: temporary hosting outage. LuckyWatch has not shut down
+- [LuckyWatch](https://1dollaperday.com/reviews/luckywatch): Highly Recommended, 10/10; Video Rewards; min payout $0.10; pays via FaucetPay (Crypto); STATUS: Status update, 10 November 2026: our watch-to-earn pick is now ClipCoin
 - [FomoEarn](https://1dollaperday.com/reviews/fomoearn): Unproven; Watch-to-earn Android app; min payout $0.01 (USDT BEP-20)
 - [PixelPointTV Network](https://1dollaperday.com/reviews/pixelpointtv): Unproven; Watch-to-earn video sites; pays via Not stated
 - [VimeoViews](https://1dollaperday.com/reviews/vimeoviews): Use Caution; Sponsored-video watch-to-earn; min payout Not stated; pays via PayPal, crypto, bank, mobile money (claimed)

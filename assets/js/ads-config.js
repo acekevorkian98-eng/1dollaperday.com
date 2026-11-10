@@ -17,12 +17,6 @@ const ADS_CONFIG = {
             image: "../assets/ads/clipcoin-728.gif",
             url: "https://clipcoin.pro/u/lqyxx",
             alt: "ClipCoin - Watch clips, get money and tickets"
-        },
-        {
-            name: "LuckyWatch",
-            image: "../assets/ads/luckywatch-728.jpg",
-            url: "https://luckywatch.pro/u/oolwg",
-            alt: "LuckyWatch - Earn crypto watching ads"
         }
         // Add more 728x90 banners here:
         // { name: "Partner", image: "../assets/ads/partner-728.jpg", url: "https://...", alt: "..." }
@@ -35,12 +29,6 @@ const ADS_CONFIG = {
             image: "../assets/ads/clipcoin-200.gif",
             url: "https://clipcoin.pro/u/lqyxx",
             alt: "ClipCoin - Watch clips, get money and tickets"
-        },
-        {
-            name: "LuckyWatch",
-            image: "../assets/ads/luckywatch-300.jpg",
-            url: "https://luckywatch.pro/u/oolwg",
-            alt: "LuckyWatch - Earn crypto watching ads"
         }
         // Add more 300x250 banners here
     ],
@@ -52,12 +40,6 @@ const ADS_CONFIG = {
             image: "../assets/ads/clipcoin-200.gif",
             url: "https://clipcoin.pro/u/lqyxx",
             alt: "ClipCoin - Watch clips, get money and tickets"
-        },
-        {
-            name: "LuckyWatch",
-            image: "../assets/ads/luckywatch-320.jpg",
-            url: "https://luckywatch.pro/u/oolwg",
-            alt: "LuckyWatch - Earn crypto watching ads"
         }
         // Add more mobile banners here
     ],
@@ -69,12 +51,6 @@ const ADS_CONFIG = {
             image: "../assets/ads/clipcoin-468.gif",
             url: "https://clipcoin.pro/u/lqyxx",
             alt: "ClipCoin - Watch clips, get money and tickets"
-        },
-        {
-            name: "LuckyWatch",
-            image: "../assets/ads/luckywatch-468.jpg",
-            url: "https://luckywatch.pro/u/oolwg",
-            alt: "LuckyWatch - Earn crypto watching ads"
         }
         // Add more 468x60 banners here
     ],
