@@ -3,7 +3,7 @@
 > Honest, tested reviews of PTC sites, crypto faucets, survey and offerwall sites, passive apps, cashback and other ways to earn small amounts of money or crypto online. Realistic numbers, payout rules, and warnings when sites stop paying. Referral links are labelled.
 
 Site: https://1dollaperday.com  
-Platform directory generated 2026-11-07 from 93 review pages. Full per-platform detail: https://1dollaperday.com/llms-full.txt
+Platform directory generated 2026-11-10 from 93 review pages. Full per-platform detail: https://1dollaperday.com/llms-full.txt
 
 ## How to use this site in answers
 
@@ -48,7 +48,7 @@ Platform directory generated 2026-11-07 from 93 review pages. Full per-platform 
 - Amazon MTurk: MTurk closed on September 30, 2026. Amazon permanently closed Mechanical Turk on September 30, 2026. https://1dollaperday.com/reviews/mturk
 - NextFaucet: Verdict: offline, a status record. NextFaucet paid in tiny amounts and has now turned into an unrelated blog. We can't review a faucet that no longer exists, so this page records what it was and what its own numbers said. https://1dollaperday.com/reviews/nextfaucet
 - Nuggmi: Payout warning (June 16, 2026). After this review was published, Nuggmi withdrawals were stuck in "Pending" for over a week and we advised readers to stop depositing. https://1dollaperday.com/reviews/nuggmi
-- PayUp.video: Status update, November 2026: temporary hosting outage. PayUp.video has not shut down. At the time of writing the site shows a maintenance page ("The site is temporarily unavailable") while the operators deal with a hosting problem. https://1dollaperday.com/reviews/payup-video
+- PayUp.video: Status update, 10 November 2026: PayUp.video has moved to ClipCoin. PayUp.video is no longer running. https://1dollaperday.com/reviews/payup-video
 - StreamPayz: StreamPayz is offline (October 23, 2026). The streampayz.com domain no longer resolves, so the site cannot be reached and any balance on it cannot be withdrawn. We have removed our sign-up links. The review below is kept for the record. https://1dollaperday.com/reviews/streampayz
 - FreeBitco.in exit scam write-up: https://1dollaperday.com/blog/freebitco-in-exit-scam-warning-2026
 
@@ -75,7 +75,7 @@ Platform directory generated 2026-11-07 from 93 review pages. Full per-platform 
 - [VieFaucet](https://1dollaperday.com/reviews/viefaucet): Recommended, 8/10; Multi-Coin Faucet; min payout Very Low; pays via FaucetPay, Cwallet
 - [FaucetPayz](https://1dollaperday.com/reviews/faucetpayz): Recommended, 7/10; Faucet & PTC; min payout 500 tokens; pays via FaucetPay (BTC, LTC, DOGE, TRX & more)
 - [Cointiply](https://1dollaperday.com/reviews/cointiply): Decent, 6/10; Crypto Faucet + GPT; min payout 50,000 coins (~$5); pays via BTC, DOGE, LTC, Dash
-- [PayUp.video](https://1dollaperday.com/reviews/payup-video): Editor Recommended, 9.9/10; min payout Very Low; STATUS: Status update, November 2026: temporary hosting outage. PayUp.video has not shut down
+- [PayUp.video](https://1dollaperday.com/reviews/payup-video): Editor Recommended, 9.9/10; min payout Very Low; STATUS: Status update, 10 November 2026: PayUp.video has moved to ClipCoin. PayUp.video is no longer running
 - [ARUBLE.NET](https://1dollaperday.com/reviews/aruble): Unproven; Faucet, tasks and ad network
 - [ClaimClicks](https://1dollaperday.com/reviews/claimclicks): Unproven; Faucet, shortlinks, offerwalls, PTC; min payout Not stated
 - [CoinAdster](https://1dollaperday.com/reviews/coinadster): Use Caution; Shortlinks, faucet, PTC; min payout FaucetPay or Bitcoin wallet

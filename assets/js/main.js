@@ -671,7 +671,7 @@ function initNewsletter() {
 // PROMO POPUP
 // ============================================
 function initPromoPopup() {
-    if (localStorage.getItem('snazzyPopupDismissed')) {
+    if (localStorage.getItem('clipcoinPopupDismissed')) {
         return;
     }
 
@@ -680,15 +680,15 @@ function initPromoPopup() {
             <div class="promo-popup promo-snazzy-popup">
                 <button class="promo-popup-close" onclick="closePromoPopup()" aria-label="Close">&times;</button>
                 <div class="promo-popup-header promo-snazzy-header">
-                    <span class="promo-success-icon">&#9889;</span>
-                    <h3>SnazzyPTC: our stab at the best PTC site</h3>
+                    <span class="promo-success-icon">&#9654;</span>
+                    <h3>PayUp.video is now ClipCoin</h3>
                 </div>
                 <div class="promo-popup-content promo-success-content">
-                    <p class="promo-highlight-text">We built <strong>SnazzyPTC</strong> to fix what bugs us about PTC sites: no deposit, published payout rules and a $0.10 cash-out to FaucetPay.</p>
-                    <p class="promo-feature-text">Short daily sessions with streak bonuses. Rewards are credited in BUCK, a Solana token whose value moves with the market, so cash out as you go.</p>
-                    <p class="promo-cta-text">Sign up free with Google. No password, no deposit.</p>
-                    <a href="https://snazzyptc.co.za/auth/register" target="_blank" rel="noopener" class="promo-snazzy-cta">Try SnazzyPTC free &rarr;</a>
-                    <p style="font-size:0.78rem;color:#8794b0;margin-top:0.75rem">New and still building its track record. <a href="/reviews/snazzyptc" style="color:#a9c6ff">How it works</a><button onclick="closePromoPopup()" style="margin-left:1rem;background:none;border:none;color:#8794b0;text-decoration:underline;cursor:pointer;font-size:0.78rem;padding:0">No thanks</button></p>
+                    <a href="https://clipcoin.pro/u/lqyxx" target="_blank" rel="noopener sponsored" data-ref="clipcoin-popup" style="display:block;text-align:center;margin-bottom:0.75rem"><img src="/assets/ads/clipcoin-200.gif" width="200" height="300" alt="ClipCoin - Watch clips, get money and tickets" style="max-height:38vh;width:auto;border-radius:10px"></a>
+                    <p class="promo-highlight-text">PayUp.video's team launched <strong>ClipCoin</strong> after their old hosting was hacked. Watch YouTube clips from 12 seconds, or let the Android app auto-view.</p>
+                    <p class="promo-feature-text">Cash out to FaucetPay USDT, TRX, USDT BEP20 and more. Old PayUp balances only move across if a backup is recovered.</p>
+                    <a href="https://clipcoin.pro/u/lqyxx" target="_blank" rel="noopener sponsored" data-ref="clipcoin-popup" class="promo-snazzy-cta">Join ClipCoin free &rarr;</a>
+                    <p style="font-size:0.78rem;color:#8794b0;margin-top:0.75rem">New, no payout record with us yet. Referral link. <a href="/reviews/payup-video" style="color:#a9c6ff">What happened to PayUp</a><button onclick="closePromoPopup()" style="margin-left:1rem;background:none;border:none;color:#8794b0;text-decoration:underline;cursor:pointer;font-size:0.78rem;padding:0">No thanks</button></p>
                 </div>
             </div>
         </div>
@@ -708,7 +708,7 @@ function closePromoPopup() {
         popup.classList.remove('active');
         setTimeout(() => popup.remove(), 300);
     }
-    try { localStorage.setItem('snazzyPopupDismissed', '1'); } catch(e) {}
+    try { localStorage.setItem('clipcoinPopupDismissed', '1'); } catch(e) {}
 }
 
 // ============================================
