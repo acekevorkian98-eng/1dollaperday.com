@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": "clipcoin-payment-proof",
+      "title": "ClipCoin Payment Proof: 0.0988 USDT Paid to Our FaucetPay Wallet",
+      "excerpt": "ClipCoin paid 0.0988 USDT into our FaucetPay wallet on 12 November 2026. The proof, one day's earnings from 493 views, and why we estimate about $0.20 a day.",
+      "category": "Payment Proof",
+      "section": "blog",
+      "url": "clipcoin-payment-proof.html",
+      "date": "November 12, 2026",
+      "readTime": "4 min read"
+    },
+    {
       "id": "clipcoin-app-safety-report",
       "title": "Is the ClipCoin App Safe? Our Full APK Security Report (v1.0.1)",
       "excerpt": "We decompiled the ClipCoin Android app. No malware found, but it uses Accessibility to run YouTube for you. Permissions, data, YouTube account risk and how to use it safely.",

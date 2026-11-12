@@ -688,7 +688,7 @@ function initPromoPopup() {
                     <p class="promo-highlight-text">PayUp.video's team launched <strong>ClipCoin</strong> after a hosting hack, and LuckyWatch is still on a temporary site. Watch YouTube clips from 12 seconds, or let the Android app auto-view.</p>
                     <p class="promo-feature-text">Cash out to FaucetPay USDT, TRX, USDT BEP20 and more. Old PayUp balances only move across if a backup is recovered.</p>
                     <a href="https://clipcoin.pro/u/lqyxx" target="_blank" rel="noopener sponsored" data-ref="clipcoin-popup" class="promo-snazzy-cta">Join ClipCoin free &rarr;</a>
-                    <p style="font-size:0.78rem;color:#8794b0;margin-top:0.75rem">New, no payout record with us yet. Referral link. <a href="/reviews/clipcoin" style="color:#a9c6ff">Read our review</a> &middot; <a href="/blog/clipcoin-app-safety-report" style="color:#a9c6ff">Is the app safe?</a><button onclick="closePromoPopup()" style="margin-left:1rem;background:none;border:none;color:#8794b0;text-decoration:underline;cursor:pointer;font-size:0.78rem;padding:0">No thanks</button></p>
+                    <p style="font-size:0.78rem;color:#8794b0;margin-top:0.75rem">Paid us 0.0988 USDT to FaucetPay on 12 Nov 2026 (<a href="/blog/clipcoin-payment-proof" style="color:#a9c6ff">proof</a>). Referral link. <a href="/reviews/clipcoin" style="color:#a9c6ff">Read our review</a> &middot; <a href="/blog/clipcoin-app-safety-report" style="color:#a9c6ff">Is the app safe?</a><button onclick="closePromoPopup()" style="margin-left:1rem;background:none;border:none;color:#8794b0;text-decoration:underline;cursor:pointer;font-size:0.78rem;padding:0">No thanks</button></p>
                 </div>
             </div>
         </div>

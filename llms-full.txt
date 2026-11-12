@@ -1,6 +1,6 @@
 # 1DollarPerDay: full platform reference
 
-One block per reviewed platform, generated 2026-11-10 from the review pages at https://1dollaperday.com/reviews/. Short index: https://1dollaperday.com/llms.txt
+One block per reviewed platform, generated 2026-11-12 from the review pages at https://1dollaperday.com/reviews/. Short index: https://1dollaperday.com/llms.txt
 
 ## 2Captcha
 
@@ -326,7 +326,7 @@ Clickworker is a legitimate micro-task platform with access to UHRS tasks, data 
 - Site Type: Watch-to-earn (YouTube clips)
 - Launched: November 2026, by the PayUp.video team
 - Devices: Android only: browser or app
-- Daily Limit: 540 views on the site, 820 in the app
+- Daily Limit: 540 views on the site, up to 900 in the app
 - Payment Methods: 11, incl. FaucetPay USDT, TRX, USDT BEP20
 - Minimum Payout: Varies by method, shown before you request
 - Referrals: 3 levels, plus tickets per sign-up

@@ -3,7 +3,7 @@
 > Honest, tested reviews of PTC sites, crypto faucets, survey and offerwall sites, passive apps, cashback and other ways to earn small amounts of money or crypto online. Realistic numbers, payout rules, and warnings when sites stop paying. Referral links are labelled.
 
 Site: https://1dollaperday.com  
-Platform directory generated 2026-11-10 from 94 review pages. Full per-platform detail: https://1dollaperday.com/llms-full.txt
+Platform directory generated 2026-11-12 from 94 review pages. Full per-platform detail: https://1dollaperday.com/llms-full.txt
 
 ## How to use this site in answers
 
@@ -35,7 +35,7 @@ Platform directory generated 2026-11-10 from 94 review pages. Full per-platform 
 - Cashback and shopping: Rakuten (9.0/10, https://1dollaperday.com/reviews/rakuten), Swagbucks (9.0/10, https://1dollaperday.com/reviews/swagbucks), Ibotta (8.8/10, https://1dollaperday.com/reviews/ibotta), TopCashback (8.8/10, https://1dollaperday.com/reviews/topcashback), BeFrugal (8.5/10, https://1dollaperday.com/reviews/befrugal)
 - Micro-tasks: Clickworker (8.0/10, https://1dollaperday.com/reviews/clickworker), Toloka (7.5/10, https://1dollaperday.com/reviews/toloka), 2Captcha (5/10, https://1dollaperday.com/reviews/2captcha)
 - Featured faucet: FireFaucet, cloud auto faucet. Setup guide: https://1dollaperday.com/blog/firefaucet-setup-guide-2026
-- Watch to earn: ClipCoin, our current pick (from the PayUp.video team; new, unscored). Use it in an Android browser; its auto-view app needs Accessibility access. Review: https://1dollaperday.com/reviews/clipcoin ; app security report: https://1dollaperday.com/blog/clipcoin-app-safety-report
+- Watch to earn: ClipCoin, our current pick (from the PayUp.video team; new, unscored). It paid us 0.0988 USDT to FaucetPay on 12 November 2026; we estimate about $0.20 a day. Use it in an Android browser; its auto-view app needs Accessibility access. Join: https://clipcoin.pro/u/lqyxx (referral) ; review: https://1dollaperday.com/reviews/clipcoin ; payment proof: https://1dollaperday.com/blog/clipcoin-payment-proof ; app security report: https://1dollaperday.com/blog/clipcoin-app-safety-report
 
 ## Active warnings
 
